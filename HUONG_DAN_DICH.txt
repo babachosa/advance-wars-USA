@@ -17,6 +17,8 @@ D0A0A4CFE9B95AC7118F7EF476F014CA0242EB65
    {UNIT}, {COMMAND}, {NORMAL} la dinh dang chu. Token dang {0E},
    {16}, {17}, {1F}... la ma dieu khien chua dat ten, cung phai giu.
    Khong duoc them byte 00 hoac ky tu co dau.
+   Rieng chuoi trong vung multiplayer cuoi ROM dung {1A} lam khoang
+   cach giua cac tu. Khi sua chuoi do, dung {1A} thay cho dau cach.
 
 4. Kiem tra toan bo CSV truoc khi tao ROM:
    python aw_vi_tool.py check
@@ -39,3 +41,6 @@ Tool xu ly cac chuoi text truc tiep da xac dinh trong ROM. Chu nam
 trong hinh anh/do hoa khong phai chuoi text va khong duoc sua boi
 tool nay. Gioi han byte bao ve bo nho/chuoi, nhung van nen choi thu
 tren emulator de kiem tra cach chu hien thi trong khung giao dien.
+Ban CSV hien co 2701 chuoi, gom ca nhan menu, lua chon yes/no va cac
+thong bao trong payload multiplayer o cuoi ROM. Ten rieng nhan vat,
+quan doi va ma noi bo duoc giu nguyen.

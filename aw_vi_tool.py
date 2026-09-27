@@ -40,6 +40,87 @@ NON_TEXT_RANGES = (
     (0x2F0D30, 0x2F0E9C),  # font character demonstration strings
 )
 
+# Verified strings missed by the general NUL scanner: short dialogue, labels
+# preceded by display commands, and the two choices in one fixed-width field.
+# Keep exact source bytes here so a changed layout cannot silently corrupt ROM.
+SUPPLEMENTAL_TEXT = {
+    0x082704: b"BLACK",
+    0x08273C: b"COM",
+    0x280B2A: b"Intel",
+    0x280B3A: b"End",
+    0x282CA0: b"B Cptr",
+    0x282CA8: b"T Cptr",
+    0x2E9F14: b"   Yes     No",
+    0x2EA284: b"Lost",
+    0x2EC710: b"A rich, green plain.\x0dEasy to traverse,\x0dbut offers little\x0ddefensive cover.",
+    0x2F13A8: b"The war starts here! So,\x0d\x15, are you ready?",
+    0x3B7F94: b"\x0cSomething's wrong with the link.\x0dPress START to reset.\x0f",
+    0x2F62D0: b"Ha, ha, ha, ha, ha!\x0f",
+    0x2FB6E4: b"Well, I... Uhm...\x0f",
+    0x2FCA9C: b"Hmm...\x0f",
+    0x2FCBAC: b"But, but...\x0f",
+    0x2FCCA8: b"Hmm... ",
+    0x2FDAC0: b"I'm... so... groggy...\x0f",
+    0x2FFD6C: b"But I...\x0f",
+    0x30208C: b"But I...\x0f",
+    0x30438C: b"But I...\x0f",
+    0x3075DC: b"Yes!!! I won!",
+    # A separate multiplayer client payload near the end of the ROM.
+    0x3D8ED8: b"End", 0x3D8EDC: b"Options",
+    0x3D8EE4: b"Yield", 0x3D8EEC: b"Wait",
+    0x3D8EF4: b"Join", 0x3D8EFC: b"Fire",
+    0x3D923C: b"WAIT", 0x3D9264: b"NOT CONNECTED",
+    0x3D9274: b"READY", 0x3D927C: b"ERROR",
+    0x3D9284: b"CONNECTED", 0x3D9290: b"MASTER",
+    0x3D92F8: b"PRESS START", 0x3D9304: b"ENTRY WAIT",
+    0x3F3604: b"   yes      no",
+    0x3F609C: b"The Orange Star Army has lost!\x0e\x0e",
+    0x3F60C0: b"The Blue Moon Army has lost!\x0e\x0e",
+    0x3F60E0: b"The Green Earth Army has lost!\x0e\x0e",
+    0x3F6104: b"The Yellow Comet Army has lost!\x0e\x0e",
+    0x3F6264: b"If you yield, you lose.\x0dDo you really yield?\x0e\x18",
+    0x3F6A8C: (b"The\x1aAlara\x1aregion\x1ais\x1aquite\x1aremote.\x0f"
+               b"This\x1ais\x1awhy\x1aOlaf\x1ahasn't\x1adeployed\x0d"
+               b"many\x1atroops\x1ato\x1athe\x1aarea.\x0f"
+               b"You\x1ayourself\x1ahave\x1atwo\x1a\x82infantry\x80\x1aunits\x0d"
+               b"under\x1ayour\x1acommand.\x0f"),
+}
+SUPPLEMENTAL_TEXT.update({
+    offset: label.encode("ascii") for offset, label in {
+        0x28B552: "Unit", 0x28B55A: "Intel", 0x28B562: "Power",
+        0x28B56A: "Save", 0x28B572: "Options", 0x28B57E: "End",
+        0x28B586: "Terms", 0x28B58E: "Status", 0x28B59A: "CO",
+        0x28B5A2: "Rules", 0x28B5AA: "Music On",
+        0x28B5B6: "Music Off", 0x28B5C2: "Visual A",
+        0x28B5CE: "Visual B", 0x28B5DA: "Visual C",
+        0x28B5E6: "No Visual", 0x28B5F2: "Delete",
+        0x28B5FE: "Yield", 0x28B604: "Exit Map",
+        0x28B612: "Victory", 0x28B61E: "Climate",
+        0x28B62A: "Fire", 0x28B632: "Fire",
+        0x28B63A: "Capt", 0x28B642: "Capt",
+        0x28B64E: "Load", 0x28B656: "Drop",
+        0x28B65E: "Drop", 0x28B666: "Join",
+        0x28B66E: "Supply", 0x28B67A: "Wait",
+        0x28B682: "Dive", 0x28B68A: "Rise",
+    }.items()
+})
+SUPPLEMENTAL_TEXT.update({
+    offset: value.encode("latin-1") + b"\x0f" for offset, value in {
+        0x2BC74C: "Um... No, I don't.",
+        0x2BCC88: "Well, um...", 0x2BE1C0: "Um...",
+        0x2BE8C0: "Grrr... I... I lost again...",
+        0x2BF494: "Oooh...you...", 0x2C0608: "Yeah... Sure...",
+        0x2C079C: "Oh, I...", 0x2C0CC0: "I... I lost to...a girl?",
+        0x2C0DC8: "Oh, OK...", 0x2C1114: "Rrr...",
+        0x2C1228: "Oh, OK...", 0x2C14D8: "Oh, OK...",
+        0x2C29D0: "But... But... Sonja, I...",
+        0x2C2AE8: "Well, I...", 0x2C2B60: "Um...",
+        0x2C2EEC: "Wha...?", 0x2C34D4: "Oh...",
+        0x2C39A4: "(sigh)...", 0x2C4470: "Um...",
+        0x2C8C04: "Hmm.", 0x2C9FF8: "Bu...but...",
+    }.items()
+})
+
 LATIN1_GLYPHS = {
     0xA1, 0xBF, 0xE0, 0xE1, 0xE2, 0xE4, 0xE7, 0xE8, 0xE9,
     0xEA, 0xEB, 0xEC, 0xED, 0xEE, 0xEF, 0xF1, 0xF2, 0xF3,
@@ -56,6 +137,7 @@ ALLOWED_SOURCE = set(range(0x20, 0x7F)) | LATIN1_GLYPHS | CONTROLS
 CSV_FIELDS = ("offset", "max_bytes", "original_hex", "english", "vietnamese")
 TOKEN_TO_BYTE = {v: k for k, v in CONTROL_NAMES.items()}
 TOKEN_TO_BYTE.update({f"{k:02X}": k for k in CONTROLS if k not in CONTROL_NAMES})
+TOKEN_TO_BYTE["1A"] = 0x1A  # word separator in the multiplayer payload
 TOKEN_RE = re.compile(r"\{([A-Z]+|[0-9A-F]{2})\}")
 
 
@@ -118,13 +200,22 @@ def extract(data: bytes) -> list[tuple[int, bytes]]:
             if not internal and looks_like_text(raw, pos in targets):
                 entries.append((pos, raw))
             pos = end + 1
-    return entries
+    existing = {offset for offset, _ in entries}
+    for offset, raw in SUPPLEMENTAL_TEXT.items():
+        if data[offset:offset + len(raw)] != raw:
+            raise ToolError(f"Chuoi bo sung khong khop ROM tai {offset:06X}")
+        if offset in existing:
+            raise ToolError(f"Chuoi bo sung bi trung tai {offset:06X}")
+        entries.append((offset, raw))
+    return sorted(entries)
 
 
 def display(raw: bytes) -> str:
     parts = []
     for byte in raw:
-        if byte in CONTROLS:
+        if byte == 0x1A:
+            parts.append("{1A}")
+        elif byte in CONTROLS:
             parts.append("{" + CONTROL_NAMES.get(byte, f"{byte:02X}") + "}")
         elif byte in (ord("{"), ord("}")):
             parts.append(f"{{{byte:02X}}}")
