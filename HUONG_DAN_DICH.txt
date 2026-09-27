@@ -1,0 +1,41 @@
+TOOL DUMP / NHAP LAI TEXT ADVANCE WARS (USA)
+=========================================
+
+Can Python 3.10 tro len. Tool chi nhan ROM USA 4 MiB co SHA-1:
+D0A0A4CFE9B95AC7118F7EF476F014CA0242EB65
+
+1. File advance_wars_en_vi.csv da duoc dump san. Mo bang trinh sua CSV
+   co ho tro UTF-8. Chi dien cot vietnamese. De trong thi giu nguyen
+   tieng Anh. Khong sua offset, max_bytes, original_hex, english.
+
+2. Viet tieng Viet KHONG DAU, chi dung ky tu ASCII. Vi du:
+   english: Design Maps
+   vietnamese: Tao ban do
+
+3. Giu nguyen tat ca token trong ngoac nhon, dung thu tu cua chung:
+   {NL} xuong dong; {PAGE} sang doan/trang; {PLAYER} ten nguoi choi;
+   {UNIT}, {COMMAND}, {NORMAL} la dinh dang chu. Token dang {0E},
+   {16}, {17}, {1F}... la ma dieu khien chua dat ten, cung phai giu.
+   Khong duoc them byte 00 hoac ky tu co dau.
+
+4. Kiem tra toan bo CSV truoc khi tao ROM:
+   python aw_vi_tool.py check
+
+5. Khi khong co loi, tao ROM moi:
+   python aw_vi_tool.py build
+   Ket qua: Advance Wars (Vietnamese).gba
+
+Tool se tu choi ban dich neu so byte vuot qua max_bytes hoac ma dieu
+khien bi thay doi. Loi ghi ro offset va gioi han de viet lai ngan hon.
+Neu mot dong dai hon dong goc nhung toan chuoi van vua cho, ROM van
+an toan ve byte; khi choi thu hay kiem tra chu co bi tran khung khong.
+ROM goc khong bi sua. Neu da co ROM dau ra, hay doi ten/di chuyen
+file do truoc khi build lai; tool khong tu ghi de.
+
+Neu can dump lai CSV tu ROM goc:
+   python aw_vi_tool.py dump --csv ten_moi.csv
+
+Tool xu ly cac chuoi text truc tiep da xac dinh trong ROM. Chu nam
+trong hinh anh/do hoa khong phai chuoi text va khong duoc sua boi
+tool nay. Gioi han byte bao ve bo nho/chuoi, nhung van nen choi thu
+tren emulator de kiem tra cach chu hien thi trong khung giao dien.
