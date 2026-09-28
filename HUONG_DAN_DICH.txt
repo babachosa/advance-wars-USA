@@ -41,6 +41,14 @@ Tool xu ly cac chuoi text truc tiep da xac dinh trong ROM. Chu nam
 trong hinh anh/do hoa khong phai chuoi text va khong duoc sua boi
 tool nay. Gioi han byte bao ve bo nho/chuoi, nhung van nen choi thu
 tren emulator de kiem tra cach chu hien thi trong khung giao dien.
-Ban CSV hien co 2701 chuoi, gom ca nhan menu, lua chon yes/no va cac
-thong bao trong payload multiplayer o cuoi ROM. Ten rieng nhan vat,
-quan doi va ma noi bo duoc giu nguyen.
+Ban CSV hien co 2829 chuoi, gom ca nhan menu, lua chon yes/no, ten dia
+hinh, nhan noi bo va thong bao trong payload multiplayer o cuoi ROM.
+2701 dong cu van giu nguyen; 73/128 dong moi da dien ban dich, 55 dong
+la ten rieng, nhan debug hoac ma ky thuat duoc giu nguyen. Cot english cua
+cac dong Shift-JIS moi hien thi text tieng Nhat goc. Ban dich van chi
+dung ASCII; can kiem tra font multiplayer tieng Nhat trong emulator.
+Ten rieng nhan vat, quan doi va ma noi bo cu duoc giu nguyen.
+
+Rà toàn ROM tìm các cụm chữ chưa có trong CSV:
+   python aw_vi_tool.py audit
+Xem ROM_TEXT_AUDIT.txt để biết kết quả và giới hạn.

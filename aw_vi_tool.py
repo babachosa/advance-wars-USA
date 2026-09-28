@@ -104,6 +104,41 @@ SUPPLEMENTAL_TEXT.update({
         0x28B682: "Dive", 0x28B68A: "Rise",
     }.items()
 })
+
+# Extra direct text found by a full 4 MiB audit. The first range is internal
+# diagnostics; the remaining ranges belong to the multiplayer client payload.
+ADDITIONAL_ASCII_RANGES = (
+    (0x080D44, 0x080D54),  # Map10/Map11
+    (0x081880, 0x081965),  # internal status labels and format strings
+    (0x0820AC, 0x0821E0),
+    (0x0826E4, 0x082880),  # internal versus settings labels
+    (0x11A838, 0x11A884),  # internal status fields
+    (0x11A8D0, 0x11A916),  # internal debug format strings
+    (0x28404C, 0x2840B4),  # terrain labels
+    (0x2EA200, 0x2EA25A),  # CO name table
+    (0x3D8CD8, 0x3D8D36),
+    (0x3D92B0, 0x3D92E1),
+)
+JAPANESE_TEXT_RANGES = (
+    (0x3D8C0C, 0x3D8CBD),
+    (0x3D8D44, 0x3D8E29),
+    (0x3D8F74, 0x3D918B),
+)
+ADDITIONAL_EXACT = {
+    0x07ED20: b"Advance",  # embedded build label
+    0x08192C: b"BUTAI ZENMETU",
+    0x0820EC: b"  FLASH",
+    0x082178: b"  FLASHCLEAR     (L.R.SELECT)",
+    0x08277C: b"HEL2",
+    0x0827D4: b"REV",
+    0x2FA190: b"Grit... ",
+    0x2FCA14: b"Uh...\x0f",
+    0x2FDAAC: b"...hmm...\x0f",
+}
+
+
+def japanese_offset(offset: int) -> bool:
+    return any(start <= offset < stop for start, stop in JAPANESE_TEXT_RANGES)
 SUPPLEMENTAL_TEXT.update({
     offset: value.encode("latin-1") + b"\x0f" for offset, value in {
         0x2BC74C: "Um... No, I don't.",
@@ -139,6 +174,10 @@ TOKEN_TO_BYTE = {v: k for k, v in CONTROL_NAMES.items()}
 TOKEN_TO_BYTE.update({f"{k:02X}": k for k in CONTROLS if k not in CONTROL_NAMES})
 TOKEN_TO_BYTE["1A"] = 0x1A  # word separator in the multiplayer payload
 TOKEN_RE = re.compile(r"\{([A-Z]+|[0-9A-F]{2})\}")
+PRINTF_RE = re.compile(rb"%[-+#0]*\d*(?:\.\d+)?[diouxXfFeEgGaAcspn%]")
+PHRASE_RE = re.compile(
+    rb"[A-Za-z][A-Za-z'.,!? -]{2,60}(?: [A-Za-z][A-Za-z'.,!? -]{2,60})+"
+)
 
 
 class ToolError(Exception):
@@ -207,10 +246,43 @@ def extract(data: bytes) -> list[tuple[int, bytes]]:
         if offset in existing:
             raise ToolError(f"Chuoi bo sung bi trung tai {offset:06X}")
         entries.append((offset, raw))
+    existing = {offset for offset, _ in entries}
+    for offset, raw in ADDITIONAL_EXACT.items():
+        if data[offset:offset + len(raw)] != raw:
+            raise ToolError(f"Chuoi bo sung khong khop ROM tai {offset:06X}")
+        if offset in existing:
+            raise ToolError(f"Chuoi bo sung bi trung tai {offset:06X}")
+        entries.append((offset, raw))
+        existing.add(offset)
+    for start, stop in ADDITIONAL_ASCII_RANGES + JAPANESE_TEXT_RANGES:
+        pos = start
+        while pos < stop:
+            end = data.find(b"\0", pos, stop)
+            if end < 0:
+                raise ToolError(f"Vung text bo sung khong co byte 00 tai {pos:06X}")
+            raw = data[pos:end]
+            if raw and pos not in existing:
+                if japanese_offset(pos):
+                    try:
+                        decoded = raw.decode("shift_jis")
+                    except UnicodeDecodeError as exc:
+                        raise ToolError(f"Shift-JIS khong hop le tai {pos:06X}") from exc
+                    include = bool(decoded)
+                else:
+                    include = (
+                        len(raw) >= 2 and all(0x20 <= byte <= 0x7E for byte in raw)
+                        and any(65 <= byte <= 90 or 97 <= byte <= 122 for byte in raw)
+                    )
+                if include:
+                    entries.append((pos, raw))
+                    existing.add(pos)
+            pos = end + 1
     return sorted(entries)
 
 
-def display(raw: bytes) -> str:
+def display(raw: bytes, offset: int | None = None) -> str:
+    if offset is not None and japanese_offset(offset):
+        return raw.decode("shift_jis")
     parts = []
     for byte in raw:
         if byte == 0x1A:
@@ -264,8 +336,13 @@ def line_budgets(raw: bytes) -> list[int]:
 def validate_translation(original: bytes, translated: bytes, offset: int) -> None:
     if b"\0" in translated:
         raise ToolError(f"{offset:06X}: bản dịch chứa byte 00")
-    if control_order(translated) != control_order(original):
+    if japanese_offset(offset):
+        if any(not 0x20 <= byte <= 0x7E for byte in translated):
+            raise ToolError(f"{offset:06X}: ban dich Shift-JIS chi duoc dung ASCII")
+    elif control_order(translated) != control_order(original):
         raise ToolError(f"{offset:06X}: thiếu, thừa hoặc đổi thứ tự token điều khiển")
+    if not japanese_offset(offset) and PRINTF_RE.findall(translated) != PRINTF_RE.findall(original):
+        raise ToolError(f"{offset:06X}: ma dinh dang kieu %s/%02d da bi doi")
     if len(translated) > len(original):
         raise ToolError(
             f"{offset:06X}: dài {len(translated)} byte, tối đa {len(original)} byte"
@@ -290,7 +367,7 @@ def dump(rom_path: Path, csv_path: Path) -> None:
                 "offset": f"{offset:06X}",
                 "max_bytes": len(raw),
                 "original_hex": raw.hex().upper(),
-                "english": display(raw),
+                "english": display(raw, offset),
                 "vietnamese": "",
             })
     print(f"Đã dump {len(entries)} chuỗi vào {csv_path}")
@@ -318,7 +395,7 @@ def read_translations(csv_path: Path, data: bytes) -> list[tuple[int, bytes, byt
                     raise ToolError(f"{offset:06X}: max_bytes đã bị sửa")
                 if row["original_hex"].upper() != original.hex().upper():
                     raise ToolError(f"{offset:06X}: original_hex không khớp ROM")
-                if row["english"] != display(original):
+                if row["english"] != display(original, offset):
                     raise ToolError(f"{offset:06X}: cột english đã bị sửa")
                 value = row["vietnamese"]
                 if value is None:
@@ -378,12 +455,34 @@ def build(rom_path: Path, csv_path: Path, output_path: Path, check_only: bool) -
     print(f"Đã tạo ROM: {output_path} ({len(diffs)} byte thay đổi)")
 
 
+def audit(rom_path: Path) -> None:
+    data = load_rom(rom_path)
+    entries = extract(data)
+    # Mask every confirmed string before scanning, including strings whose
+    # match would otherwise extend into neighboring, unconfirmed bytes.
+    uncovered = bytearray(data)
+    for offset, raw in entries:
+        uncovered[offset:offset + len(raw)] = b"\0" * len(raw)
+    candidates = []
+    for match in PHRASE_RE.finditer(uncovered):
+        pos = match.start()
+        raw = match.group()
+        letters = sum(65 <= byte <= 90 or 97 <= byte <= 122 for byte in raw)
+        if len(raw) >= 11 and letters / len(raw) >= 0.65:
+            candidates.append((pos, raw))
+    print(f"Đã quét {len(data)} byte; CSV bao phủ {len(entries)} chuỗi trực tiếp.")
+    print(f"Ứng viên cụm từ ngoài vùng đã xác minh: {len(candidates)}")
+    for pos, raw in candidates:
+        print(f"  {pos:06X}: {raw[:80]!r}")
+    print("Bộ quét không chứng minh được text trong đồ họa hoặc mọi dạng nén.")
+
+
 def main() -> int:
     if hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(encoding="utf-8", errors="replace")
         sys.stderr.reconfigure(encoding="utf-8", errors="replace")
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("command", choices=("dump", "check", "build"))
+    parser.add_argument("command", choices=("dump", "check", "build", "audit"))
     parser.add_argument("--rom", type=Path, default=DEFAULT_ROM)
     parser.add_argument("--csv", type=Path, default=DEFAULT_CSV)
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
@@ -391,6 +490,8 @@ def main() -> int:
     try:
         if args.command == "dump":
             dump(args.rom, args.csv)
+        elif args.command == "audit":
+            audit(args.rom)
         else:
             build(args.rom, args.csv, args.output, check_only=args.command == "check")
     except (ToolError, OSError, csv.Error) as exc:

@@ -1,0 +1,25 @@
+RA SOAT TEXT ROM ADVANCE WARS 1 (USA)
+====================================
+
+ROM: 4.194.304 byte; SHA-1 D0A0A4CFE9B95AC7118F7EF476F014CA0242EB65.
+
+Ban CSV cu co 2701 chuoi. Quet lai toan ROM cho thay no chua du:
+- 3 mau hoi thoai ngan tai 0x2FA190, 0x2FCA14, 0x2FDAAC.
+- Ten dia hinh va ten phe trong giao dien/multiplayer.
+- 53 chuoi Shift-JIS tieng Nhat trong payload multiplayer.
+- Mot so nhan debug/noi bo va chuoi dinh dang.
+
+Da bo sung 128 dong, tong cong 2829 chuoi truc tiep. Toan bo 2701 dong
+CSV cu duoc giu nguyen byte, gom ca ban dich. Trong 128 dong moi, 73 dong
+da duoc dien ban dich/ten thich hop; 55 dong ten rieng, debug hoac ma ky
+thuat duoc de nguyen. Tool "check" thanh cong: 2774 dong co ban dich,
+55 dong giu nguyen.
+
+Lenh "python aw_vi_tool.py audit" quet 4 MiB va hien 2 mau chu con
+lai ngoai CSV: 0x071895 "CTF CLF CDF C" va 0x31E087 "UtthftF XX ".
+Ca hai nam trong du lieu nhi phan, khong phai text co nghia.
+Thu giai nen 703 khoi LZ77 hop le khong tim them cum tu game ro rang.
+
+Gioi han: Phep quet khong chung minh tuyet doi rang khong co text
+trong cac dang nen khac hoac do hoa. Can kiem tra khi choi game de
+phat hien chuoi chi xuat hien o tinh huong hiem.
