@@ -1,0 +1,18 @@
+{
+  "start": 2460,
+  "size": 40,
+  "replacements": {
+    "304BB8": [["quả là sao?", "quá lạ sao?"]],
+    "304C94": [["có nhạc", "cô nhắc"]],
+    "304D70": [["căng tức", "càng tức"]],
+    "304E30": [["Tệ quả", "Tệ quá"]],
+    "304E4C": [["Ảnh tinh sao?", "Anh tính sao?"]],
+    "304F80": [["có ơn không nhi", "có ổn không nhỉ"]],
+    "304FA0": [["hạng giá dầu", "hàng giả đâu"]],
+    "304FFC": [["ca dậy", "cả đấy"]],
+    "30562C": [["Chao Sonja", "Chào Sonja"]],
+    "3056AC": [["Con em", "Còn em"]],
+    "3056E8": [["chuyện khinh sư", "chuyện khinh suất"], ["Cha cũng dẫn", "Cha cũng dặn"]],
+    "305754": [["dính qua mặt{NL}anh dạy chữ", "định qua mặt{NL}anh đấy chứ"]]
+  }
+}

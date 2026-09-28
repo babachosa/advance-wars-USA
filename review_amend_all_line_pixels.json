@@ -1,0 +1,17 @@
+{
+  "start": 0,
+  "size": 2829,
+  "replacements": {
+    "295384": [["Như {UNIT}APC{NORMAL}, {UNIT}trực thăng chở quân{NORMAL} có thể", "Như {UNIT}APC{NORMAL}, {UNIT}trực thăng chở quân{NORMAL} cũng"]],
+    "297114": [["Ta cũng có thể dùng {UNIT}xe tăng hạng trung{NORMAL}", "Có thể dùng {UNIT}xe tăng hạng trung{NORMAL}"]],
+    "2973FC": [["Với {UNIT}xe tăng hạng trung{NORMAL}, dùng {UNIT}pháo binh{NORMAL}", "Dùng {UNIT}pháo binh{NORMAL} đánh {UNIT}xe tăng hạng trung{NORMAL}"]],
+    "297648": [["Tôi muốn thử {UNIT}tên lửa phòng không{NORMAL} trước.", "Tôi sẽ thử {UNIT}tên lửa phòng không{NORMAL}."]],
+    "297688": [["{UNIT}Tên lửa phòng không{NORMAL} có thể {COMMAND}Bắn{NORMAL} quân bay", "{UNIT}Tên lửa phòng không{NORMAL} {COMMAND}Bắn{NORMAL} được quân bay"]],
+    "297778": [["bắn từ xa, không áp sát như {UNIT}phòng không{NORMAL}", "bắn xa, không áp sát như {UNIT}phòng không{NORMAL}"]],
+    "299670": [["Vậy {UNIT}tàu đổ bộ{NORMAL} và {COMMAND}trực thăng chở quân{NORMAL}", "{UNIT}Tàu đổ bộ{NORMAL} và {COMMAND}trực thăng chở quân{NORMAL}"]],
+    "299B38": [["Có thể {COMMAND}Thả xuống{NORMAL} chúng ở địa hình nào?", "Có thể {COMMAND}Thả xuống{NORMAL} ở địa hình nào?"]],
+    "29A3C0": [["{UNIT}tuần dương{NORMAL} và {UNIT}tàu ngầm{NORMAL} đánh được nó.", "{UNIT}tuần dương{NORMAL} và {UNIT}tàu ngầm{NORMAL} đánh nó."]],
+    "29C134": [["Để khởi động lại, nhấn START, SELECT,", "Muốn làm lại, nhấn START, SELECT,"]],
+    "29D4E0": [["Bạn có thể khởi động lại. Nếu{COMMAND}Đầu Hàng{NORMAL},", "Có thể làm lại. Nếu {COMMAND}Đầu Hàng{NORMAL},"]]
+  }
+}

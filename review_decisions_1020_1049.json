@@ -1,0 +1,28 @@
+{
+  "start": 1020,
+  "size": 30,
+  "replacements": {
+    "2BEDB8": [["Được làm", "Giỏi lắm"], ["thích tuyệt", "thích tuyết"]],
+    "2BEE1C": [["Andy hồi ký là", "Andy hơi kỳ lạ"]],
+    "2BEE80": [["Đánh chung", "Đánh chúng"], ["Hạ hạ hạ hạ hạ", "Ha ha ha ha ha"]],
+    "2BEED8": [["thua mai", "thua mãi"]],
+    "2BEF28": [["Ra ngoài chân bọn{NL}Orange Star đang chết kia", "Ra ngoài chặn bọn{NL}Orange Star đáng ghét kia"]],
+    "2BEF60": [["Nói dễ hơn lắm", "Nói thì dễ lắm"]],
+    "2BEFAC": [["Đừng cái", "Đừng cãi"]],
+    "2BF020": [["A, a", "À, à"]],
+    "2BF0A4": [["Không có nợ", "Không có nó"], ["qua biến", "qua biển"], ["dồn tấn công", "đòn tấn công"]],
+    "2BF1BC": [["giúp a?", "giúp à?"]],
+    "2BF1E4": [["Khoé không", "Khỏe không"]],
+    "2BF250": [["khá năng lực", "khá tài năng"], ["vượt anh đây", "vượt anh đấy"], ["Gặp sau nhẹ", "Gặp sau nhé"]],
+    "2BF36C": [["Ai sống nói", "Ai sống nổi"]],
+    "2BF3B8": [["Sep vui", "Sếp vui"]],
+    "2BF3DC": [["sức mạnh do sao", "sức mạnh đó sao"]],
+    "2BF40C": [["Ghế thật", "Ghê thật"]],
+    "2BF4A4": [["quân bạn gián tiếp", "quân bắn gián tiếp"], ["vướng vẻ", "vụng về"]],
+    "2BF500": [["Tấm bản", "Tầm bắn"], ["nguy hiểm thất nhì", "nguy hiểm thật nhỉ"]],
+    "2BF54C": [["vẫn ổn thời", "vẫn ổn thôi"]],
+    "2BF584": [["hòa thuận nhẹ", "hòa thuận nhé"]],
+    "2BF5E8": [["cũng làm dì Andy", "cùng làm đi Andy"]],
+    "2BF64C": [["Thứ một CO khác", "Thử một CO khác"], ["hay hơn đây", "hay hơn đấy"]]
+  }
+}

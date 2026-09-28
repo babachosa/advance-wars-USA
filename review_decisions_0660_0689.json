@@ -1,0 +1,26 @@
+{
+  "start": 660,
+  "size": 30,
+  "revisions": {
+    "2961EC": "Cái gì...{PAGE}Sở chỉ huy ta bị đột kích!{PAGE}Nell, đồ phiền phức...{PAGE}Biết không thắng nổi{NL}khi đánh trực diện, cô mới{PAGE}dùng mưu này sao!{NL}Grrr...{PAGE}Chuyện chưa xong đâu!{PAGE}",
+    "296448": "Ha ha ha!{PAGE}Nell! Lại điều quân ra{NL}chiến trường à?{PAGE}Nhưng cô tới muộn rồi!{PAGE}Bay đi, các chủ nhân bầu trời!{PAGE}Hạ hết quân sống sót, rồi{NL}diệt quân Nell phiền phức!{PAGE}",
+    "29681C": "{UNIT}Trực thăng chiến đấu{NORMAL} ở đúng{NL}vị trí rồi! {COMMAND}Đánh{NORMAL} nó đi!{PAGE}",
+    "296A60": "Để ý {UNIT}tiêm kích{NORMAL}, {UNIT}máy bay ném bom{NORMAL},{NL}{UNIT}trực thăng chiến đấu{NORMAL} và {UNIT}xe tăng hạng trung{NORMAL}.{PAGE}"
+  },
+  "replacements": {
+    "295908": [["Nền địa hình", "Vì thế địa hình"], ["công thu thêm", "cộng thêm"], ["bạn tự thú xem nhẹ", "bạn tự thử xem nhé"]],
+    "295A30": [["dùng rất đẹp", "đứng rất đẹp"]],
+    "295B04": [["Nó lại di chuyển linh hoạt,{NL}nên để triển khai", "Nó di chuyển linh hoạt,{NL}nên dễ triển khai"], ["Những quân bản đứng trước đây", "Những quân bạn dùng trước đây"], ["{UNIT}cho quân{NORMAL}", "{UNIT}chở quân{NORMAL}"], ["tổn hại xăng", "tốn hai xăng"], ["Không cần nhờ dùng{NL}con số đỡ đầu", "Không cần nhớ đúng{NL}con số đó đâu"], ["biết dù về{NL}hai đơn vị mới rời chứ", "biết đủ về{NL}hai đơn vị mới rồi chứ"], ["Cô muốn nghe", "Có muốn nghe"]],
+    "295DB4": [["Hãy để ý kỳ địch có", "Hãy để ý: địch có"], ["chỉ có mối", "chỉ có"], ["ngoài tạm đánh", "ngoài tầm đánh"], ["khi chưa cản", "khi chưa cần"]],
+    "295FD0": [["Tôi đã thấy là là từ trước", "Tôi đã nghĩ từ trước"], ["cách{PAGE}đừng", "cách{PAGE}dùng"], ["Chờ hạ cánh", "Dù hạ cánh"], ["hỏi HP", "hồi HP"], ["được tiếp xăng", "được tiếp thêm xăng"], ["phát huy nhẹ", "phát huy nhé"]],
+    "2962AC": [["Bản đánh tận địch", "Bạn diệt hết địch"], ["bắn hạ hết chúng", "bạn hạ hết chúng"], ["Cú phát huy", "Cứ phát huy"]],
+    "2963A4": [["Đánh thắng mất nhiều địch", "Đánh trực diện quá nhiều địch"], ["Miền bạn không quen", "Miễn bạn không quên"]],
+    "296504": [["đã thành thật", "đã thành sự thật"], ["gây hại hơn", "gây thêm thiệt hại"]],
+    "296664": [["Danh quân mặt đất", "Đánh quân mặt đất"]],
+    "2968EC": [["Những {UNIT}xe tăng", "Nhưng {UNIT}xe tăng"], ["Gió bạn đã hiểu", "Giờ bạn đã hiểu"], ["tôi để bắn từ chỉ huy", "tôi để bạn tự chỉ huy"]],
+    "296AAC": [["Có vé", "Có vẻ"], ["Lúc đầu tối lộ", "Lúc đầu tôi lo"], ["ta quá được", "ta qua được"], ["trực thăng tổn{NL}hại xăng", "trực thăng tốn{NL}hai xăng"], ["{UNIT}chiến đấu{NORMAL}", "{UNIT}tiêm kích{NORMAL}", 2], ["Hết xăng là rồi", "Hết xăng là rơi"], ["{UNIT}ném bom{NORMAL}", "{UNIT}máy bay ném bom{NORMAL}", 3]],
+    "296CA0": [["Có vé", "Có vẻ"], ["Lúc đầu tối lộ", "Lúc đầu tôi lo"], ["ta quá được", "ta qua được"], ["trực thăng tổn{NL}hại xăng", "trực thăng tốn{NL}hai xăng"], ["{UNIT}chiến đấu{NORMAL}", "{UNIT}tiêm kích{NORMAL}", 2], ["Hết xăng là rồi", "Hết xăng là rơi"], ["{UNIT}ném bom{NORMAL}", "{UNIT}máy bay ném bom{NORMAL}", 3]],
+    "296EDC": [["Dù chúng đến gần", "Dụ chúng đến gần"], ["rời {COMMAND}Đánh", "rồi {COMMAND}Đánh"], ["chúng rời {UNIT}pháo binh{NORMAL} bạn", "chúng rồi {UNIT}pháo binh{NORMAL} bắn"], ["giao ban!", "giao bạn!"]],
+    "297114": [["Qua giỏi", "Quá giỏi"], ["làm mới", "làm mồi"], ["Dù {UNIT}xe tăng", "Dụ {UNIT}xe tăng"], ["để đánh thắng mất", "để đánh trực diện"], ["tự xử lý nhẹ", "tự xử lý nhé"]]
+  }
+}

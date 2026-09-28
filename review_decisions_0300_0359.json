@@ -1,0 +1,33 @@
+{
+  "start": 300,
+  "size": 60,
+  "revisions": {
+    "082890": "TĂNG TỐC",
+    "0828A8": "SỨC MAX",
+    "082910": "Căn cứ trung lập",
+    "28072C": "Chào mừng đến mục Tạo Bản Đồ!{PAGE}",
+    "2807B4": "Nhấn SELECT, rồi{NL}chọn Trợ Giúp.{PAGE}",
+    "280844": "Chơi vui!{PAGE}",
+    "28084C": "Điều kiện bản đồ:",
+    "280860": "Ít nhất 2 phe, mỗi phe có HQ",
+    "280880": "và ít nhất 1 đơn vị hoặc căn cứ.",
+    "2808BC": "Bản đồ có thể chơi trong",
+    "2808DC": "chế độ Đấu hoặc Liên kết.",
+    "2809D0": "Bản đồ tạo 1",
+    "2809E0": "Bản đồ tạo 2",
+    "2809F0": "Bản đồ tạo 3",
+    "280A00": "Biển",
+    "280A04": "Đồng",
+    "280A18": "Ngẫu{1F}{1F}",
+    "280A24": "Phủ cả bản đồ bằng biển?{NL}{17}",
+    "280A44": "Phủ cả bản đồ bằng đồng bằng?{NL}{17}",
+    "280A68": "Phủ cả bản đồ bằng núi?{NL}{17}",
+    "280A90": "Phủ cả bản đồ bằng rừng?{NL}{17}",
+    "280AB4": "Để máy tự vẽ bản đồ?{NL}{17}",
+    "280AD8": "Thoát?{NL}{17}",
+    "280AF8": "{1F}{1F}Tải",
+    "280B18": "{1F}{1F}Tệp",
+    "280B30": "{1F}{1F}Phủ",
+    "280B40": "Bạn thích làm việc này{NL}lặp đi lặp lại nhỉ.{PAGE}Cứ tiếp tục nhé.{PAGE}"
+  }
+}

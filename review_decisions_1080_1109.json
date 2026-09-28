@@ -1,0 +1,24 @@
+{
+  "start": 1080,
+  "size": 30,
+  "revisions": {
+    "2C00B4": "Chà... Olaf vừa cụp đuôi{NL}bỏ chạy mất rồi.{PAGE}Thế còn tôi thì sao?{PAGE}Chắc tôi phải đi dọn{NL}mớ hỗn độn của ông ta.{PAGE}",
+    "2C0410": "Ta lại đến đây.{PAGE}Vụ này chẳng hợp ý ta,{NL}nhưng phải nghiêm túc thôi.{PAGE}Cách tốt nhất để chặn họ{NL}là đánh chìm tàu đổ bộ.{PAGE}Như vậy họ không thể chở{NL}quân bộ đi được.{PAGE}Bắt đầu nào.{PAGE}"
+  },
+  "replacements": {
+    "2C02F0": [["Rắn ở đây", "Bãi ngầm ở đây"], ["quân bạn gián tiếp", "quân bắn gián tiếp"]],
+    "2C05A8": [["Chao Nell", "Chào Nell"]],
+    "2C061C": [["Em đã lỡ dạy", "Em đã lo đấy"]],
+    "2C063C": [["ôn chú?", "ổn chứ?"]],
+    "2C06F8": [["em yêu ả", "em yêu à"]],
+    "2C07CC": [["Tạm biệt{PAGE}", "Tạm biệt.{PAGE}"]],
+    "2C07E0": [["Không có nợ", "Không có nó"], ["qua biến", "qua biển"], ["dồn tấn công", "đòn tấn công"]],
+    "2C093C": [["Nghề nói", "Nghe nói"]],
+    "2C0A1C": [["Tin mọi gì cũng biết.{PAGE}", "" ]],
+    "2C0A68": [["Những sao", "Nhưng sao"]],
+    "2C0AB0": [["Những em", "Nhưng em"], ["Giới thật", "Giỏi thật"]],
+    "2C0AF0": [["giỏi làm", "giỏi lắm"]],
+    "2C0B20": [["Cô {PLAYER} giúp những", "Có {PLAYER} giúp nhưng"], ["Giới làm, nhọc", "Giỏi lắm, nhóc"]],
+    "2C0C14": [["Andy có?", "Andy cơ?"]]
+  }
+}

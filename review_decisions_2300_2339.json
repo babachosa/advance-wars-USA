@@ -1,0 +1,35 @@
+{
+  "start": 2300,
+  "size": 40,
+  "revisions": {
+    "2FDCD4": "Trống.{PAGE}",
+    "2FDCDC": "Trống.{PAGE}",
+    "2FDCF8": "Trống.",
+    "2FDD00": "Trống.",
+    "2FE36C": "Anh điên sao?{PAGE}Quân Orange Star{NL}đang tiến đến!{PAGE}",
+    "2FE42C": "Nắng đẹp thật nhỉ?{PAGE}Ồ...{PAGE}Anh ta đi rồi.{NL}Thôi thì tôi nên{PAGE}đi trước khi Eagle{NL}nổi giận thêm.{PAGE}",
+    "2FE4BC": "Drake luôn làm ta{NL}xao nhãng.{PAGE}Hắn vô địch trên biển,{NL}nhưng đôi khi ta cũng lo...{PAGE}",
+    "2FEC68": "Đừng nói nữa, hãy{NL}nhìn quanh đi, Eagle.{PAGE}Chỉ kẻ ngốc mới mù quáng{NL}lao vào vùng biển lạ.{PAGE}"
+  },
+  "replacements": {
+    "2FDCAC": [["lúc gian", "lúc giận"]],
+    "2FDCE4": [["Máy mà", "May mà"]],
+    "2FE2CC": [["Vào vị trí ngày", "Vào vị trí ngay"]],
+    "2FE320": [["Chào sáng", "Chào buổi sáng"], ["chút a?", "chút à?"]],
+    "2FE3A4": [["A, vậy", "À, vậy"]],
+    "2FE3D8": [["Không cân với", "Không cần vội"]],
+    "2FE558": [["dùng sở trường", "đúng sở trường"]],
+    "2FE578": [["khó dạy", "khó đấy"]],
+    "2FE5A8": [["trong lạnh", "trong lành"]],
+    "2FE5C4": [["Đau với", "Đấu với"]],
+    "2FE5EC": [["Song Thần đổ{NL}qua", "Sóng Thần đó{NL}quá"]],
+    "2FEC28": [["Cứ đúng đó", "Cứ đứng đó"]],
+    "2FECE8": [["đầu có", "đâu có"]],
+    "2FED14": [["Nhung dạ", "Nhưng ta"]],
+    "2FEE50": [["Y anh", "Ý anh"]],
+    "2FEE8C": [["Cho tới", "Cho tôi"]],
+    "2FEEC8": [["Trần khó mời vui", "Trận khó mới vui"]],
+    "2FF4F0": [["đã báo", "đã bảo"], ["Sói biến giả", "Sói biển già"]],
+    "2FF594": [["anh từ thứ", "anh tự thử"], ["Từ đánh", "Tự đánh"]]
+  }
+}

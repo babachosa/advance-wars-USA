@@ -1,0 +1,28 @@
+{
+  "start": 2180,
+  "size": 40,
+  "revisions": {
+    "2F90E4": "{0B}{NORMAL}Dễ như trở bàn tay!{NL}Lo gì chứ!{PAGE}",
+    "2F9150": "Trống.",
+    "2F998C": "Trống.",
+    "2FA19C": "Trống."
+  },
+  "replacements": {
+    "2F8EAC": [["Là lời a?", "La lối à?"]],
+    "2F8F14": [["Nho{NL}", "Nhớ{NL}"], ["của người", "của ngươi"], ["Nghe dạy", "Nghe đây"], ["vào sau lãnh thổ", "vào sâu lãnh thổ"]],
+    "2F8FE0": [["tôi sẽ cho", "tôi sẽ chờ"]],
+    "2F9008": [["Cho? Người cho gì?", "Chờ? Ngươi nói chờ?"], ["đảng...", "đang..."]],
+    "2F9038": [["A, hiểu", "À, hiểu"]],
+    "2F9744": [["Tôi đau thấy cần{NL}lộ đến thế", "Tôi đâu thấy cần{NL}lo đến thế"], ["vốn đầu phái", "vốn đâu phải"]],
+    "2F97A8": [["Sau mỗi công sức", "Sau mọi công sức"]],
+    "2F9834": [["Khoản sếp", "Khoan sếp"], ["Ông nội quản Orange Star{NL}sắp đến của roi ma", "Ông nói quân Orange Star{NL}sắp đến cửa rồi mà"]],
+    "2F98B4": [["Người được đã làm", "Ngươi được đấy lắm"], ["tính so với người", "tính sổ với ngươi"]],
+    "2F994C": [["Đánh chung", "Đánh chúng"]],
+    "2F9970": [["Lãnh thật", "Lạnh thật"]],
+    "2F9F40": [["nhoc độ a", "nhóc đó à"], ["Anh quên anh ta", "Anh quen anh ta"]],
+    "2FA018": [["quên anh ta", "quen anh ta"]],
+    "2FA080": [["đâu anh ta", "đấu anh ta"]],
+    "2FA0B4": [["Can thân", "Cẩn thận"], ["rạn biển", "bãi ngầm"]],
+    "2FA6F4": [["đến trẻ", "đến trễ"]]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "start": 720,
+  "size": 30,
+  "replacements": {
+    "298578": [["Hồi lâu", "Hơi lâu"], ["Cú phát huy", "Cứ phát huy"]],
+    "2986B8": [["Nối dễ hơn lắm", "Nói dễ hơn làm"], ["sắp bị hạ mặt", "sắp bị hạ mất"]],
+    "2987A8": [["Mẫu đưa", "Mau đưa"]],
+    "2987E0": [["Dũng {COMMAND}", "Đừng {COMMAND}"]],
+    "2988E8": [["{UNIT}trực thăng{NORMAL} lên", "{UNIT}trực thăng chở quân{NORMAL} lên"], ["an toàn miền", "an toàn miễn"], ["chở được hải quân", "chở được hai quân"]],
+    "298A90": [["Giờ thu hỏa lực", "Giờ thử hỏa lực"]],
+    "298B00": [["Dũng {COMMAND}", "Đừng {COMMAND}"]],
+    "298B30": [["Con lúc này", "Còn lúc này"]],
+    "298BE0": [["Hay {COMMAND}", "Hãy {COMMAND}"]],
+    "298C88": [["{COMMAND}Bắn{NORMAL} ngày", "{COMMAND}Bắn{NORMAL} ngay"]],
+    "298CC0": [["{COMMAND}Thả xuống{NORMAL} gió", "{COMMAND}Thả xuống{NORMAL} giờ"], ["{UNIT}trực thăng{NL}cho quân{NORMAL}", "{UNIT}trực thăng{NL}chở quân{NORMAL}"], ["{COMMAND}Bắn{NORMAL} ngày", "{COMMAND}Bắn{NORMAL} ngay"]],
+    "298D18": [["chỉ dành được vài loại", "chỉ đánh được vài loại"], ["hồi khó dạy", "hơi khó đấy"], ["nhận R", "nhấn R"]],
+    "298EEC": [["tối tượng", "tôi tưởng"]],
+    "298FB4": [["Dùng {COMMAND}", "Đừng {COMMAND}"]],
+    "298FE0": [["nên dùng di chuyển", "nên đừng di chuyển"]]
+  }
+}

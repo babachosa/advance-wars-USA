@@ -1,0 +1,28 @@
+{
+  "start": 2140,
+  "size": 40,
+  "revisions": {
+    "2F721C": "Trống.",
+    "2F7A90": "Trống.",
+    "2F8200": "Trống.",
+    "2F8934": "Trống.",
+    "2F890C": "Lạnh thật."
+  },
+  "replacements": {
+    "2F77C4": [["Nay", "Này"]],
+    "2F77F0": [["nhọc à", "nhóc à"]],
+    "2F781C": [["Ma cầu", "Mà cậu"]],
+    "2F7874": [["Dối có", "Đời có"], ["việc đó{NL}quá một bên", "việc đó{NL}qua một bên"], ["giả rời", "già rồi"]],
+    "2F7960": [["nó nhẹ", "nó nhé"], ["Song qua", "Sống qua"]],
+    "2F7A60": [["Phụ!", "Phù!"]],
+    "2F7A80": [["thưa", "thua"]],
+    "2F8068": [["La chi", "Là chị"], ["Gióng chỉ", "Giọng chị"]],
+    "2F8748": [["hai quân ta", "hải quân ta"], ["Đánh Biện", "Đánh Biển"]],
+    "2F8814": [["Đánh Biên", "Đánh Biển"]],
+    "2F889C": [["Kẻ vay", "Kệ vậy"]],
+    "2F88B0": [["Lượt tối a", "Lượt tôi à"]],
+    "2F88C4": [["thắng{NL}tối thì nhắm to roi", "thắng{NL}tôi thì nhầm to rồi"]],
+    "2F8E5C": [["Tên ngõ", "Tên ngốc"]],
+    "2F8E78": [["Tới đây", "Tôi đây"], ["Ông là lời", "Ông la lối"]]
+  }
+}

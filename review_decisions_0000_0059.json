@@ -1,0 +1,32 @@
+{
+  "start": 0,
+  "size": 60,
+  "revisions": {
+    "080D6C": "Bản 4P",
+    "080D74": "Bản 3P",
+    "080D8C": "Đấu",
+    "080D98": "Chiến dịch",
+    "080DA4": "Huấn luyện trận",
+    "080DE8": "Bí ẩn",
+    "080E10": "Cánh thắng lợi!",
+    "080E34": "Đại úy Drake!",
+    "080E44": "Mục tiêu Sonja!",
+    "080E7C": "Lỗi của Kanbei?",
+    "080EE0": "Xạ thủ!",
+    "080EE8": "Olaf đánh từ biển!",
+    "080EFC": "Hạm Olaf",
+    "080F08": "Max lỡ dại?",
+    "080F18": "Max ra đòn!",
+    "080F28": "Át bay!",
+    "080F40": "Vào trận!",
+    "080F88": "Không chiến",
+    "080FAC": "Mẹo trực thăng",
+    "080FBC": "Đội tăng",
+    "080FF0": "Tin địa hình",
+    "081020": "Đảo vòng",
+    "08104C": "Miệng đất",
+    "081058": "Đảo trứng",
+    "081064": "Dãy hiểm"
+  },
+  "deferred": ["08103C", "08107C"]
+}

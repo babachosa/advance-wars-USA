@@ -1,0 +1,11 @@
+{
+  "start": 180,
+  "size": 60,
+  "revisions": {
+    "082234": "{09}{COMMAND}Chiến dịch nâng cao",
+    "082248": "{09}{UNIT}Bản 3 người",
+    "082258": "{09}{UNIT}Bản đấu",
+    "082264": "{09}{UNIT}Bản đặc biệt"
+  },
+  "deferred": ["082398"]
+}

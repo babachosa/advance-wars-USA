@@ -1,0 +1,9 @@
+{
+  "start": 0,
+  "size": 2829,
+  "replacements": {
+    "2973FC": [["{UNIT}xe tăng hạng trung{NORMAL}", "{UNIT}tăng hạng trung{NORMAL}"]],
+    "297688": [["{COMMAND}Bắn{NORMAL} được quân bay", "{COMMAND}Bắn{NORMAL} quân bay"]],
+    "29C134": [["Muốn làm lại, nhấn START, SELECT,", "Làm lại: nhấn START, SELECT,"]]
+  }
+}

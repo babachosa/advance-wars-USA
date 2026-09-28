@@ -1,0 +1,21 @@
+{
+  "start": 750,
+  "size": 30,
+  "replacements": {
+    "299094": [["tầm bắn rỗng", "tầm bắn rộng"], ["ba đến nằm ở", "từ ba đến năm ô"], ["Dùng nhiều bàn", "Dùng nhiều bạn sẽ"]],
+    "2991B8": [["Gió đến", "Giờ đến"]],
+    "299390": [["lệnh này mãi", "lệnh này ngày mai"]],
+    "299458": [["cho quân", "chở quân"], ["chủ?", "chứ?"]],
+    "2995F0": [["Gió", "Giờ"], ["quân đổ", "quân đó"]],
+    "299620": [["quân đổ", "quân đó"]],
+    "299670": [["Chở được hải quân bộ", "Chở được hai quân bộ"], ["cho quân đặt", "chở quân bộ"], ["con {UNIT}", "còn {UNIT}"], ["cho trực thăng", "chở trực thăng"]],
+    "299794": [["Gió", "Giờ"], ["tăng lớn", "xe tăng hạng trung"]],
+    "299828": [["Tiến lỗi", "Tiện lợi"], ["màn này, chị", "màn này, chỉ"], ["Nhờ cẩn thận", "Nhớ cẩn thận"], ["Gió thu", "Giờ thử"]],
+    "2999BC": [["Dừng", "Đừng"]],
+    "2999E8": [["nhẹ?", "nhé?"]],
+    "299A20": [["Chi {COMMAND}", "Chỉ {COMMAND}"]],
+    "299A84": [["Chồn", "Chọn"]],
+    "299AC0": [["Những khoản", "Nhưng khoan"]],
+    "299B38": [["nhờ chứ?", "nhớ chứ?"], ["cả hải quân", "cả hai quân"]]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "start": 1620,
+  "size": 40,
+  "revisions": {
+    "2E26A0": "Các ngươi sẽ biết sợ sức mạnh của ta!{0E}{0E}{0E}{0E}",
+    "2E26C8": "Hỡi gió chiến tranh, hãy đem tuyết tới!{0E}{0E}{0E}{0E}",
+    "2E2834": "Không ai chống nổi{NL}hạm đội của ta!{0E}{0E}{0E}{0E}",
+    "2E2860": "Thử đỡ đòn mạnh nhất{NL}của ta xem!{0E}{0E}{0E}{0E}",
+    "2E2888": "Linh hồn mùa đông{NL}đã phù hộ quân ta!{0E}{0E}{0E}{0E}",
+    "2E28FC": "Ta không đời nào thua{NL}ngươi, Grit!{0E}{0E}{0E}{0E}",
+    "2E29A4": "Chém chúng tan tác!{0E}{0E}{0E}{0E}",
+    "2E2B04": "Ta là tay già dạn sóng gió!{0E}{0E}{0E}{0E}",
+    "2E2B98": "Ta không đời nào thua{NL}kẻ như ngươi, Andy!{0E}{0E}{0E}{0E}",
+    "2E2BF8": "Eagle! Đủ rồi đấy!!!{0E}{0E}{0E}{0E}",
+    "2E2CFC": "Ta không đời nào thua{NL}một bản sao!{0E}{0E}{0E}{0E}"
+  },
+  "replacements": {
+    "2E26F0": [["nhẹ. Những người đầu{NL}cho ta", "nhé. Nhưng ngươi đâu{NL}cho ta"]],
+    "2E2770": [["Hạ hạ hạ", "Ha ha ha"], ["Ta đổi", "Ta đợi"]],
+    "2E27A8": [["Thư chiếu", "Thử chiêu"]],
+    "2E27F8": [["Đồng bướm", "Dong buồm"]],
+    "2E295C": [["người thấy", "ngươi thấy"]],
+    "2E2A74": [["rắc rối rối", "rắc rối rồi"]],
+    "2E2A98": [["Gió tìm", "Giờ tìm"]],
+    "2E2AE0": [["Kha dày", "Khá đấy"]],
+    "2E2C18": [["hãi Sami", "hại Sami"]]
+  }
+}

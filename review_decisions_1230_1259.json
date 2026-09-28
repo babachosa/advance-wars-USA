@@ -1,0 +1,24 @@
+{
+  "start": 1230,
+  "size": 30,
+  "replacements": {
+    "2C31EC": [["vui nhi", "vui nhỉ"], ["Thời kế vậy", "Thôi kệ vậy"]],
+    "2C3228": [["A, tốt", "À, tốt"], ["Nhẻ cả người", "Nhẹ cả người"]],
+    "2C3270": [["Không cho được quân", "Không chở được quân"], ["rắn biến", "bãi ngầm"], ["Bốn tôi", "Bọn tôi"]],
+    "2C3458": [["râu rậm đỏ", "râu rậm đó"]],
+    "2C34DC": [["đi{NL}hỏi xa", "đi{NL}hơi xa"]],
+    "2C36D4": [["Cảm ơn Grit", "Được. Cảm ơn Grit"]],
+    "2C36E8": [["Chào ơi", "Chà ơi"], ["nhiều rối nhí", "nhiều rồi nhỉ"]],
+    "2C3740": [["Những kỹ năng", "Nhưng kỹ năng"], ["không đối nhị", "không đổi nhỉ"], ["bắn cho", "bạn cho"], ["số trường bán", "sở trường bạn"]],
+    "2C3868": [["bốn tối", "bọn tôi"]],
+    "2C38EC": [["Chỉ nên nhìn", "Chị nên nhìn"]],
+    "2C3954": [["cô đỡ chơi mới", "có đồ chơi mới"]],
+    "2C39E0": [["Hãy thật", "Hay thật"]],
+    "2C3A60": [["đảo lộn", "đảo lớn"]],
+    "2C3BAC": [["Còn nhạc chuyện", "Còn nhắc chuyện"], ["đánh em đây", "đánh em đấy"]],
+    "2C3BFC": [["mới a!", "mới à!"]],
+    "2C3C74": [["Bài thu cuối", "Bài thử cuối"]],
+    "2C3CF4": [["Thật a?", "Thật à?"], ["giận nhí?", "giận nhỉ?"]],
+    "2C3D40": [["nhẹ, {PLAYER}", "nhé, {PLAYER}"]]
+  }
+}

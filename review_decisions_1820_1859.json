@@ -1,0 +1,16 @@
+{
+  "start": 1820,
+  "size": 40,
+  "revisions": {
+    "2E8FB0": "Bạn phải bảo vệ {UNIT}bộ binh{NORMAL}{NL}trong tám lượt.{PAGE}Tôi tin bạn làm được, {PLAYER}!{PAGE}",
+    "2E9F6C": "{0B}{NORMAL}Đang lưu. Đừng tắt máy.{0E}"
+  },
+  "replacements": {
+    "2E882C": [["Trồng cây vào bản", "Trông cậy vào bạn"]],
+    "2E89B8": [["khó dạy", "khó đấy"]],
+    "2E8B50": [["Ban chỉ huy đây", "Bạn chỉ huy đấy"]],
+    "2E8D8C": [["bắn thua", "bạn thua"]],
+    "2E9008": [["mất sạch quân, bạn sẽ thua", "mất sạch quân, bạn sẽ thua. Chúc may mắn"]],
+    "2E9FC4": [["Dùng tắt máy", "Đừng tắt máy"]]
+  }
+}

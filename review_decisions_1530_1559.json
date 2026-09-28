@@ -1,0 +1,23 @@
+{
+  "start": 1530,
+  "size": 30,
+  "replacements": {
+    "2C92E0": [["làm ta lỡ nữa", "làm ta lo nữa"]],
+    "2C9430": [["Máy qua. (thổ pháo)", "May quá. (thở phào)"]],
+    "2C945C": [["lát nửa tạ nổi", "lát nữa ta nói"]],
+    "2C9510": [["Có tục làm nhị", "Cô tức lắm nhỉ"]],
+    "2C9554": [["Ta đã lộ xong cho", "Ta đã lo xong cho"]],
+    "2C95A8": [["được đúng sao", "được dùng sao"]],
+    "2C970C": [["Nêm còn thịnh nộ", "Nếm cơn thịnh nộ"]],
+    "2C97A0": [["rồi dạy", "rồi đấy"], ["cứn tay", "cùn tay"]],
+    "2C97F0": [["Dừng sơ suất", "Đừng sơ suất"]],
+    "2C9810": [["Đám ngũ kia", "Đám ngu kia"], ["Quân chủng", "Quân chúng"], ["Hạ hạ hạ", "Ha ha ha"]],
+    "2C98B0": [["cũng hợp sức", "cùng hợp sức"], ["Hạ hẳn", "Hạ hắn"]],
+    "2C991C": [["Khonggggg", "Khônggggg"], ["Ta thế", "Ta thề"]],
+    "2C9A00": [["Hãy qua", "Hay quá"]],
+    "2C9A3C": [["U, ngày nay cũng được dạy,{NL}Max a", "Ừ, ngày nay cũng được đấy,{NL}Max à"]],
+    "2C9A6C": [["gây sự a?", "gây sự à?"], ["Hãy ta", "Hay ta"]],
+    "2C9AB4": [["Ở đây dòng kẻ", "Ở đây đông kẻ"], ["ta chuồn dậy", "ta chuồn đây"], ["Lo cho nhỏ", "Lo cho nhóc"], ["nữa nhẹ", "nữa nhé"]],
+    "2C9B60": [["Hạ hạ hạ hạ", "Ha ha ha ha"], ["Thầy ta", "Thấy ta"]]
+  }
+}

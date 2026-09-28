@@ -1,0 +1,27 @@
+{
+  "start": 2500,
+  "size": 40,
+  "revisions": {
+    "3058C4": "Nếu không sớm chặn kẻ bí ẩn{NL}này, Eagle có thể...",
+    "305EC8": "Vậy... mi là kẻ{NL}đứng sau mọi hỗn loạn.{PAGE}Mi có tên không, hay{NL}cứ gọi là Tai Họa?{PAGE}",
+    "305F48": "Sturm, cuối cùng ta{NL}cũng tìm ra mi.{PAGE}Đến lúc trả giá rồi.{PAGE}",
+    "305F98": "Tìm ra ta ư?{PAGE}Các ngươi chỉ bước qua{NL}cánh cửa ta mở sẵn.{PAGE}",
+    "305FF0": "Mi nghĩ ta không{NL}thấy mi sao, nhóc?{PAGE}Trò chiến lược thảm hại{NL}của mi chỉ có thế thôi à?{PAGE}",
+    "3060B4": "Mi liên tục mắc{NL}sai lầm ngu ngốc...{PAGE}Tưởng mình ngang sức{NL}với ta sao? Đồ tự phụ!{PAGE}Đến lúc kết thúc trò hề.{NL}Mi bảo ta trả giá à?{PAGE}"
+  },
+  "replacements": {
+    "305800": [["thơ dại", "thở dài"]],
+    "305838": [["Không còn giờ", "Không còn thời gian"]],
+    "305870": [["Cần thận", "Cẩn thận"]],
+    "305888": [["không đợi nào thưa", "không đời nào thua"]],
+    "3058B0": [["hẳn", "hắn"]],
+    "306064": [["Nhung...", "Nhưng..."]],
+    "3061BC": [["ngày nào", "ngay nào"]],
+    "3061D4": [["Thắng nói không?", "Thắng nổi không?"]],
+    "3061F4": [["dữ rồi", "đủ rồi"]],
+    "306854": [["Hãy!", "Hay!"]],
+    "30685C": [["chiều khác", "chiêu khác"]],
+    "306880": [["đau thắt", "cứng đầu"]],
+    "30761C": [["Có!", "Đúng!"]]
+  }
+}

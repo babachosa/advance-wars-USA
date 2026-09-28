@@ -1,0 +1,15 @@
+{
+  "start": 1740,
+  "size": 40,
+  "replacements": {
+    "2E579C": [["đánh{NL}cá {UNIT}", "đánh{NL}cả {UNIT}"]],
+    "2E583C": [["trong mỗi đơn vị", "trong mọi đơn vị"]],
+    "2E5CA0": [["Nỏ {COMMAND}", "Nó {COMMAND}"]],
+    "2E601C": [["Trực cho", "Trực thăng chở quân"]],
+    "2E604C": [["Tàu chiến", "Thiết giáp hạm"]],
+    "2E6094": [["tàu chiến", "thiết giáp hạm"]],
+    "2E60E0": [["tàu chiến", "thiết giáp hạm"]],
+    "2E6134": [["Tàu chiến", "Thiết giáp hạm"]],
+    "2E6284": [["Tàu chiến", "Thiết giáp hạm"]]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "start": 0,
+  "size": 2829,
+  "replacements": {
+    "2E44E8": [["Súng máy gây chút{NL}sát thương cho {UNIT}trực thăng chở quân{NORMAL}.", "Súng máy chỉ gây{NL}ít sát thương cho {UNIT}trực thăng tải{NORMAL}."]],
+    "2E4770": [["Súng máy gây chút{NL}sát thương cho {UNIT}trực thăng chở quân{NORMAL}.", "Súng máy chỉ gây{NL}ít sát thương cho {UNIT}trực thăng tải{NORMAL}."]]
+  }
+}

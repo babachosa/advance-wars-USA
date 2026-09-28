@@ -1,0 +1,26 @@
+{
+  "start": 1290,
+  "size": 30,
+  "revisions": {
+    "2C4740": "Sức mạnh CO của Drake{NL}nguy hiểm thật nhỉ?{PAGE}Nhưng đừng quên Sức mạnh CO Andy.{PAGE}Dùng nó sau khi Drake ra đòn,{NL}bạn sẽ ổn thôi!{PAGE}Sức mạnh Andy hồi HP!{PAGE}Chúc may mắn! Vững tin nhé!{PAGE}"
+  },
+  "replacements": {
+    "2C45E8": [["con{NL}diều", "còn{NL}điều"]],
+    "2C4628": [["hạ được tả", "hạ được ta"]],
+    "2C4660": [["nhọc ả", "nhóc ạ"]],
+    "2C46F4": [["trước bàn", "trước bạn"]],
+    "2C4804": [["Nell dạy", "Nell đây"]],
+    "2C4840": [["quân trọng", "quan trọng"], ["Cần thân tàu chiến dịch", "Cẩn thận tàu chiến địch"]],
+    "2C494C": [["đơn vị đo", "đơn vị đó"], ["để chỉ lộ", "để chị lo"], ["Đừng để chỉ", "Đừng để chị"]],
+    "2C49FC": [["Từ này", "Từ nãy"], ["Lên não", "Xông lên"]],
+    "2C4A68": [["đôi lâu", "đợi lâu"]],
+    "2C4B24": [["Nhờ neo", "Nhổ neo"]],
+    "2C4B94": [["Nhờ neo thời", "Nhổ neo thôi"]],
+    "2C4BD4": [["tàu đổ bộ cho nó", "tàu đổ bộ chở nó"], ["Dừng xe thăm dò", "Dùng xe thăm dò"]],
+    "2C4D40": [["tới gặp Eagle", "tôi gặp Eagle"], ["mỗi chuyến", "mọi chuyện"]],
+    "2C4E18": [["có ơn", "có ổn"], ["gì ạ?", "gì à?"]],
+    "2C4E54": [["không hiểu{NL}lầm Andy này là gì", "không hiểu{NL}làm Andy này là gì"]],
+    "2C4F30": [["Dùng giã ngủ, nhọc", "Đừng giả ngố, nhóc"], ["việc người{NL}làm", "việc ngươi{NL}làm"]],
+    "2C4F98": [["Mất người", "Mặt ngươi"]]
+  }
+}

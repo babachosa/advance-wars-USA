@@ -1,0 +1,9 @@
+{
+  "start": 0,
+  "size": 2829,
+  "replacements": {
+    "2BF0A4": [["Bạn đã mất {UNIT}tàu đổ bộ{NORMAL}, đơn vị then chốt", "Mất {UNIT}tàu đổ bộ{NORMAL}, đơn vị then chốt"]],
+    "2C07E0": [["Bạn đã mất {UNIT}tàu đổ bộ{NORMAL}, đơn vị then chốt", "Mất {UNIT}tàu đổ bộ{NORMAL}, đơn vị then chốt"]],
+    "2C4740": [["Nhưng đừng quên Sức mạnh CO Andy.", "Đừng quên Sức mạnh CO Andy."]]
+  }
+}

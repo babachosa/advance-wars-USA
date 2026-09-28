@@ -1,0 +1,17 @@
+{
+  "start": 1700,
+  "size": 40,
+  "replacements": {
+    "2E4EB4": [["cách{NL}rẽ", "cách{NL}rẻ"]],
+    "2E4F10": [["nên để{NL}triển khai", "nên dễ{NL}triển khai"]],
+    "2E4F68": [["Cận quân khác", "Cần quân khác"]],
+    "2E5184": [["Cận quân khác", "Cần quân khác"]],
+    "2E4B38": [["Xe tăng vừa", "Xe tăng hạng trung"]],
+    "2E4B98": [["tăng vừa", "tăng hạng trung"]],
+    "2E4BD8": [["xe tăng vừa", "xe tăng hạng trung"]],
+    "2E4C30": [["xe tăng vừa", "xe tăng hạng trung"]],
+    "2E4CE8": [["Xe tăng vừa", "Xe tăng hạng trung"]],
+    "2E4D44": [["xe tăng vừa", "xe tăng hạng trung"]],
+    "2E4DEC": [["Xe tăng vừa", "Xe tăng hạng trung"]]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "start": 1050,
+  "size": 30,
+  "revisions": {
+    "2BF6E0": "Đừng nói là em đùa nhé.{PAGE}Thấy lớp màu xám che tầm nhìn{NL}không? Đó là Sương Mù.{PAGE}Giờ quân địch ẩn ở đâu nhỉ?{PAGE}",
+    "2BF880": "Nghe đơn giản quá mà.{PAGE}",
+    "2BFA24": "Thôi nào, Max. Đừng như thế.{PAGE}Tôi cũng có lý do{NL}để làm việc này.{PAGE}Tôi đi đây trước khi anh{NL}lại bắt đầu lên lớp.{PAGE}Hẹn gặp sau!{PAGE}"
+  },
+  "replacements": {
+    "2BF788": [["bìa sống", "bia sống"], ["Đơn vị trồng rừng", "Đơn vị trong rừng"]],
+    "2BF8A0": [["mới nổi vậy", "mới nói vậy"], ["Ta ăn quân trọng rừng", "Ta ẩn quân trong rừng"]],
+    "2BF96C": [["Chao Max", "Chào Max"]],
+    "2BF98C": [["Là câu sao?", "Là cậu sao?"], ["Độ phản bội khôn", "Đồ phản bội khốn"]],
+    "2BFAD4": [["Dùng, Grit!", "Đứng lại, Grit!"], ["Chắc thật", "Chết thật"]],
+    "2BFBE4": [["Chỉ biết", "Chị biết"], ["quân trọng", "quan trọng"], ["Dưới ông ta khơi dậy", "Đuổi ông ta khỏi đây"]],
+    "2BFD54": [["Hiếu. Dĩ thôi", "Hiểu. Đi thôi"]],
+    "2BFDF4": [["tuyệt rồi", "tuyết rơi"]],
+    "2BFE2C": [["thích tuyệt", "thích tuyết"]],
+    "2BFE50": [["Cầu hiệu là ta{NL}không đi đạp người tuyệt", "Cậu hiểu là ta{NL}không đi đắp người tuyết"]],
+    "2BFEE4": [["hiểu nổi cáu", "hiểu nổi cậu"]],
+    "2BFF5C": [["thua mai", "thua mãi"]],
+    "2BFFC0": [["Ra ngoài chân bọn{NL}Orange Star đang chết kia", "Ra ngoài chặn bọn{NL}Orange Star đáng ghét kia"]],
+    "2BFFF8": [["Nói dễ hơn lắm", "Nói thì dễ lắm"]],
+    "2C0044": [["Đừng cái", "Đừng cãi"]]
+  }
+}

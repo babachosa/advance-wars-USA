@@ -1,0 +1,19 @@
+{
+  "original_sha1": "d0a0a4cfe9b95ac7118f7ef476f014ca0242eb65",
+  "final_sha1": "36b603d4513fcbad3a486e8a22d37f1300c22031",
+  "rom_bytes": 4194304,
+  "original_text_slots_verified": 2829,
+  "relocated_texts_verified": 106,
+  "updated_text_pointers_verified": 138,
+  "changed_bytes_by_approved_region": {
+    "new_text_pointer": 407,
+    "font_renderer_reference": 12,
+    "earlier_text_pointer": 6,
+    "original_text_slot": 183049,
+    "new_font_and_text_bank": 14011
+  },
+  "changed_bytes_outside_approved_regions": 0,
+  "unowned_text_slot_boundary_bytes_checked": 2829,
+  "unowned_text_slot_boundary_bytes_changed": 0,
+  "native_font_and_gba_header_unchanged": true
+}

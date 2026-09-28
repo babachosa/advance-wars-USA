@@ -1,0 +1,36 @@
+{
+  "start": 1900,
+  "size": 40,
+  "revisions": {
+    "2EA840": "Vẻ ngoài lười biếng{NL}nhưng rất đáng tin.{NL}Tay súng vô song.{NL}{1F}{1F}{1F}{1F}{1B}Mèo{NL}{1F}{1F}{1F}{1F}{1B}Chuột{NL}\"Ồn ào gì thế?\"",
+    "2EAC58": "Hải tặc vui vẻ,{NL}vô tư.{NL}{1F}{1F}{1F}{1F}{1B}Biển cả{NL}{1F}{1F}{1F}{1F}{1B}Độ cao{NL}\"Chậm lại, bạn ơi.{NL}Vội gì chứ?\"",
+    "2EB568": "Bậc thầy bắn xa.{NL}Không thích đánh{NL}trực diện.",
+    "2EC75C": "Dòng sông hiền hòa.{NL}Chỉ bộ binh{NL}mới lội qua{NL}được."
+  },
+  "replacements": {
+    "2EA7B0": [["Những quân", "Nhưng quân"]],
+    "2EA8A4": [["Công và thu", "Công và thủ"]],
+    "2EA8F0": [["mỗi đơn vị", "mọi đơn vị"]],
+    "2EA92C": [["Từ xem", "Tự xem"], ["Chợ ta thấy", "Cho ta thấy"]],
+    "2EA988": [["An HP", "Ẩn HP"]],
+    "2EA9F0": [["mỗi đơn vị", "mọi đơn vị"], ["địch ăn", "địch ẩn"], ["rắn biển", "bãi ngầm"]],
+    "2EAA50": [["thiên tài thư tín", "thiên tài tình báo"]],
+    "2EAAC4": [["mạnh nhất, những", "mạnh nhất, nhưng"]],
+    "2EAAFC": [["đã cho{NL}", "đã chờ{NL}"]],
+    "2EAB68": [["Bối lời", "Bơi lội"]],
+    "2EB478": [["Thiên tai", "Thiên tài"]],
+    "2EB4A8": [["Người hung hung hăng", "Chiến binh hăng hái"], ["yêu danh", "yếu đánh"]],
+    "2EB528": [["Kho{NL}", "Khó{NL}"]],
+    "2EB5A0": [["sản xuất đất", "sản xuất đắt"]],
+    "2EB5DC": [["Giới trong", "Giỏi trong"]],
+    "2EC79C": [["được cõng ba{NL}tầm nhìn", "được cộng ba{NL}vào tầm nhìn"]],
+    "2EC7E4": [["quán ăn", "quân ẩn"]],
+    "2EC838": [["Để đi những", "Dễ đi nhưng"]],
+    "2EC87C": [["hội HP", "hồi HP"]],
+    "2EC900": [["đầu hết", "đấu kết thúc"], ["hơi HP", "hồi HP"]],
+    "2EC974": [["hỏi HP", "hồi HP"]],
+    "2EC9BC": [["Càng{NL}phê minh", "Cảng{NL}phe mình"], ["hỏi HP", "hồi HP"]],
+    "2ECA08": [["Cậu giúp", "Cầu giúp"]],
+    "2ECA90": [["hỏi HP", "hồi HP"]]
+  }
+}

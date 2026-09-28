@@ -1,0 +1,28 @@
+{
+  "start": 2340,
+  "size": 40,
+  "revisions": {
+    "2FF6BC": "Anh ta không tệ...{NL}Nhưng cố chấp thật đấy.",
+    "30067C": "Anh điên sao?{PAGE}Quân Orange Star{NL}đang tiến đến!{PAGE}",
+    "3007D4": "Drake luôn làm ta{NL}xao nhãng.{PAGE}Hắn vô địch trên biển,{NL}nhưng đôi khi ta cũng lo...{PAGE}"
+  },
+  "replacements": {
+    "2FF610": [["anh dũng", "anh đúng"]],
+    "2FF628": [["Eagle a?", "Eagle à?"]],
+    "2FF68C": [["Thế!", "Thề!"]],
+    "2FFD1C": [["Cô.{PAGE}", "Có.{PAGE}"]],
+    "2FFD78": [["anh lỡ gì", "anh lo gì"]],
+    "2FFE4C": [["ta gấp lại", "ta gặp lại"], ["Cần thận nhẹ", "Cẩn thận nhé"]],
+    "2FFF0C": [["phiền qua", "phiền quá"]],
+    "2FFF2C": [["Hãy!", "Hay!"]],
+    "3005DC": [["Vào vị trí ngày", "Vào vị trí ngay"]],
+    "300630": [["Chào sáng", "Chào buổi sáng"], ["chút a?", "chút à?"]],
+    "3006B4": [["A, vậy", "À, vậy"]],
+    "3006E8": [["Nàng hôm nay đẹp nhi?", "Nắng hôm nay đẹp nhỉ?"], ["A...", "À..."]],
+    "30087C": [["Giờ tối", "Giờ tôi"]],
+    "3008D8": [["trong lạnh", "trong lành"]],
+    "3008F4": [["Đau với", "Đấu với"]],
+    "30091C": [["Song Thần đổ{NL}qua", "Sóng Thần đó{NL}quá"]],
+    "300F18": [["Cứ đúng đó", "Cứ đứng đó"]]
+  }
+}

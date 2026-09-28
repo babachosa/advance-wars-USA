@@ -1,0 +1,16 @@
+{
+  "start": 1660,
+  "size": 40,
+  "revisions": {
+    "2E41E4": "Đừng mong súng máy{NL}gây nhiều sát thương{NL}cho các đơn vị{NL}khác bộ binh.",
+    "2E4870": "Đây là tầm nhìn{NL}của {UNIT}xe tăng{NORMAL}.{NL}Với quân bộ, tầm{NL}này khá rộng."
+  },
+  "replacements": {
+    "2E2D70": [["Siêu Sữa", "Siêu Sửa"]],
+    "2E2E04": [["mĩ quả đáng", "mi quá đáng"]],
+    "2E2E54": [["Mi hài", "Mi hại"]],
+    "2E2EE4": [["tuyệt rồi", "tuyết rơi"]],
+    "2E400C": [["những hỏa lực", "nhưng hỏa lực"]],
+    "2E4720": [["văn{NL}", "vẫn{NL}"]]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "start": 0,
+  "size": 2829,
+  "replacements": {
+    "294C98": [["Không phải không thể chặn {UNIT}xe tăng hạng trung{NORMAL}", "Có thể chặn {UNIT}tăng hạng trung{NORMAL}"]],
+    "295DB4": [["{UNIT}trực thăng chiến đấu{NORMAL} và {UNIT}xe tăng hạng trung{NORMAL}.", "{UNIT}trực thăng chiến đấu{NORMAL} và {UNIT}tăng vừa{NORMAL}."]],
+    "296A60": [["{UNIT}trực thăng chiến đấu{NORMAL} và {UNIT}xe tăng hạng trung{NORMAL}.", "{UNIT}trực thăng chiến đấu{NORMAL} và {UNIT}tăng vừa{NORMAL}."]],
+    "296AAC": [["{UNIT}máy bay chiến đấu{NORMAL}", "{UNIT}tiêm kích{NORMAL}"], ["{UNIT}máy bay ném bom{NORMAL} và {UNIT}tiêm kích{NORMAL} biến mất.", "{UNIT}máy ném bom{NORMAL} và {UNIT}tiêm kích{NORMAL} hết xăng."]],
+    "296CA0": [["{UNIT}máy bay chiến đấu{NORMAL}", "{UNIT}tiêm kích{NORMAL}"], ["{UNIT}máy bay ném bom{NORMAL} và {UNIT}tiêm kích{NORMAL} biến mất.", "{UNIT}máy ném bom{NORMAL} và {UNIT}tiêm kích{NORMAL} hết xăng."]],
+    "2975F0": [["Đây là lúc {UNIT}tên lửa phòng không{NORMAL} phát huy!", "Giờ {UNIT}tên lửa phòng không{NORMAL} có ích!" ]],
+    "2988E8": [["{UNIT}trực thăng chở quân{NORMAL} lên {UNIT}tàu tuần dương{NORMAL}.", "{UNIT}trực thăng chở quân{NORMAL} lên {UNIT}tuần dương{NORMAL}."], ["Bạn cũng có thể {COMMAND}Chất lên{NORMAL} {UNIT}trực thăng chiến đấu{NORMAL}", "Cũng {COMMAND}Chất lên{NORMAL} {UNIT}trực thăng chiến đấu{NORMAL}"]],
+    "299D98": [["Như quân trên không, quân trên biển tốn xăng", "Như quân bay, hải quân tốn xăng"], ["đều tốn một đơn vị nhiên liệu mỗi ngày.", "tốn một xăng mỗi ngày."]],
+    "29A3C0": [["{UNIT}tàu tuần dương{NORMAL} và {UNIT}tàu ngầm{NORMAL} đánh được nó.", "{UNIT}tuần dương{NORMAL} và {UNIT}tàu ngầm{NORMAL} đánh được nó."]],
+    "29AF24": [["Nếu... nếu không thắng sớm, chúng sẽ lấy", "Nếu chưa thắng sớm, chúng sẽ lấy"]],
+    "29C8A8": [["luyện tập, nên bạn không thể dùng{COMMAND}Đầu Hàng{NORMAL}", "luyện tập; không thể dùng {COMMAND}Đầu Hàng{NORMAL}"]],
+    "2C225C": [["Dùng {UNIT}xe tăng hạng trung{NORMAL} ở trước, rồi", "Cho {UNIT}tăng vừa{NORMAL} lên trước, rồi"], ["Ngày thứ hai nên tạo {UNIT}pháo tên lửa{NORMAL} hoặc {UNIT}xe tăng hạng trung{NORMAL}", "Ngày 2: {UNIT}pháo tên lửa{NORMAL} hay {UNIT}tăng vừa{NORMAL}"]],
+    "2C81A8": [["{UNIT}trực thăng vận tải{NORMAL} và {UNIT}trực thăng chiến đấu{NORMAL}.", "{UNIT}thăng vận tải{NORMAL} và {UNIT}thăng chiến đấu{NORMAL}."]],
+    "2EDAB8": [["{UNIT}xe tăng hạng trung{NORMAL} của Orange Star bị trễ.", "{UNIT}tăng vừa{NORMAL} Orange Star bị trễ."], ["{UNIT}trực thăng chiến đấu{NORMAL} và {UNIT}trực thăng chở quân{NORMAL}", "{UNIT}thăng chiến đấu{NORMAL} và {UNIT}thăng vận tải{NORMAL}"]],
+    "2E9008": [["mất sạch quân, bạn sẽ thua. Chúc may mắn.", "hết quân, bạn thua. Chúc may mắn."]],
+    "3B9E60": [["Bật ON để giới hạn tầm nhìn bằng Sương mù.", "Bật ON để giới hạn tầm nhìn."]]
+  }
+}

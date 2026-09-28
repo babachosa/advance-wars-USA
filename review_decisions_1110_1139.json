@@ -1,0 +1,18 @@
+{
+  "start": 1110,
+  "size": 30,
+  "replacements": {
+    "2C0C38": [["Anh nhắm người rồi", "Anh nhận nhầm người rồi"]],
+    "2C0C84": [["Có là ai?", "Cô là ai?"]],
+    "2C0DD4": [["Tôi thế trên", "Tôi thề trên"]],
+    "2C0E48": [["Khoản, khoản", "Khoan, khoan"]],
+    "2C0EF8": [["Andy đầu?", "Andy đâu?"]],
+    "2C0F68": [["những đầu óc", "nhưng đầu óc"]],
+    "2C1000": [["ra trận đấu", "ra trận"]],
+    "2C1040": [["cố vấn và quân sự", "cố vấn và quân sư"]],
+    "2C10C8": [["Khoản!", "Khoan!"], ["cho nào?", "chỗ nào?"]],
+    "2C117C": [["sĩ quân", "sĩ quan"]],
+    "2C1234": [["Tôi thế trên", "Tôi thề trên"]],
+    "2C12A4": [["Khoan đá!", "Khoan đã!"]]
+  }
+}

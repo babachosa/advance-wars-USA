@@ -1,0 +1,29 @@
+{
+  "start": 960,
+  "size": 30,
+  "revisions": {
+    "2BE0C4": "Ya... Hay quá!{PAGE}",
+    "2BE100": "Ừ thì...{PAGE}"
+  },
+  "replacements": {
+    "2BD7B4": [["Dùng giả vờ", "Đừng giả vờ"]],
+    "2BD800": [["Văn giả vờ", "Vẫn giả vờ"]],
+    "2BD828": [["Được thổi", "Được thôi"], ["lần cuối đây", "lần cuối đấy"]],
+    "2BD860": [["Nay! Dũng lại!", "Này! Đứng lại!"], ["thế nhị?", "thế nhỉ?"]],
+    "2BD894": [["qua bất công", "quá bất công"], ["Tốt nhất hay", "Tốt nhất hãy"], ["thành năng lượng", "thanh năng lượng"], ["đấy. Hãy đợi", "đầy. Hãy đợi"], ["băng {UNIT}", "bằng {UNIT}"], ["Cú cố gắng{NL}nhẹ", "Cứ cố gắng{NL}nhé"]],
+    "2BD9D4": [["trong thang nhóc", "trông thằng nhóc"]],
+    "2BDA18": [["nhọc", "nhóc"], ["ai trong", "ai trông"], ["Ma trong", "Mà trông"]],
+    "2BDA80": [["Nay nhọc, thư", "Này nhóc, thử"]],
+    "2BDAD4": [["Để thổi", "Dễ thôi"], ["quân biến", "quân biển"]],
+    "2BDBB0": [["Hạ hạ hạ hạ hạ", "Ha ha ha ha ha"], ["ngang tả", "ngang ta"]],
+    "2BDC2C": [["Những quân", "Nhưng quân"], ["lệch qua", "lệch quá"]],
+    "2BDD04": [["Sep vui", "Sếp vui"]],
+    "2BDD40": [["Nay! Kha làm, nhọc. Kha làm", "Này! Khá lắm, nhóc. Khá lắm"]],
+    "2BDDB4": [["a?", "à?"]],
+    "2BDE5C": [["Cụ thể này", "Cứ thế này"], ["tan xác đầy", "tan xác đấy"]],
+    "2BDEA4": [["tàu chiến", "thiết giáp hạm"], ["cho {UNIT}bộ binh", "chở {UNIT}bộ binh"]],
+    "2BE020": [["bắn tận xác", "bắn tan xác"]],
+    "2BE0D4": [["tê tựa", "tơi tả"], ["mừng ả", "mừng à"]],
+    "2BE10C": [["Đó, thầy chùa", "Đó, thấy chưa"], ["quân lớn{NL}do nhiều", "quân lớn{NL}đó nhiều"], ["té tựa", "tơi tả"]]
+  }
+}

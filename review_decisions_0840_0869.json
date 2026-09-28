@@ -1,0 +1,24 @@
+{
+  "start": 840,
+  "size": 30,
+  "replacements": {
+    "29BD34": [["trận thất", "trận thật"]],
+    "29BDAC": [["Giới làm", "Giỏi lắm"]],
+    "29BEEC": [["chỉ huy bắn", "chỉ huy bạn"], ["từ gió", "từ giờ"], ["Chào bán", "Chào bạn"]],
+    "29BF34": [["Chao {PLAYER}. Ban là{NL}cô ván đấu", "Chào {PLAYER}. Bạn là{NL}cố vấn đầu"]],
+    "29BF7C": [["Andy hồi{NL}tỉnh nghịch dây", "Andy hơi{NL}tinh nghịch đấy"]],
+    "29C024": [["Những địch", "Nhưng địch"]],
+    "29C134": [["Ở đây tới đây bản lệnh mới{NL}và vai mèo hữu ích", "Ở đây tôi sẽ dạy bạn lệnh mới{NL}và vài mẹo hữu ích"], ["Cô điều", "Có điều"], ["Để reset, nhận", "Để khởi động lại, nhấn"], ["Giờ tôi bắt đầu nhẹ?", "Giờ tôi bắt đầu nhé?"], ["Mông bản thu hết chúng", "Mong bạn thử hết chúng"]],
+    "29C2B0": [["và vào chúng", "va vào chúng"]],
+    "29C370": [["kéo trò", "kéo trỏ"], ["nhận A", "nhấn A"]],
+    "29C454": [["vạch đó", "vạch đỏ"]],
+    "29C544": [["dựa vạch đỏ", "đưa vạch đỏ"]],
+    "29C57C": [["đi con trỏ", "di con trỏ"]],
+    "29C5A0": [["Ban thư xem", "Bạn thử xem"]],
+    "29C5B8": [["Đi nó", "Đưa nó"]],
+    "29C5F4": [["hay ghi nhớ", "hãy ghi nhớ"]],
+    "29C644": [["chậm mặt địch", "chạm mặt địch"], ["địch đang ăn gần đó", "địch đang ẩn gần đó"], ["hay dùng cách", "hãy dùng cách"]],
+    "29C718": [["Ban từng", "Bạn từng"], ["Nếu hãy làm vậy", "Nếu hay làm vậy"], ["bạn{NL}cần nhiên liệu", "bạn{NL}cạn nhiên liệu"]],
+    "29C904": [["Gió là", "Giờ là"]]
+  }
+}

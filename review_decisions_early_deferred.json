@@ -1,0 +1,20 @@
+{
+  "start": 0,
+  "size": 289,
+  "revisions": {
+    "08103C": "Đảo Tem",
+    "08107C": "Phà Vất Vả",
+    "0811A4": "Eo Mũi",
+    "081424": "Dãy Brace",
+    "082398": "{09}{81}Eo Mũi",
+    "0825D4": "{09}{81}Đảo Tem",
+    "08260C": "{09}{81}Phà Vất Vả",
+    "082728": "T.L",
+    "0827E0": "LỰC    /"
+  },
+  "exclusions": {
+    "0818AC": "SAKU là biến trạng thái dò tìm trong giao diện kiểm thử nội bộ; giữ nguyên byte gốc và định dạng %s.",
+    "0818B4": "Chỉ thị bật dò tìm trong giao diện kiểm thử nội bộ; giữ nguyên byte gốc.",
+    "0818C4": "Chỉ thị tắt dò tìm trong giao diện kiểm thử nội bộ; giữ nguyên byte gốc."
+  }
+}

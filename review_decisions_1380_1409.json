@@ -1,0 +1,23 @@
+{
+  "start": 1380,
+  "size": 30,
+  "replacements": {
+    "2C67D0": [["Cô kể", "Có kẻ"], ["dù hắn ra mắt", "dụ hắn lộ mặt"]],
+    "2C684C": [["mỗi chuyện", "mọi chuyện"]],
+    "2C686C": [["Cô về Sonja", "Có vẻ Sonja"]],
+    "2C696C": [["Hiểu chữ?", "Hiểu chứ?"]],
+    "2C6A10": [["Nhờ nó thì", "Nhớ điều này thì"], ["mà khổng lồ", "mà không lo"]],
+    "2C6AF0": [["Vua rời", "Vừa rời"]],
+    "2C6BA8": [["khó dạy", "khó đấy"]],
+    "2C6DC0": [["Đến lúc rời", "Đến lúc rồi"], ["việc đến tối", "việc đen tối"]],
+    "2C6E38": [["khó dây", "khó đấy"], ["tàu đổ bộ{NL}cho quân", "tàu đổ bộ{NL}chở quân"], ["coi chúng{NL}xe tăng", "coi chừng{NL}xe tăng"]],
+    "2C6F34": [["Ban chỉ huy nhẹ", "Bạn chỉ huy nhé"]],
+    "2C6F50": [["hạ được tả", "hạ được ta"]],
+    "2C6F90": [["nhọc ả", "nhóc ạ"]],
+    "2C7020": [["trước bàn", "trước bạn"]],
+    "2C706C": [["nguy hiểm nhì", "nguy hiểm nhỉ"]],
+    "2C7110": [["Vàng Nell", "Vâng Nell"]],
+    "2C7128": [["Mặt chúng", "Mất chúng"], ["trận đây", "trận đấy"]],
+    "2C7264": [["Chỉ biết mà", "Chị biết mà"]]
+  }
+}

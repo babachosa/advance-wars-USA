@@ -1,0 +1,22 @@
+{
+  "start": 1780,
+  "size": 40,
+  "revisions": {
+    "2E6484": "{UNIT}Tàu đổ bộ{NORMAL} chở{NL}được hai quân bộ.{NL}Nếu {UNIT}tàu đổ bộ{NORMAL} chìm,{NL}quân trên tàu cũng mất.",
+    "2E697C": "Đây là số xăng{NL}hiện tại. Mỗi lượt{NL}tốn hai đơn vị.{NL}Hết xăng sẽ rơi.",
+    "2E6A98": "Đây là số đạn còn{NL}của vũ khí chính.{NL}Khi hết đạn, nó{NL}không thể {COMMAND}Bắn{NORMAL}."
+  },
+  "replacements": {
+    "2E64D8": [["Dũng dựa", "Đừng dựa"]],
+    "2E6604": [["một{NL}đến năm xăng", "một{NL}đến năm đơn vị xăng"]],
+    "2E669C": [["tâm di chuyển", "tầm di chuyển"]],
+    "2E66F4": [["tấm di chuyển", "tầm di chuyển"]],
+    "2E672C": [["tấm di chuyển", "tầm di chuyển"]],
+    "2E67FC": [["tâm di chuyển", "tầm di chuyển"]],
+    "2E691C": [["tồn năm", "tốn năm"]],
+    "2E85CC": [["hay chiếm", "hãy chiếm"]],
+    "2E866C": [["Nhiệm vụ của bản đồ", "Đó là nhiệm vụ của bạn"]],
+    "2E871C": [["Dùng để quân", "Đừng để quân"]],
+    "2E8784": [["Thăng bằng", "Thắng bằng"]]
+  }
+}

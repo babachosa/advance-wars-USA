@@ -1,0 +1,28 @@
+{
+  "start": 900,
+  "size": 30,
+  "replacements": {
+    "29DB80": [["Cú trở lại", "Cứ trở lại"]],
+    "29DBBC": [["A, triển khai", "À, triển khai"], ["đơn vị đo", "đơn vị đó"]],
+    "29DD18": [["A, cứ", "À, cứ"]],
+    "29DD48": [["sẽ đúng", "sẽ dừng"]],
+    "29DD88": [["Hen gặp lại nhẹ", "Hẹn gặp lại nhé"]],
+    "2BC290": [["La chỉ a?", "Là chị à?"]],
+    "2BC2BC": [["Từ này chị", "Từ nay chị"], ["nên chỉ muốn", "nên chị muốn"]],
+    "2BC344": [["Cú yên tâm", "Cứ yên tâm"], ["để thôi", "dễ thôi"]],
+    "2BC370": [["nhiệt tình ca", "nhiệt tình cả"], ["Để chỉ đàn em", "Để chị dặn em"]],
+    "2BC3F0": [["khí thành năng lượng đẩy", "khi thanh năng lượng đầy"], ["Thành này dần dấy lên", "Thanh này dần đầy lên"], ["Khi nó dạy", "Khi nó đầy"], ["Chỉ còn phải", "Chị còn phải"], ["Điều Kiên", "Điều Kiện"], ["Thay mục", "Thấy mục"], ["ba mức", "ba mục"], ["chỉ sẽ nói", "chị sẽ nói"], ["hai mực", "hai mục"], ["Nhớ xem nhẹ", "Nhớ xem nhé"]],
+    "2BC6D0": [["Thanh năng lượng dạ dày", "Thanh năng lượng đã đầy"], ["sửa{NL}mới đơn vị", "sửa{NL}mọi đơn vị"]],
+    "2BC760": [["để chỉ nói", "để chị nói"]],
+    "2BC788": [["hay dùng", "hãy dùng"]],
+    "2BC808": [["lời chỉ", "lời chị"]],
+    "2BC8C8": [["A...", "À..."], ["ban chỉ huy nhẹ", "bạn chỉ huy nhé"]],
+    "2BC914": [["Rồi các ngươi", "Rốt cuộc các ngươi"]],
+    "2BC940": [["Cháu là Andy", "Tôi là Andy"], ["của châu", "của tôi"]],
+    "2BC974": [["Có văn u?", "Cố vấn ư?"], ["Hội ta", "Hồi ta"], ["không để đâu", "không dễ đâu"], ["Cứ cho mà xem", "Nhớ lấy lời ta"]],
+    "2BCA20": [["Nay ông", "Này ông"]],
+    "2BCA3C": [["Hội ta", "Hỏi ta"], ["ai a?", "ai à?"]],
+    "2BCA7C": [["Bộ Nell?", "Bố Nell?"]],
+    "2BCA8C": [["Vô lễ qua", "Vô lễ quá"], ["Coi chúng đây", "Coi chừng đấy"]]
+  }
+}

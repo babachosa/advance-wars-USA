@@ -1,0 +1,23 @@
+{
+  "start": 1440,
+  "size": 30,
+  "replacements": {
+    "2C79B4": [["Nơi vậy thì kho tượng", "Nói vậy thì khó tưởng"]],
+    "2C79F8": [["ác quả", "ác quá"]],
+    "2C7A0C": [["tin hắn", "tin hẳn"], ["Nếu người", "Nếu ngươi"], ["người sẽ", "ngươi sẽ"]],
+    "2C7B78": [["Cô rắc rối rối", "Có rắc rối rồi"], ["Quân do thám", "Quân do thám"]],
+    "2C7C08": [["Chỉ tin", "Chị tin"]],
+    "2C7CD0": [["Y bản", "Ý bạn"], ["Đau phải", "Đâu phải"]],
+    "2C7D90": [["có gì lạ là đâu", "có gì lạ đâu"]],
+    "2C7DF0": [["xe tăng vừa", "xe tăng hạng trung"]],
+    "2C7EDC": [["Ván bài ca cứ", "Vẫn bài ca cũ"]],
+    "2C7F58": [["Cô kể", "Có kẻ"], ["dù hắn ra mắt", "dụ hắn lộ mặt"]],
+    "2C7FD4": [["mỗi chuyện", "mọi chuyện"]],
+    "2C7FF4": [["Cô về Sonja", "Có vẻ Sonja"]],
+    "2C80DC": [["Hiểu chữ?", "Hiểu chứ?"]],
+    "2C81A8": [["Những đúng", "Nhưng dùng"], ["Biến cố", "Biển có"], ["tàu tuần dương{NORMAL} cho", "tàu tuần dương{NORMAL} chở"], ["Dừng, nó", "Đúng, nó"]],
+    "2C8368": [["một tối nữa", "một tôi nữa"]],
+    "2C8388": [["A, dùng roi", "À, đúng rồi"], ["bản sao của người", "bản sao của cậu"]],
+    "2C84F8": [["A, Sami do a", "À, Sami đó à"]]
+  }
+}

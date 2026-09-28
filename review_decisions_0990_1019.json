@@ -1,0 +1,32 @@
+{
+  "start": 990,
+  "size": 30,
+  "revisions": {
+    "2BE294": "Ừ... có lẽ cậu nói đúng.{PAGE}Này, Andy!{NL}Xin lỗi vì ta cư xử thô lỗ.{PAGE}",
+    "2BEA8C": "Không thể nào!{PAGE}Hải quân đẹp đẽ của ta{NL}đã bị đánh tan!{PAGE}Bọn... bọn vô lại!{PAGE}Giờ các ngươi phải hứng chịu{NL}đòn tấn công từ biển của Olaf!{PAGE}"
+  },
+  "replacements": {
+    "2BE1C8": [["Tiền đang nói", "Tiện đang nói"], ["thang{NL}nhóc", "thằng{NL}nhóc"]],
+    "2BE2DC": [["Nay, Grit", "Này, Grit"]],
+    "2BE310": [["Sao thể nhọc?", "Sao thế nhóc?"]],
+    "2BE368": [["Ôi, muốn rồi", "Ôi, muộn rồi"]],
+    "2BE3F0": [["thất phiên", "thật phiền"]],
+    "2BE4F0": [["Nay, {PLAYER}", "Này, {PLAYER}"], ["gì nhi?", "gì nhỉ?"]],
+    "2BE528": [["Nhờ tốt", "Nhớ tốt"]],
+    "2BE584": [["Địch đang ăn ngoài kia,{NL}như bạn đoàn rời đây", "Địch đang ẩn ngoài kia,{NL}như bạn đoán rồi đấy"]],
+    "2BE624": [["Ghế thật", "Ghê thật"]],
+    "2BE65C": [["Nhưng chúng yêu", "Nhưng chúng yếu"]],
+    "2BE708": [["Hạ hạ hạ hạ hạ", "Ha ha ha ha ha"]],
+    "2BE7FC": [["Hạ hạ hạ hạ hạ", "Ha ha ha ha ha"]],
+    "2BE858": [["đâu có nghề", "đâu có nghe"]],
+    "2BE8E0": [["Cụ thể này", "Cứ thế này"]],
+    "2BE938": [["Ra ngoài chân quân", "Ra ngoài chặn quân"]],
+    "2BE968": [["cho tôi đúng", "cho tôi dùng"]],
+    "2BE9AC": [["Đừng cái!", "Đừng cãi!"], ["Lát nữa ta vẽ", "Lát nữa ta về"]],
+    "2BEA20": [["A, cuối", "À, cuối"], ["gì hay họ", "gì hay ho"]],
+    "2BEB04": [["Lẽ ra bắn nên", "Lẽ ra bạn nên"], ["Thời, lần", "Thôi, lần"]],
+    "2BEC50": [["a?", "à?"]],
+    "2BEC7C": [["Là tai tuyết chết tiệt độ", "Là tại tuyết chết tiệt đó"], ["như thương", "như thường"]],
+    "2BED10": [["tuyệt{NL}a", "tuyết{NL}à"], ["không tẻ lắm", "không tệ lắm"]]
+  }
+}

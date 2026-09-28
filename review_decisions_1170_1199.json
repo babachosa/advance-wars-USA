@@ -1,0 +1,26 @@
+{
+  "start": 1170,
+  "size": 30,
+  "replacements": {
+    "2C1C58": [["nhiều{NL}nhánh", "nhiều{NL}nhanh"]],
+    "2C1CAC": [["quân bạn gián tiếp", "quân bắn gián tiếp"], ["hay ở", "hãy ở"]],
+    "2C1DA0": [["Nay!", "Này!"], ["quân đầu?", "quân đâu?"]],
+    "2C1E58": [["Vàng", "Vâng"]],
+    "2C1E68": [["Chỉ trông", "Chị trông"]],
+    "2C1EB0": [["Nay Nell", "Này Nell"], ["Chỉ muốn", "Chị muốn"]],
+    "2C1F50": [["quân mã", "quân mà"]],
+    "2C1F84": [["quân cần đúng", "quân cần dùng"]],
+    "2C1FC4": [["Anh nhờ cách làm chủ?", "Anh nhớ cách làm chứ?"]],
+    "2C2024": [["Nay!", "Này!"], ["là ngỡ", "là ngốc"], ["là nhỏ", "là nhớ"]],
+    "2C205C": [["anh để trêu", "anh dễ trêu"]],
+    "2C2108": [["Em tình mật thật", "Em tinh mắt thật"], ["cần chị{NL}em", "cần chỉ{NL}em"], ["gì nhi?", "gì nhỉ?"]],
+    "2C216C": [["Vàng", "Vâng"]],
+    "2C21B8": [["từ đầu", "từ đâu"], ["làm thế", "lắm thế"]],
+    "2C225C": [["Điều quân trọng", "Điều quan trọng"], ["Dừng {UNIT}", "Dùng {UNIT}"], ["xe tăng vừa", "xe tăng hạng trung", 2], ["quân tâm xa bàn", "quân tầm xa bắn"], ["hỏa tiễn", "pháo tên lửa"], ["Nho {COMMAND}", "Nhớ {COMMAND}"]],
+    "2C23E4": [["rất khó{NL}dạy", "rất khó{NL}đây"]],
+    "2C246C": [["gì nhì?", "gì nhỉ?"]],
+    "2C2488": [["còn đèn đỏ", "còn đến đó"]],
+    "2C24E8": [["A, hiểu", "À, hiểu"]],
+    "2C2534": [["Cử bỏ", "Cứ bỏ"]]
+  }
+}

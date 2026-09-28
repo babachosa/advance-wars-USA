@@ -1,0 +1,25 @@
+{
+  "start": 2220,
+  "size": 40,
+  "revisions": {
+    "2FAA18": "Đừng tưởng lừa được tôi!"
+  },
+  "replacements": {
+    "2FA910": [["A, tôi", "À, tôi"], ["đi chân chúng", "đi chặn chúng"], ["Khoán", "Khoan"]],
+    "2FA9C4": [["hãn", "hắn"]],
+    "2FAA2C": [["Gió đến", "Giờ đến"]],
+    "2FAFBC": [["như địch", "như dịch"], ["đổi lấy đất ta", "đòi lấy đất ta"]],
+    "2FB0FC": [["đã muốn", "đã muộn"]],
+    "2FB148": [["Chao! Ho", "Chà! Họ"]],
+    "2FB17C": [["Phu!", "Phù!"]],
+    "2FB7B4": [["Bối tay", "Bó tay", 2], ["không động lắm", "không đông lắm"]],
+    "2FB854": [["quân số đồng", "quân số đông"]],
+    "2FB894": [["Những trước", "Nhưng trước"]],
+    "2FB900": [["Cha phải nhờ", "Cha phải nhớ"], ["cha tôi thì", "cha tới thì"]],
+    "2FB9C0": [["ngẫu thật", "ngầu thật"]],
+    "2FC0B4": [["Cha cứ đó tại", "Cha cứ đổ tại"]],
+    "2FC140": [["Những con", "Nhưng con"]],
+    "2FC150": [["Dung than van", "Đừng than van"], ["có mã", "cơ mà"]],
+    "2FC1A4": [["Còn nói đúng", "Con nói đúng"]]
+  }
+}

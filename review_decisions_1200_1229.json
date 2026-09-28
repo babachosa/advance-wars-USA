@@ -1,0 +1,26 @@
+{
+  "start": 1200,
+  "size": 30,
+  "replacements": {
+    "2C26A4": [["và càng", "và cảng"]],
+    "2C26DC": [["gì nhì?", "gì nhỉ?"]],
+    "2C2704": [["càng tạo", "cảng tạo"]],
+    "2C277C": [["A, hiểu", "À, hiểu"]],
+    "2C27C8": [["Cử bỏ", "Cứ bỏ"]],
+    "2C28D4": [["Họ hò hò", "Hô hô hô"], ["sản xuất quán{NL}chất đông", "sản xuất quân{NL}thật đông"]],
+    "2C2A3C": [["Còn điện sao?", "Con điên sao?"]],
+    "2C2A64": [["Ban trước hội sau", "Bắn trước hỏi sau"], ["cha cũng bán trả", "cha cũng bắn trả"]],
+    "2C2AF4": [["hiểu chúa?", "hiểu chưa?"]],
+    "2C2BE4": [["căn cứ đo quá tế", "căn cứ đó quá tệ"]],
+    "2C2C64": [["đích chiếm", "địch chiếm"]],
+    "2C2C9C": [["Sami nội dung hoàn toàn", "Sami nói đúng hoàn toàn"], ["Lẽ ra bắn", "Lẽ ra bạn"], ["ổn thời", "ổn thôi"]],
+    "2C2D38": [["Nay, {PLAYER}", "Này, {PLAYER}"], ["Tôi bị vậy rồi", "Tôi bị vây rồi"], ["Quân Yellow Comet a?", "Quân Yellow Comet à?"], ["bị bay rơi", "bị gài bẫy"]],
+    "2C2E28": [["anh yêu", "anh yếu"], ["anh là không đối thủ", "anh không có đối thủ"]],
+    "2C2EF8": [["Những chỗ chật", "Nhưng ở chỗ chật"], ["để thanh{NL}bia", "dễ thành{NL}bia"], ["Hay như địch", "Hãy nhử địch"], ["làm ảnh hài lòng", "làm anh hài lòng"]],
+    "2C3058": [["Nay! (ngập)", "Này! (ngáp)"]],
+    "2C308C": [["Ngụ ngôn nhẹ", "Ngủ ngon nhé"]],
+    "2C30A0": [["Như vậy bắn", "Như vậy bạn"]],
+    "2C317C": [["con nhóc do gái bay", "con nhóc đó gài bẫy"], ["được bản chữ?", "được bạn chứ?"]],
+    "2C31DC": [["Thật a?", "Thật à?"]]
+  }
+}

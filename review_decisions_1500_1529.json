@@ -1,0 +1,24 @@
+{
+  "start": 1500,
+  "size": 30,
+  "replacements": {
+    "2C8C44": [["Nay!", "Này!"]],
+    "2C8C68": [["Không có gió nói chuyện, nhọc", "Không có giờ nói chuyện, nhóc"], ["chỗ ăn", "chỗ ẩn"]],
+    "2C8CAC": [["Há?", "Hả?"]],
+    "2C8CC8": [["Đây mới là đầu đuôi{NL}của hãn thời", "Đây mới là phần đuôi{NL}của hắn thôi"]],
+    "2C8D10": [["và càng", "và cảng"], ["Dừng {UNIT}", "Dùng {UNIT}"]],
+    "2C8EF4": [["Ai chạy cờ?", "Ai chạy cơ?"], ["hạ hẳn", "hạ hắn"]],
+    "2C8F20": [["Andy nội dung", "Andy nói đúng"], ["tha hẳn", "tha hắn"]],
+    "2C8FE8": [["Khoản, Max", "Khoan, Max"], ["De Andy", "Để Andy"], ["nhí?", "nhỉ?"]],
+    "2C9018": [["A, phải. Câu", "À, phải. Cậu"]],
+    "2C9034": [["Thời được, anh ban tổ", "Thôi được, anh bạn to"]],
+    "2C90BC": [["Coi chừng đây", "Coi chừng đấy"]],
+    "2C90D4": [["ổn chu?", "ổn chứ?"]],
+    "2C90FC": [["Kẻ khôn kia", "Kẻ khốn kia"]],
+    "2C9138": [["biết a?", "biết à?"]],
+    "2C9158": [["Há?", "Hả?"]],
+    "2C91A4": [["giúp người", "giúp ngươi"]],
+    "2C91EC": [["tự đầu ra?", "từ đâu ra?"]],
+    "2C9210": [["không thể thả", "không thể tha"]]
+  }
+}

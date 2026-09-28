@@ -1,0 +1,24 @@
+{
+  "start": 1980,
+  "size": 40,
+  "replacements": {
+    "2EDF60": [["thật tế", "thật tệ"]],
+    "2EDFE8": [["cho bắn", "cho bạn"]],
+    "2EE0FC": [["Ban mặt bao lâu", "Bạn mất bao lâu"], ["quân và bạn gián tiếp", "quân và bắn gián tiếp"]],
+    "2EE148": [["Nay!", "Này!"], ["roi!", "rồi!"]],
+    "2EE1A8": [["cho bạn đừng", "cho bạn dùng"]],
+    "2EE408": [["khổng lồ được", "không lo được"], ["đã lộ được", "đã lo được"]],
+    "2EE520": [["và giới{NL}chỉ huy", "và giỏi{NL}chỉ huy"], ["muốn thú nhận ông", "muốn thu nhận ông"]],
+    "2EE68C": [["đánh chung", "đánh chúng"]],
+    "2EE730": [["Thằng ở đây", "Thắng ở đây"]],
+    "2EE860": [["Ngò ngang chúa! Ban đến", "Ngỡ ngàng chưa! Bạn đến"]],
+    "2EE8A0": [["cho{NL}bản lời thề", "cho{NL}bạn lợi thế"]],
+    "2EFCC8": [["Hay nhập", "Hãy nhập"]],
+    "2EFCFC": [["Dùng chưa?", "Đúng chưa?"]],
+    "2EFD10": [["Mừng đến", "Chào mừng đến với"]],
+    "2EFD9C": [["vài điệu", "vài điều"], ["Chế độ Đầu", "Chế độ Đấu"], ["nhiều mây", "nhiều máy"], ["hãy nói{NL}với bạn bè và thú", "hãy nối{NL}với bạn bè và thử"], ["nhẹ?", "nhé?"]],
+    "2F0020": [["A, tôi", "À, tôi"], ["cách quá nhanh", "cách qua nhanh"], ["nhung...", "nhưng..."]],
+    "2F0164": [["Chế độ Đầu", "Chế độ Đấu"]],
+    "2F02D4": [["vài điệu", "vài điều"], ["Chế độ Đầu", "Chế độ Đấu"], ["nhiều mây", "nhiều máy"], ["hãy nói{NL}với bạn bè và thú", "hãy nối{NL}với bạn bè và thử"], ["nói{NL}tới đây bàn cách chơi", "nơi{NL}tôi dạy bạn cách chơi"]]
+  }
+}

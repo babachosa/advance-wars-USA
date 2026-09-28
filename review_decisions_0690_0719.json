@@ -1,0 +1,30 @@
+{
+  "start": 690,
+  "size": 30,
+  "revisions": {
+    "298350": "Cái gì?!{PAGE}Chúng phát hiện quân đổ bộ của ta?{PAGE}Agh! Không còn cách nào khác!{PAGE}Ta đành dùng những gì{NL}mình đang có!{PAGE}"
+  },
+  "replacements": {
+    "2972A8": [["{UNIT}chiến đấu{NORMAL}", "{UNIT}tiêm kích{NORMAL}"], ["Cú phát huy nhẹ", "Cứ phát huy nhé"]],
+    "29736C": [["quên dò xăng", "quên đổ xăng"], ["Bọn ngũ", "Bọn ngu"], ["Do xăng máy bay khó đến thế a?", "Đổ xăng máy bay khó thế à?"]],
+    "2973FC": [["{UNIT}chiến đấu{NORMAL}", "{UNIT}tiêm kích{NORMAL}"]],
+    "2974E4": [["Ban đã", "Bạn đã"]],
+    "297514": [["Có vé", "Có vẻ"]],
+    "297688": [["ba đến nằm ở{NL}nằm", "ba đến năm ô{NL}nằm"]],
+    "297744": [["Thứ {UNIT}tên lửa{NORMAL}, hay chọn", "Thử {UNIT}tên lửa phòng không{NORMAL}, hãy chọn"]],
+    "297778": [["Thấy chú", "Thấy chứ"], ["bắn từ xa, không gần như", "bắn từ xa, không áp sát như"], ["{COMMAND}Bắn{NORMAL} ngày", "{COMMAND}Bắn{NORMAL} ngay"]],
+    "2978D4": [["cơ hội thu chung", "cơ hội thử chúng"]],
+    "297910": [["ba đến nằm ở", "ba đến năm ô"]],
+    "297A30": [["khi quá{NL}đất phẳng", "khi qua{NL}đất phẳng"], ["nhận{NL}R", "nhấn{NL}R"], ["Cô muốn gợi ý", "Có muốn gợi ý"]],
+    "297C78": [["quấn quanh số chỉ huy", "quân quanh sở chỉ huy"], ["bắn sẽ thẳng", "bạn sẽ thắng"], ["Tuy bạn chọn cách", "Tùy bạn chọn cách"]],
+    "297E20": [["Thư xem", "Thử xem"], ["quả mận", "qua màn"], ["giới thì", "giỏi thì"]],
+    "297F18": [["Cú phát huy nhẹ", "Cứ phát huy nhé"]],
+    "297FA0": [["Giới làm", "Giỏi lắm"], ["Cú phát huy nhẹ", "Cứ phát huy nhé"]],
+    "297FC4": [["Hồi lâu", "Hơi lâu"], ["Cú phát huy", "Cứ phát huy"]],
+    "29805C": [["Nhờ loại quân nào", "Nhớ loại quân nào"], ["Lạm dụng thẻ", "Làm đúng thế"]],
+    "2981D4": [["chuẩn bị xông quân", "chuẩn bị xong quân"], ["Nếu quen", "Nếu quên"], ["Cụ xem", "Cứ xem"], ["Đưa trở", "Đưa con trỏ"], ["nhận R", "nhấn R"], ["nhờ chứ", "nhớ chứ"]],
+    "2983CC": [["đặt hàng S", "đạt hạng S"], ["Cú phát huy", "Cứ phát huy"]],
+    "2984C4": [["Cú phát huy", "Cứ phát huy"]],
+    "298554": [["Giới làm", "Giỏi lắm"], ["Cú phát huy nhẹ", "Cứ phát huy nhé"]]
+  }
+}

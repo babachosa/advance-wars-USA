@@ -1,0 +1,20 @@
+{
+  "start": 1260,
+  "size": 30,
+  "replacements": {
+    "2C3DC4": [["bốn tối", "bọn tôi"]],
+    "2C3EBC": [["Hạ hà", "Ha ha"], ["Andy để phối hợp", "Andy dễ phối hợp"]],
+    "2C3FE4": [["Nay! Đừng lo tới!", "Này! Đừng lờ tôi!"]],
+    "2C400C": [["Hãy lo chờ", "Hãy lo cho"]],
+    "2C4084": [["Chỉ không cần lộ", "Chị không cần lo"], ["Hến gặp", "Hẹn gặp"]],
+    "2C40B4": [["Nay! Dũng lại!", "Này! Đứng lại!"]],
+    "2C4104": [["Chó thả quân xưởng", "Chỗ thả quân xuống"], ["Lần sau thụ thả", "Lần sau thử thả"], ["tốt hơn đây", "tốt hơn đấy"], ["Dũng bỏ", "Đừng bỏ"]],
+    "2C41F4": [["Pháp đài Coral", "Pháo đài Coral"]],
+    "2C4290": [["Ở đây dòng địch quả", "Ở đây đông địch quá"]],
+    "2C42B8": [["quân trọng", "quan trọng"], ["là tháng", "là thắng"]],
+    "2C43FC": [["Dừng các căn cứ này đi", "Dùng các căn cứ này đi"], ["Trồng cây vào bản", "Trông cậy vào bạn"]],
+    "2C4478": [["Nay {PLAYER}", "Này {PLAYER}"], ["nha nhi?", "nhỉ?"]],
+    "2C44B4": [["Đến lúc rời", "Đến lúc rồi"]],
+    "2C45B0": [["khó tin tức nhị", "kho tin tức nhỉ"]]
+  }
+}

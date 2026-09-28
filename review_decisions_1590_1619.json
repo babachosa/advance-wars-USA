@@ -1,0 +1,21 @@
+{
+  "start": 1590,
+  "size": 30,
+  "revisions": {
+    "2E25AC": "Hỡi gió chiến tranh, hãy đem tuyết tới!{0E}{0E}{0E}{0E}",
+    "2E263C": "Giờ các ngươi sẽ lãnh đủ!{0E}{0E}{0E}{0E}",
+    "2E265C": "Đại bàng bay cao trên các ngươi!{0E}{0E}{0E}{0E}"
+  },
+  "replacements": {
+    "2CA53C": [["Phải, những", "Phải, nhưng"]],
+    "2CA55C": [["Nay Andy", "Này Andy"], ["Người có{NL}đảm nhận lỗi?", "Ngươi có{NL}dám nhận lời?"]],
+    "2CA5E0": [["Danh nữa a?", "Đánh nữa à?"]],
+    "2CA608": [["quân nhì?", "quân nhỉ?"]],
+    "2CA65C": [["Biết chữ! Em dùng cần cù", "Biết chứ! Em dùng căn cứ"]],
+    "2CA734": [["A, phái", "À, phải"]],
+    "2CA840": [["Nhung", "Nhưng"]],
+    "2CA874": [["Nay!", "Này!"]],
+    "2CA898": [["Lần tôi", "Lần tới"]],
+    "2E267C": [["Vậy tay", "Vẫy tay"]]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "start": 2260,
+  "size": 40,
+  "revisions": {
+    "2FCC74": "Trống.{PAGE}",
+    "2FCC98": "Trống.{PAGE}",
+    "2FCCA0": "Trống.",
+    "2FCCB0": "Trống.",
+    "2FD4E4": "Trống.{PAGE}",
+    "2FD4EC": "Trống.{PAGE}",
+    "2FD500": "Trống.",
+    "2FD508": "Trống."
+  },
+  "replacements": {
+    "2FC260": [["gần đích", "gần địch"]],
+    "2FC29C": [["quân trọng", "quan trọng"]],
+    "2FC310": [["thua đau", "thua đâu"]],
+    "2FC3B4": [["Vật và", "Vất vả"]],
+    "2FC99C": [["nói hết cậu", "nói hết câu"]],
+    "2FCA1C": [["Còn thừa nhận", "Con thừa nhận"]],
+    "2FCAA4": [["còn sẽ", "con sẽ"]],
+    "2FCB38": [["Còn cần", "Con cần", 2]],
+    "2FCBBC": [["Thẻ này nhẹ", "Thế này nhé"], ["là còn", "là con"]],
+    "2FCC7C": [["Nay!", "Này!"]],
+    "2FD2C8": [["anh ngữ thế", "anh ngủ thế"], ["Đây đi, do tổ con", "Dậy đi, đồ to con"]],
+    "2FD31C": [["Cô gọi cùng vô ích", "Cô gọi cũng vô ích"]],
+    "2FD374": [["Tách bà chúng", "Tách ba chúng"]],
+    "2FD3E4": [["Đoàn giỏi làm", "Đoán giỏi lắm"], ["Hiểu chữ?", "Hiểu chứ?"]],
+    "2FD4CC": [["Nay!", "Này!"]],
+    "2FD510": [["nói giận", "nổi giận"]],
+    "2FDA94": [["ơn không", "ổn không"]],
+    "2FDAD8": [["Đây đi", "Dậy đi"]],
+    "2FDAE4": [["A...", "À..."]],
+    "2FDB00": [["Sao chỉ mới tới là", "Sao chỉ mình tôi là"], ["Sonja đặt mũi chúng ta quay", "Sonja dắt mũi chúng ta quay"], ["Giờ tối mật quân", "Giờ tôi mất quân"], ["Đây và đi đi", "Dậy và đi đi"], ["Gió đến lượt em", "Giờ đến lượt em"]]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "start": 2100,
+  "size": 40,
+  "revisions": {
+    "2F5A7C": "Trống.",
+    "2F5A84": "Trống.",
+    "2F6324": "Trống.",
+    "2F632C": "Trống.",
+    "2F6A18": "Trống.",
+    "2F6A20": "Trống."
+  },
+  "replacements": {
+    "2F5F4C": [["Grit dầu", "Grit đâu"]],
+    "2F5FA0": [["Rau răm a?", "Râu rậm à?"], ["Người...", "Ngươi..."]],
+    "2F5FBC": [["Lỗ miệng", "Lỡ miệng"]],
+    "2F5FEC": [["Dù rồi", "Đủ rồi"], ["thang{NL}nhọc", "thằng{NL}nhóc"], ["Nên dùng chủ quân", "Nên đừng chủ quan"], ["cho người", "cho ngươi"]],
+    "2F6184": [["Do lười biếng", "Đồ lười biếng"], ["Người nghĩ", "Ngươi nghĩ"], ["Con không", "Còn không"]],
+    "2F6234": [["từ đầu", "từ đâu"]],
+    "2F6EF8": [["mọi người đời", "mọi người đợi"]],
+    "2F6F7C": [["CO mới a?", "CO mới à?"]],
+    "2F6FAC": [["vừa đánh trực diện", "vua đánh trực diện"], ["hỏa lực tối", "hỏa lực tôi"]],
+    "2F7068": [["Hãy!", "Hay!"]],
+    "2F7070": [["những{NL}nơi điểm yếu", "nhưng{NL}nói điểm yếu"], ["Nay {PLAYER}", "Này {PLAYER}"], ["chôn CO", "chọn CO"], ["điệu hướng", "điều hướng"]],
+    "2F7118": [["vướng về thật a?", "vụng về thật à?"]],
+    "2F7130": [["vui tỉnh dậy", "vui tính đấy"], ["Chồn CO cho trần tội", "Chọn CO cho trận tới"]]
+  }
+}

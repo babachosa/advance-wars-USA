@@ -1,0 +1,25 @@
+{
+  "start": 930,
+  "size": 30,
+  "replacements": {
+    "2BCB18": [["Chỉ khuyên", "Chị khuyên"]],
+    "2BCBE0": [["đừng không{NL}Andy?", "đúng không,{NL}Andy?"]],
+    "2BCCC4": [["đứa con trở", "đưa con trỏ"], ["nhận A", "nhấn A", 2], ["hiến máu xám", "hiện màu xám"], ["Hãy nhờ đấy", "Hãy nhớ đấy"], ["cung lướt", "cùng lượt"]],
+    "2BCEC8": [["Có độ không?", "Có đó không?"]],
+    "2BCEE4": [["Vàng, Nell", "Vâng, Nell"]],
+    "2BCF10": [["giỏi bạn gián tiếp", "giỏi bắn gián tiếp"]],
+    "2BD004": [["Rô roi. Ma Nell này", "Rõ rồi. Mà Nell này"], ["Sao chỉ biết", "Sao chị biết"]],
+    "2BD048": [["Chỉ cần nói", "Chị chỉ cần nói"]],
+    "2BD098": [["quá nhì", "quá nhỉ"]],
+    "2BD0D4": [["vốn đầu phái{NL}của Blue Moon", "vốn đâu phải{NL}của Blue Moon"], ["thăm làm", "tham lam"], ["Chỉ có thể thôi", "Chỉ có thế thôi"], ["Dành cho đám", "Đánh cho đám"]],
+    "2BD1B4": [["của câu", "của cậu"]],
+    "2BD1F4": [["La Andy", "Là Andy"]],
+    "2BD228": [["Hai cầu", "Hai cậu"]],
+    "2BD274": [["Thi sao?", "Thì sao?"], ["Nay!", "Này!"]],
+    "2BD29C": [["các cầu thang ta", "các cậu thắng ta"], ["Cà câu nữa, nhọc", "Cả cậu nữa, nhóc"]],
+    "2BD3AC": [["quân bạn gián tiếp", "quân bắn gián tiếp"], ["thành sức mạnh đấy", "thanh sức mạnh đầy"], ["nên bắn{PAGE}không cần", "nên bạn{PAGE}không cần"], ["trận tối", "trận tới"]],
+    "2BD548": [["do không phải", "đó không phải"], ["cần qua thì cứ đúng", "cần quá thì cứ dùng"], ["cho Andy nhe?", "cho Andy nhé?"]],
+    "2BD604": [["Chỉ biết rồi! Chỉ biết", "Chị biết rồi! Chị biết"], ["rất đủ đầy", "rất dữ dằn"]],
+    "2BD6F0": [["Chỉ đến", "Chị đến"]]
+  }
+}

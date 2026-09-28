@@ -1,0 +1,25 @@
+{
+  "start": 870,
+  "size": 30,
+  "replacements": {
+    "29C984": [["đơn vị a?", "đơn vị à?"], ["cho bản", "cho bạn"], ["Đi con trỏ để đợi", "Di con trỏ để đổi"], ["A, còn", "À, còn"], ["Thứ đi", "Thử đi"]],
+    "29CAE0": [["Nút L a?", "Nút L à?"], ["Phong Chiên", "Phòng Chiến"], ["Chiến Địch", "Chiến Dịch"], ["Bản thu xem", "Bạn thử xem"]],
+    "29CC50": [["địa hình tồn bao nhiêu", "địa hình tốn bao nhiêu"], ["Xem cũng dữ liệu", "Xem cùng dữ liệu"], ["A, tôi", "À, tôi"]],
+    "29CDD8": [["Nhân lên xuống", "Nhấn lên xuống"], ["Nhan Á", "Nhấn A"], ["đổi thư từ", "đổi thứ tự"]],
+    "29CF28": [["mức Loài", "mục Loại"], ["Nhận trại phải", "Nhấn trái phải"]],
+    "29CF9C": [["Giờ tối nói", "Giờ tôi nói"], ["tử menu", "từ menu"]],
+    "29D024": [["Bạn quen mực", "Bạn quên mục"]],
+    "29D06C": [["ba mức riêng", "ba mục riêng"]],
+    "29D0BC": [["Nhân trái phải", "Nhấn trái phải"]],
+    "29D12C": [["Tinh hình trận đấu", "Tình hình trận đấu"], ["{PAGE}Đó.{PAGE}", "{PAGE}"]],
+    "29D1F8": [["tiền tạ nhân", "tiền ta nhận"]],
+    "29D244": [["tiền bán", "tiền bạn"]],
+    "29D278": [["của ban", "của bạn"]],
+    "29D320": [["Gió đến", "Giờ đến"]],
+    "29D494": [["Cần tới", "Cần tôi"]],
+    "29D4BC": [["hay thư", "hãy thử"]],
+    "29D4E0": [["lựa chọn tội", "lựa chọn tôi"], ["Chiến Địch", "Chiến Dịch", 2], ["A, tôi", "À, tôi"], ["mức khác nhẹ?", "mục khác nhé?"]],
+    "29D728": [["triển khai quán", "triển khai quân"], ["quân bò", "quân bộ"], ["điệu hướng", "điều hướng"], ["quân từ ngay sau khi sản xuất", "quân từ ngày sau khi sản xuất"], ["phải đúng chỗ", "phải đứng chờ"], ["Bản phần văn nên tạo quân gì", "Bạn phân vân nên tạo quân gì"], ["loại bản dùng", "loại bạn dùng"], ["đệ nhất", "dễ nhất"], ["thu các loại quân khác", "thử các loại quân khác"]],
+    "29DA20": [["đơn vị đo", "đơn vị đó"], ["Những ngày sản xuất", "Nhưng ngày sản xuất"]]
+  }
+}

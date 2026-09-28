@@ -1,0 +1,40 @@
+{
+  "start": 480,
+  "size": 60,
+  "revisions": {
+    "290E00": "Trở lại chuyện căn cứ nào.{PAGE}Cho quân bị thương vào căn cứ,{NL}mỗi lượt sẽ hồi ít HP.{PAGE}Mỗi ngày bạn nhận 1000 G{NL}từ mỗi phố đã {COMMAND}Chiếm{NORMAL}.{PAGE}Tiền này rất cần để hồi{NL}HP cho quân bạn.{PAGE}Tiền còn dùng việc khác,{NL}tôi sẽ nói sau.{PAGE}",
+    "2912D8": "Nhìn đây để biết còn{NL}bao lâu để chiếm thành phố.{PAGE}Điểm chiếm giờ là mười.{PAGE}Khi số đó xuống{NL}không, thành phố thuộc bạn!{PAGE}{UNIT}Bộ binh{NORMAL} có mười HP, nên{NL}cần hai ngày để {COMMAND}Chiếm{NORMAL} thành phố{PAGE}có điểm chiếm là hai mươi.{PAGE}Quân bị thương ít HP hơn,{NL}nên {COMMAND}Chiếm{NORMAL} lâu hơn.{PAGE}",
+    "29200C": "Quân này vẫn dễ bị đánh{NL}bởi {UNIT}xe tăng{NORMAL} của địch.{PAGE}Đưa trỏ vào quân rồi nhấn{NL}B để xem{PAGE}tầm đánh. Vùng nó có thể {COMMAND}Bắn{NORMAL}{NL}sẽ hiện màu đỏ.{PAGE}"
+  },
+  "replacements": {
+    "29064C": [["Dừng di chuyển", "Đừng di chuyển"], ["chiếm mã{NL}về 0 HP", "chiếm mà{NL}về 0 HP"]],
+    "290834": [["Nhờ nhấn", "Nhớ nhấn"]],
+    "2908A0": [["Chi {UNIT}", "Chỉ {UNIT}"], ["Hãy nhờ khi", "Hãy nhớ khi"]],
+    "290940": [["đến ở này", "đến ô này"]],
+    "290A20": [["Những khoản", "Nhưng khoan"], ["Nghiên nát", "Nghiền nát"], ["Lần này hay chiến thắng", "Lần này hãy chiến thắng"]],
+    "290BE4": [["quen chiếm xong", "quên chiếm xong"], ["lệnh cứ trước", "lệnh từ trước"]],
+    "290CDC": [["Ban cán", "Bạn cần"]],
+    "290D34": [["cũng mau với", "cùng màu với"], ["Hãy đừng làm", "Giờ dùng làm"]],
+    "290F30": [["Giờ dừng {UNIT}", "Giờ dùng {UNIT}"]],
+    "291000": [["Giờ tối cho", "Giờ tôi cho"]],
+    "291020": [["trọng{NL}tâm di chuyển", "trong{NL}tầm di chuyển"], ["nổi nào trước", "nơi nào trước"]],
+    "2910D0": [["Ban cán", "Bạn cần"]],
+    "291130": [["Những chiếm nơi", "Nhưng chiếm nơi"]],
+    "2911D8": [["Không, do chưa phải", "Không, đó chưa phải"], ["thành phố nên{NL}", "thành phố cần{NL}"], ["Những chiếm của địch", "Nhưng chiếm của địch"]],
+    "291424": [["Từ giờ tối để bàn tự", "Từ giờ tôi để bạn tự"]],
+    "2914E4": [["Nên dùng gần căn cứ", "Nên đứng gần căn cứ"], ["{UNIT}bộ binh{NORMAL} cung", "{UNIT}bộ binh{NORMAL} cùng"], ["khi bắn{NL}thử", "khi bạn{NL}thử"], ["số chỉ huy địch", "sở chỉ huy địch"], ["bánh xích không cho nổ", "bánh xích không cho nó"], ["Đứa con trỏ", "Đưa con trỏ"], ["nhận R", "nhấn R"], ["Còn một điệu cười", "Còn một điều nữa"]],
+    "2916F4": [["Dùng để địch", "Đừng để địch"]],
+    "291754": [["cho tiện", "cho tiền"]],
+    "291850": [["Ban cho bốn {UNIT}xe tăng{NORMAL}{NL}thay tài năng rồi!", "Bạn đã cho bọn {UNIT}xe tăng{NORMAL}{NL}thấy tài năng rồi!"], ["thay chứ?", "thấy chứ?"], ["cho tiện", "cho tiền"]],
+    "2919C4": [["Lữ ngữ vô dụng", "Lũ ngốc vô dụng"], ["Cứ cho đó!", "Cứ chờ đó!"], ["các người thầy!", "các người thấy!"]],
+    "291A88": [["rồi thứ nữa", "rồi thử nữa"]],
+    "291ACC": [["hạn hiệu", "hắn hiểu"], ["Pháo Đài Mạt Tích", "Pháo Đài Thất Lạc"]],
+    "291B74": [["đưa hải quân đổ", "đưa hai quân đó"]],
+    "291D98": [["Đừng rơi", "Đúng rồi"]],
+    "291E44": [["gần đích", "gần địch"], ["tiêu chắc", "chắc tiêu"]],
+    "291EA0": [["trong tâm di chuyển", "trong tầm di chuyển"]],
+    "291F8C": [["làm bẩn rồi", "làm bạn rối"]],
+    "291FD0": [["chưa thể dùng", "chưa thể dừng"]],
+    "2920D0": [["Quân ta có thể dùng là", "Quân ta hiện có là"]]
+  }
+}

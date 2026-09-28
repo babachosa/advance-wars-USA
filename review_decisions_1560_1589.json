@@ -1,0 +1,27 @@
+{
+  "start": 1560,
+  "size": 30,
+  "revisions": {
+    "2C9C90": "Có vẻ chặng đường dài{NL}đã đến hồi kết.{PAGE}Ôi trời đất ơi!{PAGE}Chẳng phải bạn cũ của ta,{NL}Olaf râu rậm đây sao?{PAGE}",
+    "2CA008": "Thật đấy!{PAGE}Cha ơi... Con thật lòng cảm ơn cha.{PAGE}Cha nhớ mẹ từng nói gì{NL}với con không?{PAGE}'Cha con hơi ngốc, nhưng khi con{NL}cần, cha sẽ luôn ở bên.'{PAGE}"
+  },
+  "replacements": {
+    "2C9BCC": [["cả ta{NL}rắc rối", "cả tá{NL}rắc rối"]],
+    "2C9C10": [["Kẻ đi", "Kệ đi"], ["Hạ hạ hạ hạ hạ", "Ha ha ha ha ha"]],
+    "2C9D10": [["Grit do sao?", "Grit đó sao?"]],
+    "2C9DE4": [["Người... nội dung", "Ngươi... nói đúng"]],
+    "2C9DFC": [["Blue Moon đói tốt", "Blue Moon đối tốt"], ["ta nợ hộ", "ta nợ họ"], ["lại nó nhẹ?", "lại nó nhé?"]],
+    "2C9E78": [["Y người", "Ý ngươi"], ["người... người", "ngươi... ngươi"], ["sút sit", "sụt sịt"]],
+    "2C9F0C": [["Người vừa", "Ngươi vừa"]],
+    "2C9F24": [["Tôi đau", "Tôi đâu"], ["thổi", "thôi"]],
+    "2C9F64": [["Còn có", "Con có"]],
+    "2C9F80": [["Vàng", "Vâng"]],
+    "2C9F9C": [["Nếu còn", "Nếu con"]],
+    "2CA0A8": [["sut sit", "sụt sịt"], ["Còn giống mẹ quả", "Con giống mẹ quá"]],
+    "2CA110": [["A!", "À!"]],
+    "2CA158": [["vượt được{NL}báo", "vượt được{NL}bão"]],
+    "2CA24C": [["giỏi làm", "giỏi lắm"], ["Những biến động", "Nhưng biến động"]],
+    "2CA338": [["đến vay dầu", "đến vậy đâu"]],
+    "2CA3A8": [["nhọc", "nhóc"], ["Hến ngày do sức lần nữa!{NL}Hến gặp lại", "Hẹn ngày đọ sức lần nữa!{NL}Hẹn gặp lại"]]
+  }
+}

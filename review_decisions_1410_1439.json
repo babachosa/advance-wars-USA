@@ -1,0 +1,23 @@
+{
+  "start": 1410,
+  "size": 30,
+  "replacements": {
+    "2C7288": [["Nay {PLAYER}", "Này {PLAYER}"], ["có thầy", "có thấy"], ["đội khác", "đổi khác"]],
+    "2C7308": [["Nay!", "Này!"], ["với lứa", "với lửa"]],
+    "2C7334": [["Nhẽ {PLAYER}?", "Nhé, {PLAYER}?"]],
+    "2C7354": [["A, vậy", "À, vậy"]],
+    "2C7374": [["Nay Andy", "Này Andy"], ["nhìn cậu đây", "lườm cậu đấy"]],
+    "2C73A0": [["Cự nghĩ", "Cứ nghĩ"]],
+    "2C73D8": [["Lên não", "Xông lên nào"]],
+    "2C746C": [["Đồng bướm chạy thôi", "Dong buồm chạy thôi"]],
+    "2C7614": [["liên quân", "liên quan"]],
+    "2C7668": [["vượt qua tới", "vượt qua tôi"]],
+    "2C77F8": [["Mất hẳn", "Mặt hắn"]],
+    "2C7840": [["Thời!", "Thôi!"]],
+    "2C7854": [["Đúng gì", "Dừng gì"]],
+    "2C7868": [["Andy đầu thế", "Andy đâu thể"]],
+    "2C790C": [["Mắt nó", "Mặt nó"]],
+    "2C794C": [["Khoan đá", "Khoan đã"]],
+    "2C795C": [["Andy ca ngày", "Andy cả ngày"]]
+  }
+}

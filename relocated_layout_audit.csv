@@ -1,0 +1,107 @@
+﻿offset,kind,english_max_pixels,vietnamese_max_pixels,english_max_with_spacing,vietnamese_max_with_spacing,english_longest_line,vietnamese_longest_line
+080D98,label,35,36,43,46,Campaign,Chi■n d■ch
+080DA4,label,49,56,63,71,Field Training,Hu■n luy■n tr■n
+080E44,label,51,57,64,72,Sonja's Goal!,M■c ti■u Sonja!
+080F88,label,34,41,43,52,Dogfights,Kh■ng chi■n
+081098,label,40,60,51,76,Mial's Hope,Hy v■ng c■a Mial
+0810EC,label,45,52,56,64,Sole Harbor,C■ng ■■n ■■c
+081120,label,46,54,59,68,Glory Islands,■■o vinh quang
+0811B0,label,37,57,46,71,Web River,S■ng m■ng nh■n
+0811D8,label,39,52,49,65,Plus Canal,K■nh d■u c■ng
+0811E4,label,40,45,49,55,Loop Road,■■■ng v■ng
+08120C,label,41,55,51,68,Crop River,S■ng m■a m■ng
+0812C0,label,39,45,49,57,Peril Maze,M■ cung hi■m
+0812E8,label,46,56,58,70,Channel City,Th■nh ph■ k■nh
+081324,label,45,44,56,56,Clover Keys,■■o c■ ba l■
+081340,label,52,53,64,68,Pyramid Cape,M■i kim t= th■p
+081350,label,43,52,54,67,Battle Cube,Kh■i chi■n tr■n
+081368,label,38,46,48,58,Coil Range,D■y n■i xo■n
+08139C,label,47,44,59,57,Liaison Wood,R■ng li■n l■c
+0813BC,label,51,54,62,67,Scarab Road,■■■ng b■ hung
+081418,label,45,48,56,60,River Range,D■y ven s■ng
+08143C,label,43,49,52,63,Swan Cove,V■nh thi■n nga
+081480,label,38,52,49,64,Rail Strait,Eo ■■■ng ray
+081498,label,38,51,47,64,Ruby Keys,■■o h■ng ng■c
+0814B0,label,41,52,50,65,Zero Wood,R■ng s■ kh■ng
+0814BC,label,27,53,35,66,Cog Isle,■■o b■nh r■ng
+0814D8,label,49,42,60,54,Sabre Range,D■y n■i ki■m
+081510,label,49,52,61,65,Beaker River,S■ng c■c ■ong
+081520,label,39,49,48,62,Sun Canal,K■nh m■t tr■i
+08156C,label,39,57,48,71,Cube Keys,■■o l■p ph■■ng
+0815A8,label,39,39,49,51,Lost River,S■ng l■c l■i
+0815CC,label,49,64,63,79,Fist Peninsula,B■n ■■o n■m ■■m
+081614,label,39,45,50,57,Crater Isle,■■o mi■ng h■
+0816EC,label,45,54,52,63,NEUTRAL,TRUNG L■P
+082264,label,44,45,55,57,Special Map,B■n ■■c bi■t
+082274,label,43,52,54,67,Battle Cube,Kh■i chi■n tr■n
+0822AC,label,47,44,59,57,Liaison Wood,R■ng li■n l■c
+0822D0,label,51,54,62,67,Scarab Road,■■■ng b■ hung
+08231C,label,46,54,59,68,Glory Islands,■■o vinh quang
+0823A8,label,37,57,46,71,Web River,S■ng m■ng nh■n
+0823C4,label,39,52,49,65,Plus Canal,K■nh d■u c■ng
+0823D4,label,40,45,49,55,Loop Road,■■■ng v■ng
+0823E0,label,41,55,51,68,Crop River,S■ng m■a m■ng
+082470,label,39,45,49,57,Peril Maze,M■ cung hi■m
+082490,label,46,56,58,70,Channel City,Th■nh ph■ k■nh
+0824C0,label,45,44,56,56,Clover Keys,■■o c■ ba l■
+0824E0,label,43,49,52,63,Swan Cove,V■nh thi■n nga
+08251C,label,38,52,49,64,Rail Strait,Eo ■■■ng ray
+08253C,label,38,51,47,64,Ruby Keys,■■o h■ng ng■c
+082558,label,41,52,50,65,Zero Wood,R■ng s■ kh■ng
+082574,label,49,42,60,54,Sabre Range,D■y n■i ki■m
+08262C,label,40,60,51,76,Mial's Hope,Hy v■ng c■a Mial
+082844,label,42,55,49,64,TSUNAMI,S■NG TH■N
+082910,label,52,61,65,77,Neutral Bases,C■n c■ trung l■p
+28072C,dialogue,108,121,136,150,Welcome to Design Maps mode!,Ch■o m■ng ■■n m■c T■o B■n ■■!
+280844,dialogue,24,33,30,42,Enjoy!,Ch■i vui!
+28084C,label,58,57,74,74,Map Conditions :,■i■u ki■n b■n ■■:
+2808DC,label,84,90,106,115,Vs. Mode or Link Mode.,ch■ ■■ ■■u ho■c Li■n k■t.
+280A00,label,16,15,19,19,Sea,Bi■n
+280AD8,dialogue,20,28,24,34,End?,Tho■t?
+280B40,dialogue,86,78,112,100,You must really like doing,B■n th■ch l■m vi■c n■y
+282C60,label,22,34,27,43,Recon,Trinh s■t
+282C74,label,29,29,36,37,Rockets,H■a ti■n
+282C90,label,26,33,33,42,Fighter,Ti■m k■ch
+282C98,label,27,30,33,37,Bomber,N■m bom
+282CB0,label,24,35,30,44,B Ship,T■u chi■n
+282CC0,label,28,37,34,46,Lander,T■u ■■ b■
+282CC8,label,15,36,18,44,Sub,T■u ng■m
+282CE4,label,29,29,36,37,Rockets,H■a ti■n
+282D30,label,23,24,28,31,Torps,Ng■ l■i
+282D44,label,18,22,22,27,None,Kh■ng
+299C1C,dialogue,117,132,148,165,Can you Drop the infantry here?,B■n Th■ b■ binh ■ ■■y ■■■c kh■ng?
+29D12C,dialogue,126,112,161,143,what strengths the different armies,M■c T■nh h■nh tr■n ■■u cho bi■t
+2BD048,dialogue,102,115,136,152,"Um,  that's all I had to tell you.",Uhm... tr■■c kia ch■ng t■i... l■ b■n.
+2BE0C4,dialogue,42,50,53,64,Ya...Yahoo!,Ya... Hay qu■!
+2BE100,dialogue,16,22,23,30,Well...,■ th■...
+2BEA8C,dialogue,81,108,104,138,Now you'll have to face,■■n t■n c■ng t■ bi■n c■a Olaf!
+2BFAD4,dialogue,69,99,87,127,Dang! He got away.,Ch■t th■t! C■u ta tho■t r■i.
+2C07CC,dialogue,33,32,41,41,Goodbye.,T■m bi■t.
+2C0A1C,dialogue,97,91,127,117,Always up on the latest intel.,■■ng l■ ch■ huy ■■c nhi■m!
+2C36D4,dialogue,66,74,83,92,"OK. Thanks, Grit!",■■■c. C■m ■n Grit!
+2C8A04,dialogue,109,104,138,133,You have no idea how powerful,C■ kh■ng bi■t k■ th■ ■ang ■■i
+2E25AC,label,114,133,146,172,Let the winds of war bring snow!,"H■i gi■ chi■n tranh, h■y ■em tuy■t t■i!"
+2E263C,label,84,92,108,117,Now you're gonna get it!,Gi■ c■c ng■■i s■ l■nh ■■!
+2E265C,label,101,119,127,151,The Eagle soars above you!,■■i b■ng bay cao tr■n c■c ng■■i!
+2E26C8,label,114,133,146,172,Let the winds of war bring snow!,"H■i gi■ chi■n tranh, h■y ■em tuy■t t■i!"
+2E2B04,label,81,94,105,121,I'm a tough old sea dog!,Ta l■ tay gi■ d■n s■ng gi■!
+2E4B98,dialogue,74,77,93,97,primary weapons can,Ph■o t■ng h■ng trung
+2E4CE8,dialogue,76,108,98,136,The symbol on the unit,Xe t■ng h■ng trung kh■ng B■n
+2E4DEC,dialogue,80,92,103,117,are particularly strong,Xe t■ng h■ng trung c■ th■
+2E601C,dialogue,59,100,74,125,T copters carry,Tr=c th■ng ch■ qu■n kh■ng
+2EA16C,label,45,53,58,67,No animation.,T■t ho■t c■nh.
+2EA2AC,label,52,61,65,77,Neutral Bases,C■n c■ trung l■p
+2EA2CC,label,18,22,22,27,None,Kh■ng
+2EC900,dialogue,73,89,92,115,Ground units get HP,■■u k■t th■c n■u b■ Chi■m.
+2EFD10,dialogue,99,131,123,162,Welcome to Advance Wars!,Ch■o m■ng ■■n v■i Advance Wars!
+2F15BC,dialogue,69,69,85,87,Start an Advance,B■t ■■u Chi■n D■ch
+2FAA18,label,59,95,77,119,I'm nobody's fool!,■■ng t■■ng l■a ■■■c t■i!
+305838,dialogue,91,98,117,126,There's no time! Let's go!,Kh■ng c■n th■i gian! ■i n■o!
+30761C,label,18,21,22,26,Yes!,■■ng!
+3B9F38,label,45,53,58,67,No animation.,T■t ho■t c■nh.
+3BA068,label,45,53,58,67,No animation.,T■t ho■t c■nh.
+282CA0,label,26,27,32,34,B Cptr,Tr.th B
+282CA8,label,27,28,33,35,T Cptr,Tr.th T
+2C39A4,dialogue,22,35,31,47,(sigh)...,(th■ d■i)...
+3075DC,label,45,59,58,74,Yes!!! I won!,C■!!! Ta th■ng!
+28407C,label,16,15,19,19,Sea,Bi■n

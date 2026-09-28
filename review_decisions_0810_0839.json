@@ -1,0 +1,24 @@
+{
+  "start": 810,
+  "size": 30,
+  "replacements": {
+    "29AF24": [["Cứ cho đến lần sau", "Cứ đợi đến lần sau"]],
+    "29AFC4": [["Hay tập hợp", "Hãy tập hợp"]],
+    "29B054": [["Tầm nhìn tệ quả", "Tầm nhìn tệ quá"], ["có nỏ", "có nó"]],
+    "29B148": [["ô sang", "ô sáng"]],
+    "29B1F8": [["của ban", "của bạn"], ["chỉ đường bắn", "chỉ đường bạn"], ["Chúng tôi đến khi bạn", "Chúng tối đến khi bạn"]],
+    "29B2D4": [["phố này", "thành phố này"], ["Nó tôi", "Nó tối"]],
+    "29B360": [["Dũng", "Đừng"]],
+    "29B3E8": [["Khi còn tôi", "Khi còn tối"], ["phở thuốc", "phố thuộc"]],
+    "29B470": [["nhẹ?", "nhé?"]],
+    "29B4B8": [["Dũng", "Đừng"]],
+    "29B4E4": [["thi hơn", "thì hơn"]],
+    "29B564": [["tăng khí", "tăng khi"]],
+    "29B608": [["A, bạn", "À, bạn"], ["vẫn tôi", "vẫn tối"]],
+    "29B744": [["đó thăm dò?", "đó thăm dò nhé?"]],
+    "29B848": [["đến nằm ở", "đến năm ô"], ["Nhưng nhờ một điều", "Nhưng nhớ một điều"]],
+    "29B9AC": [["ở này hoặc ở này", "ô này hoặc ô này"]],
+    "29B9FC": [["Nếu bắn vào rừng", "Nếu bước vào rừng"]],
+    "29BAF4": [["Con diều nữa", "Còn điều nữa"], ["địch đúng{NL}địa hình", "địch dùng{NL}địa hình"], ["An mình", "Ẩn mình"], ["Những địch", "Nhưng địch"], ["bị thay", "bị thấy"], ["đứa con trở đến và nhận R", "đưa con trỏ đến và nhấn R"], ["Nhân R", "Nhấn R"]]
+  }
+}

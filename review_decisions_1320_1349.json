@@ -1,0 +1,22 @@
+{
+  "start": 1320,
+  "size": 30,
+  "replacements": {
+    "2C5034": [["Đã báo", "Đã bảo"], ["gì có chứ?", "gì cơ chứ?"]],
+    "2C5088": [["lời người", "lời ngươi"], ["Những dũng tướng ta", "Nhưng đừng tưởng ta"], ["đã tin người", "đã tin ngươi"], ["người nói dối", "ngươi nói dối"], ["người sẽ", "ngươi sẽ"]],
+    "2C5254": [["quân trọng", "quan trọng"], ["đáng ăn", "đang ẩn"]],
+    "2C5330": [["Chi đoàn Drake", "Chắc Drake"], ["rạn biển đầu đỏ", "bãi ngầm đâu đó"]],
+    "2C5394": [["Thời, sẽ", "Thôi, sẽ"]],
+    "2C5490": [["Cô kể", "Có kẻ"], ["dù hắn ra mắt", "dụ hắn lộ mặt"]],
+    "2C550C": [["mỗi chuyện", "mọi chuyện"]],
+    "2C552C": [["Cô về Sonja", "Có vẻ Sonja"], ["Nhờ các người việc này{NL}quá khó với ta", "Nhờ các người việc này{NL}thật khó mở lời"]],
+    "2C56A8": [["ăn ở rạn", "ẩn ở rạn"], ["Máy mà", "May mà"], ["xuống tim{NL}rắn biển", "xuống tìm{NL}rạn biển"]],
+    "2C57A8": [["Vừa rồi Yellow Comet lại đến", "Vừa qua Yellow Comet lại tới"]],
+    "2C5864": [["khó dạy", "khó đấy"]],
+    "2C5980": [["trực điện", "trực diện"]],
+    "2C59EC": [["Đến lúc rời", "Đến lúc rồi"], ["việc đến tối", "việc đen tối"]],
+    "2C5A4C": [["hạ được tả", "hạ được ta"]],
+    "2C5A8C": [["nhọc ả", "nhóc ạ"]],
+    "2C5B1C": [["nguy hiểm nhi?", "nguy hiểm nhỉ?"]]
+  }
+}

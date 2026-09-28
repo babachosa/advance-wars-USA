@@ -1,0 +1,23 @@
+{
+  "start": 1470,
+  "size": 30,
+  "revisions": {
+    "2C8958": "Các người không có thời gian{NL}để phí ở đây.{PAGE}Để ta lo, đi đi!{PAGE}",
+    "2C8A88": "Ha!{PAGE}Chúng sẽ sớm biết Eagle{NL}không dễ bị hạ!{PAGE}"
+  },
+  "replacements": {
+    "2C8584": [["A, dùng roi", "À, đúng rồi"]],
+    "2C8610": [["Không biết hẳn", "Không biết hắn"], ["Coi chúng, do ngỡ", "Coi chừng, đồ ngốc"]],
+    "2C86A8": [["Nay!", "Này!"]],
+    "2C874C": [["A, Max do a", "À, Max đó à"]],
+    "2C8784": [["A, dùng roi", "À, đúng rồi"]],
+    "2C8898": [["bất hẳn trả giá{NL}vì lửa Eagle", "bắt hắn trả giá{NL}vì lừa Eagle"]],
+    "2C88C4": [["Báo tố", "Bão tố"], ["cần ta", "cản ta"]],
+    "2C891C": [["đến kia", "đến kìa"]],
+    "2C8934": [["Chúng động vô tận", "Chúng đông vô tận"]],
+    "2C8A04": [["đối mặt bắn mạnh", "đối mặt bạn mạnh"]],
+    "2C8A68": [["cẩn thận nhẹ", "cẩn thận nhé"]],
+    "2C8B7C": [["thẳng hẳn", "thắng hắn"]],
+    "2C8BB8": [["Cô. Tôi", "Có. Tôi"], ["Trồng cây vào bản", "Trông cậy vào bạn"]]
+  }
+}

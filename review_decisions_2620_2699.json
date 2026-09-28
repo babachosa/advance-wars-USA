@@ -1,0 +1,23 @@
+{
+  "start": 2620,
+  "size": 80,
+  "revisions": {
+    "28B5AA": "Bật nhạc",
+    "28B5B6": "Tắt nhạc",
+    "28B5C2": "Cảnh A",
+    "28B5E6": "Tắt cảnh",
+    "28B5FE": "Bỏ",
+    "28B604": "Thoát Map",
+    "28B612": "Thắng",
+    "28B67A": "Chờ",
+    "28B68A": "Nổi",
+    "2C0CC0": "Tôi... thua một cô gái?{PAGE}",
+    "2C39A4": "(thở dài)...{PAGE}",
+    "2E9F14": "   Có      Ko",
+    "3B7F94": "{0C}Lỗi kết nối.{NL}Nhấn START để khởi động lại.{PAGE}",
+    "3075DC": "Có!!! Ta thắng!",
+    "3D8EDC": "Tùy chọn",
+    "3D8EE4": "Bỏ",
+    "3D8EEC": "Chờ"
+  }
+}

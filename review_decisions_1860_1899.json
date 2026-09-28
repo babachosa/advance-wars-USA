@@ -1,0 +1,17 @@
+{
+  "start": 1860,
+  "size": 40,
+  "revisions": {
+    "2EA16C": "Tắt hoạt cảnh.",
+    "2EA344": "CO được tôn trọng,{NL}rất có tài năng.{NL}{1F}{1F}{1F}{1F}{1B}Học viên bướng bỉnh{NL}{1F}{1F}{1F}{1F}{1B}Olaf{NL}\"Cần học thêm{NL}không?\"",
+    "2EA604": "Kế hoạch hay hỏng,{NL}nhưng ông rất nghiêm túc.{NL}{1F}{1F}{1F}{1F}{1B}Ủng ấm{NL}{1F}{1F}{1F}{1F}{1B}Mây mưa{NL}\"Ta sẽ dạy ngươi{NL}sức mạnh là gì!\""
+  },
+  "replacements": {
+    "2EA2A4": [["Rãnh", "Rảnh"]],
+    "2EA2D4": [["CO giới", "CO giỏi"]],
+    "2EA408": [["Day sớm", "Dậy sớm"]],
+    "2EA4D4": [["Tầng mỗi", "Tăng mọi"]],
+    "2EA508": [["Đên lượt", "Đến lượt"]],
+    "2EA5C4": [["Tạo tuyệt rồi", "Tạo tuyết rơi"]]
+  }
+}

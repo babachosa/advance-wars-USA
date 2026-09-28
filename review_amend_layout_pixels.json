@@ -1,0 +1,13 @@
+{
+  "start": 0,
+  "size": 2829,
+  "replacements": {
+    "0814C8": [["Mê cung nhựa đường", "Mê cung nhựa"]],
+    "082564": [["Mê cung nhựa đường", "Mê cung nhựa"]],
+    "082234": [["Chiến dịch nâng cao", "Chiến dịch khó"]],
+    "282CB8": [["Tuần dương", "T.dương"]],
+    "282CA0": [["Tr.thăng B", "Tr.th B"]],
+    "282CA8": [["Tr.thăng T", "Tr.th T"]],
+    "2E26A0": [["Các ngươi sẽ biết sợ sức mạnh của ta!", "Các ngươi sẽ sợ sức mạnh của ta!"]]
+  }
+}

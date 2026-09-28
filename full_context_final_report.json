@@ -1,0 +1,791 @@
+{
+  "source_rom_sha1": "acda57275804f1f536360e4e19e24efe262c08ac",
+  "output_rom_sha1": "36b603d4513fcbad3a486e8a22d37f1300c22031",
+  "rom_bytes": 4194304,
+  "review_status": {
+    "approved": 1325,
+    "revised": 1452,
+    "excluded": 52
+  },
+  "changed_entries": 1448,
+  "relocated_entries": 106,
+  "relocation_bank_start": "3FAE80",
+  "relocation_bank_end": "3FB8F1",
+  "relocation_bank_free_bytes": 18191,
+  "native_font_and_header_unchanged": true,
+  "changed_bytes_outside_approved_slots_pointers_and_bank": 0,
+  "relocations": {
+    "080D98": {
+      "address": "3FAE80",
+      "pointer_offsets": [
+        "287214"
+      ],
+      "bytes": 11
+    },
+    "080DA4": {
+      "address": "3FAE8C",
+      "pointer_offsets": [
+        "287210"
+      ],
+      "bytes": 16
+    },
+    "080E44": {
+      "address": "3FAE9C",
+      "pointer_offsets": [
+        "289678"
+      ],
+      "bytes": 16
+    },
+    "080F88": {
+      "address": "3FAEAC",
+      "pointer_offsets": [
+        "289150"
+      ],
+      "bytes": 12
+    },
+    "081098": {
+      "address": "3FAEB8",
+      "pointer_offsets": [
+        "288CA0"
+      ],
+      "bytes": 17
+    },
+    "0810EC": {
+      "address": "3FAECC",
+      "pointer_offsets": [
+        "288B38"
+      ],
+      "bytes": 13
+    },
+    "081120": {
+      "address": "3FAEDC",
+      "pointer_offsets": [
+        "288A48"
+      ],
+      "bytes": 15
+    },
+    "0811B0": {
+      "address": "3FAEEC",
+      "pointer_offsets": [
+        "2887B4"
+      ],
+      "bytes": 15
+    },
+    "0811D8": {
+      "address": "3FAEFC",
+      "pointer_offsets": [
+        "288700"
+      ],
+      "bytes": 14
+    },
+    "0811E4": {
+      "address": "3FAF0C",
+      "pointer_offsets": [
+        "2886C4"
+      ],
+      "bytes": 11
+    },
+    "08120C": {
+      "address": "3FAF18",
+      "pointer_offsets": [
+        "288610"
+      ],
+      "bytes": 14
+    },
+    "0812C0": {
+      "address": "3FAF28",
+      "pointer_offsets": [
+        "288304"
+      ],
+      "bytes": 13
+    },
+    "0812E8": {
+      "address": "3FAF38",
+      "pointer_offsets": [
+        "288250"
+      ],
+      "bytes": 15
+    },
+    "081324": {
+      "address": "3FAF48",
+      "pointer_offsets": [
+        "288160"
+      ],
+      "bytes": 13
+    },
+    "081340": {
+      "address": "3FAF58",
+      "pointer_offsets": [
+        "2880E8"
+      ],
+      "bytes": 16
+    },
+    "081350": {
+      "address": "3FAF68",
+      "pointer_offsets": [
+        "2880AC"
+      ],
+      "bytes": 16
+    },
+    "081368": {
+      "address": "3FAF78",
+      "pointer_offsets": [
+        "288034"
+      ],
+      "bytes": 13
+    },
+    "08139C": {
+      "address": "3FAF88",
+      "pointer_offsets": [
+        "287F44"
+      ],
+      "bytes": 14
+    },
+    "0813BC": {
+      "address": "3FAF98",
+      "pointer_offsets": [
+        "287ECC"
+      ],
+      "bytes": 14
+    },
+    "081418": {
+      "address": "3FAFA8",
+      "pointer_offsets": [
+        "287D28"
+      ],
+      "bytes": 13
+    },
+    "08143C": {
+      "address": "3FAFB8",
+      "pointer_offsets": [
+        "287C74"
+      ],
+      "bytes": 15
+    },
+    "081480": {
+      "address": "3FAFC8",
+      "pointer_offsets": [
+        "287B48"
+      ],
+      "bytes": 13
+    },
+    "081498": {
+      "address": "3FAFD8",
+      "pointer_offsets": [
+        "287AD0"
+      ],
+      "bytes": 14
+    },
+    "0814B0": {
+      "address": "3FAFE8",
+      "pointer_offsets": [
+        "287A58"
+      ],
+      "bytes": 14
+    },
+    "0814BC": {
+      "address": "3FAFF8",
+      "pointer_offsets": [
+        "287A1C"
+      ],
+      "bytes": 14
+    },
+    "0814D8": {
+      "address": "3FB008",
+      "pointer_offsets": [
+        "2879A4"
+      ],
+      "bytes": 13
+    },
+    "081510": {
+      "address": "3FB018",
+      "pointer_offsets": [
+        "2878B4"
+      ],
+      "bytes": 14
+    },
+    "081520": {
+      "address": "3FB028",
+      "pointer_offsets": [
+        "287878"
+      ],
+      "bytes": 14
+    },
+    "08156C": {
+      "address": "3FB038",
+      "pointer_offsets": [
+        "28774C"
+      ],
+      "bytes": 15
+    },
+    "0815A8": {
+      "address": "3FB048",
+      "pointer_offsets": [
+        "28765C"
+      ],
+      "bytes": 13
+    },
+    "0815CC": {
+      "address": "3FB058",
+      "pointer_offsets": [
+        "2875A8"
+      ],
+      "bytes": 16
+    },
+    "081614": {
+      "address": "3FB068",
+      "pointer_offsets": [
+        "28747C"
+      ],
+      "bytes": 13
+    },
+    "0816EC": {
+      "address": "3FB078",
+      "pointer_offsets": [
+        "289D80"
+      ],
+      "bytes": 10
+    },
+    "082264": {
+      "address": "3FB084",
+      "pointer_offsets": [
+        "2E82A4"
+      ],
+      "bytes": 15
+    },
+    "082274": {
+      "address": "3FB094",
+      "pointer_offsets": [
+        "2E828C"
+      ],
+      "bytes": 18
+    },
+    "0822AC": {
+      "address": "3FB0A8",
+      "pointer_offsets": [
+        "2E822C"
+      ],
+      "bytes": 16
+    },
+    "0822D0": {
+      "address": "3FB0B8",
+      "pointer_offsets": [
+        "2E81FC"
+      ],
+      "bytes": 16
+    },
+    "08231C": {
+      "address": "3FB0C8",
+      "pointer_offsets": [
+        "2E8184"
+      ],
+      "bytes": 17
+    },
+    "0823A8": {
+      "address": "3FB0DC",
+      "pointer_offsets": [
+        "2E80AC"
+      ],
+      "bytes": 17
+    },
+    "0823C4": {
+      "address": "3FB0F0",
+      "pointer_offsets": [
+        "2E807C"
+      ],
+      "bytes": 16
+    },
+    "0823D4": {
+      "address": "3FB100",
+      "pointer_offsets": [
+        "2E8064"
+      ],
+      "bytes": 13
+    },
+    "0823E0": {
+      "address": "3FB110",
+      "pointer_offsets": [
+        "2E804C"
+      ],
+      "bytes": 16
+    },
+    "082470": {
+      "address": "3FB120",
+      "pointer_offsets": [
+        "2E7F74"
+      ],
+      "bytes": 15
+    },
+    "082490": {
+      "address": "3FB130",
+      "pointer_offsets": [
+        "2E7F44"
+      ],
+      "bytes": 17
+    },
+    "0824C0": {
+      "address": "3FB144",
+      "pointer_offsets": [
+        "2E7EFC"
+      ],
+      "bytes": 15
+    },
+    "0824E0": {
+      "address": "3FB154",
+      "pointer_offsets": [
+        "2E7ECC"
+      ],
+      "bytes": 17
+    },
+    "08251C": {
+      "address": "3FB168",
+      "pointer_offsets": [
+        "2E7E6C"
+      ],
+      "bytes": 15
+    },
+    "08253C": {
+      "address": "3FB178",
+      "pointer_offsets": [
+        "2E7E3C"
+      ],
+      "bytes": 16
+    },
+    "082558": {
+      "address": "3FB188",
+      "pointer_offsets": [
+        "2E7E0C"
+      ],
+      "bytes": 16
+    },
+    "082574": {
+      "address": "3FB198",
+      "pointer_offsets": [
+        "2E7DDC"
+      ],
+      "bytes": 15
+    },
+    "08262C": {
+      "address": "3FB1A8",
+      "pointer_offsets": [
+        "2E7CBC"
+      ],
+      "bytes": 19
+    },
+    "082844": {
+      "address": "3FB1BC",
+      "pointer_offsets": [
+        "2EA1DC"
+      ],
+      "bytes": 10
+    },
+    "082910": {
+      "address": "3FB1C8",
+      "pointer_offsets": [
+        "2EA1E8"
+      ],
+      "bytes": 17
+    },
+    "28072C": {
+      "address": "3FB1DC",
+      "pointer_offsets": [
+        "27D434",
+        "27D4E4"
+      ],
+      "bytes": 31
+    },
+    "280844": {
+      "address": "3FB1FC",
+      "pointer_offsets": [
+        "27D534"
+      ],
+      "bytes": 11
+    },
+    "28084C": {
+      "address": "3FB208",
+      "pointer_offsets": [
+        "0057FC"
+      ],
+      "bytes": 18
+    },
+    "2808DC": {
+      "address": "3FB21C",
+      "pointer_offsets": [
+        "005810"
+      ],
+      "bytes": 26
+    },
+    "280A00": {
+      "address": "3FB238",
+      "pointer_offsets": [
+        "27F0EC"
+      ],
+      "bytes": 5
+    },
+    "280AD8": {
+      "address": "3FB240",
+      "pointer_offsets": [
+        "27F7DC"
+      ],
+      "bytes": 9
+    },
+    "280B40": {
+      "address": "3FB24C",
+      "pointer_offsets": [
+        "27FA7C"
+      ],
+      "bytes": 61
+    },
+    "282C60": {
+      "address": "3FB28C",
+      "pointer_offsets": [
+        "28326C"
+      ],
+      "bytes": 10
+    },
+    "282C74": {
+      "address": "3FB298",
+      "pointer_offsets": [
+        "28349C"
+      ],
+      "bytes": 9
+    },
+    "282C90": {
+      "address": "3FB2A4",
+      "pointer_offsets": [
+        "2836CC"
+      ],
+      "bytes": 10
+    },
+    "282C98": {
+      "address": "3FB2B0",
+      "pointer_offsets": [
+        "28373C"
+      ],
+      "bytes": 8
+    },
+    "282CB0": {
+      "address": "3FB2B8",
+      "pointer_offsets": [
+        "2838FC"
+      ],
+      "bytes": 10
+    },
+    "282CC0": {
+      "address": "3FB2C4",
+      "pointer_offsets": [
+        "2839DC"
+      ],
+      "bytes": 10
+    },
+    "282CC8": {
+      "address": "3FB2D0",
+      "pointer_offsets": [
+        "283A4C"
+      ],
+      "bytes": 9
+    },
+    "282CE4": {
+      "address": "3FB2DC",
+      "pointer_offsets": [
+        "2834A0"
+      ],
+      "bytes": 9
+    },
+    "282D30": {
+      "address": "3FB2E8",
+      "pointer_offsets": [
+        "283A50"
+      ],
+      "bytes": 8
+    },
+    "282D44": {
+      "address": "3FB2F0",
+      "pointer_offsets": [
+        "283040",
+        "283270",
+        "2832E0",
+        "2832E4",
+        "283434",
+        "2834A4",
+        "2835F4",
+        "283664",
+        "2836D4",
+        "283744",
+        "283890",
+        "283894",
+        "283904",
+        "2839E0",
+        "2839E4",
+        "283A54"
+      ],
+      "bytes": 6
+    },
+    "299C1C": {
+      "address": "3FB2F8",
+      "pointer_offsets": [
+        "2B580C"
+      ],
+      "bytes": 39
+    },
+    "29D12C": {
+      "address": "3FB320",
+      "pointer_offsets": [
+        "2BAD78"
+      ],
+      "bytes": 86
+    },
+    "2BD048": {
+      "address": "3FB378",
+      "pointer_offsets": [
+        "2CBB1C"
+      ],
+      "bytes": 80
+    },
+    "2BE0C4": {
+      "address": "3FB3C8",
+      "pointer_offsets": [
+        "2CD70C"
+      ],
+      "bytes": 16
+    },
+    "2BE100": {
+      "address": "3FB3D8",
+      "pointer_offsets": [
+        "2CD74C"
+      ],
+      "bytes": 10
+    },
+    "2BEA8C": {
+      "address": "3FB3E4",
+      "pointer_offsets": [
+        "2CE370"
+      ],
+      "bytes": 134
+    },
+    "2BFAD4": {
+      "address": "3FB46C",
+      "pointer_offsets": [
+        "2CFF28"
+      ],
+      "bytes": 73
+    },
+    "2C07CC": {
+      "address": "3FB4B8",
+      "pointer_offsets": [
+        "2D10A0"
+      ],
+      "bytes": 19
+    },
+    "2C0A1C": {
+      "address": "3FB4CC",
+      "pointer_offsets": [
+        "2D15E4"
+      ],
+      "bytes": 78
+    },
+    "2C36D4": {
+      "address": "3FB51C",
+      "pointer_offsets": [
+        "2D560C"
+      ],
+      "bytes": 20
+    },
+    "2C8A04": {
+      "address": "3FB530",
+      "pointer_offsets": [
+        "2DE6D8"
+      ],
+      "bytes": 104
+    },
+    "2E25AC": {
+      "address": "3FB598",
+      "pointer_offsets": [
+        "2E2F88",
+        "2E2F8C",
+        "2E2F90"
+      ],
+      "bytes": 44
+    },
+    "2E263C": {
+      "address": "3FB5C4",
+      "pointer_offsets": [
+        "2E2FB8",
+        "2E2FBC",
+        "2E2FC0"
+      ],
+      "bytes": 30
+    },
+    "2E265C": {
+      "address": "3FB5E4",
+      "pointer_offsets": [
+        "2E2FC4",
+        "2E2FC8",
+        "2E2FCC"
+      ],
+      "bytes": 37
+    },
+    "2E26C8": {
+      "address": "3FB60C",
+      "pointer_offsets": [
+        "2E2FEC"
+      ],
+      "bytes": 44
+    },
+    "2E2B04": {
+      "address": "3FB638",
+      "pointer_offsets": [
+        "2E313C",
+        "2E314C",
+        "2E315C"
+      ],
+      "bytes": 32
+    },
+    "2E4B98": {
+      "address": "3FB658",
+      "pointer_offsets": [
+        "2E6DE4"
+      ],
+      "bytes": 70
+    },
+    "2E4CE8": {
+      "address": "3FB6A0",
+      "pointer_offsets": [
+        "2E6DF8"
+      ],
+      "bytes": 94
+    },
+    "2E4DEC": {
+      "address": "3FB700",
+      "pointer_offsets": [
+        "2E6E0C"
+      ],
+      "bytes": 90
+    },
+    "2E601C": {
+      "address": "3FB75C",
+      "pointer_offsets": [
+        "2E7024"
+      ],
+      "bytes": 59
+    },
+    "2EA16C": {
+      "address": "3FB798",
+      "pointer_offsets": [
+        "02E5C4"
+      ],
+      "bytes": 15
+    },
+    "2EA2AC": {
+      "address": "3FB7A8",
+      "pointer_offsets": [
+        "0412EC"
+      ],
+      "bytes": 17
+    },
+    "2EA2CC": {
+      "address": "3FB7BC",
+      "pointer_offsets": [
+        "0464A8"
+      ],
+      "bytes": 6
+    },
+    "2EC900": {
+      "address": "3FB7C4",
+      "pointer_offsets": [
+        "2ECB44"
+      ],
+      "bytes": 80
+    },
+    "2EFD10": {
+      "address": "3FB814",
+      "pointer_offsets": [
+        "2F0988"
+      ],
+      "bytes": 33
+    },
+    "2F15BC": {
+      "address": "3FB838",
+      "pointer_offsets": [
+        "2F1708"
+      ],
+      "bytes": 29
+    },
+    "2FAA18": {
+      "address": "3FB858",
+      "pointer_offsets": [
+        "2FAEB0"
+      ],
+      "bytes": 25
+    },
+    "305838": {
+      "address": "3FB874",
+      "pointer_offsets": [
+        "305AFC"
+      ],
+      "bytes": 32
+    },
+    "30761C": {
+      "address": "3FB894",
+      "pointer_offsets": [
+        "307E40"
+      ],
+      "bytes": 6
+    },
+    "3B9F38": {
+      "address": "3FB89C",
+      "pointer_offsets": [
+        "3B9488"
+      ],
+      "bytes": 15
+    },
+    "3BA068": {
+      "address": "3FB8AC",
+      "pointer_offsets": [
+        "3BAB1C"
+      ],
+      "bytes": 15
+    },
+    "282CA0": {
+      "address": "3FB8BC",
+      "pointer_offsets": [
+        "28381C"
+      ],
+      "bytes": 8
+    },
+    "282CA8": {
+      "address": "3FB8C4",
+      "pointer_offsets": [
+        "28388C"
+      ],
+      "bytes": 8
+    },
+    "2C39A4": {
+      "address": "3FB8CC",
+      "pointer_offsets": [
+        "2D5A1C"
+      ],
+      "bytes": 14
+    },
+    "3075DC": {
+      "address": "3FB8DC",
+      "pointer_offsets": [
+        "307C00"
+      ],
+      "bytes": 16
+    },
+    "28407C": {
+      "address": "3FB8EC",
+      "pointer_offsets": [
+        "284170",
+        "284198",
+        "284210",
+        "284224",
+        "284238",
+        "28424C",
+        "284274"
+      ],
+      "bytes": 5
+    }
+  }
+}

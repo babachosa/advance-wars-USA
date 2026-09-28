@@ -1,0 +1,31 @@
+{
+  "start": 2540,
+  "size": 40,
+  "revisions": {
+    "3B7D10": "Lỗi",
+    "3B7D18": "Kết nối",
+    "3B7D20": "Kết nối"
+  },
+  "replacements": {
+    "3076C4": [["ban mặt", "bạn mất"], ["bắn tập trung", "bạn tập trung"], ["bản đồ quả", "bản đồ qua"], ["để bàn số điểm", "để so số điểm"]],
+    "30786C": [["tháng", "thắng"]],
+    "307874": [["Giới qua", "Giỏi quá"]],
+    "307890": [["Biết ngày {PLAYER} tháng", "Biết ngay {PLAYER} thắng"]],
+    "3078C0": [["Hay qua", "Hay quá"]],
+    "3078EC": [["Phân thẳng", "Phần thắng"]],
+    "3079CC": [["tháng", "thắng"]],
+    "3079D4": [["quà mừng bàn{NL}thắng cấp", "quà mừng bạn{NL}thăng cấp"]],
+    "307A50": [["hàng của bạn{NL}lại tặng", "hạng của bạn{NL}lại tăng"]],
+    "3B7CFC": [["Đã nói", "Đã nối"]],
+    "3B7D4C": [["Đáng xác nhận. Xin cho", "Đang xác nhận. Xin chờ"]],
+    "3B7D70": [["Nhân START", "Nhấn START"]],
+    "3B7D94": [["Xin cho", "Xin chờ"]],
+    "3B7E44": [["Cho đến", "Chờ đến"]],
+    "3B7E6C": [["Xin cho", "Xin chờ"]],
+    "3B7E8C": [["Đảng nhân", "Đang nhận"], ["Xin cho", "Xin chờ"]],
+    "3B7EEC": [["Dạng lưu", "Đang lưu"], ["Dùng tắt", "Đừng tắt"]],
+    "3B7F10": [["chuẩn bị tại", "chuẩn bị tải"], ["Xin cho", "Xin chờ"]],
+    "3B7F38": [["Nói lời", "Nối lỗi"]],
+    "3B7F58": [["Xin cho", "Xin chờ"]]
+  }
+}

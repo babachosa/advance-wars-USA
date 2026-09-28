@@ -1,0 +1,20 @@
+{
+  "start": 1140,
+  "size": 30,
+  "replacements": {
+    "2C1398": [["non tây", "non tay"]],
+    "2C1558": [["Khoản, khoản", "Khoan, khoan"]],
+    "2C15D0": [["nên hay nhắm chừng", "nên hãy nhắm chúng"], ["Cú chiến đấu", "Cứ chiến đấu"]],
+    "2C1694": [["thay ta", "thấy ta"]],
+    "2C1740": [["Do dụng cụ", "Do trang bị"]],
+    "2C17C8": [["tốt a?", "tốt à?"]],
+    "2C17F4": [["em chàng", "em chẳng"], ["vui đấu", "vui đâu"]],
+    "2C1854": [["thay ta", "thấy ta"]],
+    "2C1900": [["Do dụng cụ", "Do trang bị"]],
+    "2C1988": [["nước nhớ", "nước nhỏ"], ["thắng được tới đâu", "thắng được tôi đâu"], ["Nay, {PLAYER}", "Này, {PLAYER}"]],
+    "2C1A34": [["thay ta", "thấy ta"]],
+    "2C1AE0": [["Do dụng cụ", "Do trang bị"]],
+    "2C1B68": [["nhất a?", "nhất à?"], ["Giả mà tôi", "Giá mà tôi"]],
+    "2C1BC4": [["đến vay đầu", "đến vậy đâu"], ["Sẵn sàng chữa", "Sẵn sàng chưa"]]
+  }
+}

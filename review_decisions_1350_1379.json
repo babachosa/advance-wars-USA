@@ -1,0 +1,25 @@
+{
+  "start": 1350,
+  "size": 30,
+  "revisions": {
+    "2C5F2C": "Có hạn thời gian cũng đừng{NL}lao bừa vào Drake.{PAGE}Dùng quân có tầm nhìn rộng{NL}để thu thập tin và dò đường.{PAGE}Hãy áp dụng cách đã dùng{NL}ở vùng có Sương Mù.{PAGE}Tiếp tục chiến đấu! Chúc may mắn!{PAGE}"
+  },
+  "replacements": {
+    "2C5CFC": [["Ca dao quân", "Cả đạo quân"]],
+    "2C5D18": [["cơn bão lâu", "còn bao lâu"]],
+    "2C5DA4": [["Khổ dây", "Khó đấy"]],
+    "2C5DDC": [["Nay {PLAYER}", "Này {PLAYER}"], ["Ta đành ai", "Ta đánh ai"]],
+    "2C5E18": [["Chào ơi", "Chà ơi"], ["đã dồn{NL}chúng", "đã đón{NL}chúng"], ["xông lên não", "lên tàu nào"]],
+    "2C5EF0": [["Đồng bướm chạy thôi", "Dong buồm chạy thôi"]],
+    "2C6024": [["Hãn lúc", "Hắn lúc"], ["Những trận", "Nhưng trận"]],
+    "2C61B8": [["Sao người", "Sao ngươi"]],
+    "2C626C": [["Mất hẳn", "Mặt hắn"]],
+    "2C6358": [["Y tôi", "Ý tôi"]],
+    "2C63CC": [["Những dụng tướng ta", "Nhưng đừng tưởng ta"], ["tin bất kỳ ai", "tin bất kỳ ai trong các ngươi"], ["nếu người", "nếu ngươi"], ["người sẽ", "ngươi sẽ"]],
+    "2C65AC": [["hỏi thằng ta", "hỏi thẳng ta"], ["Những đâu để", "Nhưng đâu dễ"]],
+    "2C660C": [["Lái một", "Lại một"], ["đắm tàu kia", "đám tàu kia"], ["dễ dàng đấu", "dễ dàng đâu"]],
+    "2C66CC": [["Ủ, chắc anh nội dung", "Ừ, chắc anh nói đúng"]],
+    "2C66FC": [["họ lo mình", "họ lờ mình"]],
+    "2C6754": [["Ván bài ca cứ", "Vẫn bài ca cũ"]]
+  }
+}

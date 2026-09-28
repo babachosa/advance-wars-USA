@@ -1,0 +1,30 @@
+{
+  "start": 780,
+  "size": 30,
+  "revisions": {
+    "299C1C": "Bạn {COMMAND}Thả{NORMAL} {UNIT}bộ binh{NORMAL} ở đây được không?{PAGE}"
+  },
+  "replacements": {
+    "299C44": [["tăng lớn", "xe tăng hạng trung"]],
+    "299CA0": [["chợ duy nhất", "chỗ duy nhất"]],
+    "299D64": [["Gió", "Giờ"]],
+    "299D84": [["dây!", "đây!"]],
+    "299D98": [["Chi {COMMAND}", "Chỉ {COMMAND}"], ["chờ hải quân", "chở hai quân"], ["Nhờ điều đó", "Nhớ điều đó"], ["A, còn", "À, còn"], ["chim và mắt lươn", "chìm và mất luôn"], ["một xăng", "một đơn vị nhiên liệu"], ["Muốn hỏi HP", "Muốn hồi HP"], ["quân bay", "quân trên không"], ["quân biển", "quân trên biển"]],
+    "29A0A8": [["hạ?", "nhỉ?"], ["ngang cổ", "ngang sức"], ["Chiến thời", "Chiến thôi"]],
+    "29A270": [["chỉ{NL}bàn", "chỉ{NL}bạn"], ["Nhân A", "Nhấn A"]],
+    "29A3C0": [["lặn vần", "lặn vẫn"]],
+    "29A464": [["Gần bằng xăng một ngày", "Bằng lượng xăng dùng trong một ngày"], ["chìm, hay", "chìm, hãy"], ["giao ban", "giao bạn"]],
+    "29A56C": [["quân trọng", "quan trọng"], ["Cú phát huy nhẹ", "Cứ phát huy nhé"]],
+    "29A600": [["Cứ đôi lần sau", "Hẹn gặp lần sau"]],
+    "29A654": [["mật", "mất", 2], ["không cho quân bộ", "không chở quân bộ"], ["Nhờ bảo vệ", "Nhớ bảo vệ"]],
+    "29A730": [["đã đổi ta sẵn", "đã đợi ta sẵn"], ["Trần này giao ban xử lý", "Trận này giao bạn xử lý"]],
+    "29A808": [["Hạ hạ hạ! Tả đội các người lâu rồi", "Ha ha ha! Ta đợi các ngươi lâu rồi"], ["từng sức mạnh", "tung sức mạnh"], ["Trời ơi, hãy nghe ta", "Hỡi trời cao, hãy nghe ta"]],
+    "29A870": [["đã đổi giây phút này", "đã đợi giây phút này"], ["tôi chứa đựng được CO Power", "tôi chưa dùng được CO Power"]],
+    "29AA14": [["Thay đồng bằng", "Thấy đồng bằng"], ["tổn hại điểm", "tốn hai điểm"]],
+    "29AAF4": [["Những tuyết", "Nhưng tuyết"], ["Cú kiên nhẫn", "Cứ kiên nhẫn"]],
+    "29AB78": [["Tuyệt ngừng", "Tuyết ngừng"], ["làm chứng{NL}sợ hãi", "khiến chúng{NL}sợ hãi"]],
+    "29AC40": [["Nhưng hay", "Nhưng hãy"]],
+    "29ACC8": [["đi chăm chút", "đi chậm chút"], ["Quân trọng", "Quan trọng"], ["sợ mua", "sợ mưa"], ["Hạ hẳn", "Hạ hắn"]],
+    "29ADF4": [["Olaf giới", "Olaf giỏi"], ["{NL}những yếu", "{NL}nhưng yếu"], ["đã dậy bắn hết", "đã dạy bạn hết"], ["trận{NL}cười ta sát cạnh nhau", "trận{NL}cuối ta sát cánh bên nhau"], ["Cú phát huy nhẹ", "Cứ phát huy nhé"]]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "start": 1940,
+  "size": 40,
+  "revisions": {
+    "2ED96C": "Cả một đại đội do thám{NL}ở đầm Coral đã mất tích.{PAGE}Pháo đài Coral bị núi bao{NL}quanh, khó có nhiều quân địch.{PAGE}Nhưng cả đại đội biến mất,{NL}nên chắc có chuyện...{PAGE}Ta không thể để mất{NL}vùng lãnh thổ đó.{PAGE}"
+  },
+  "replacements": {
+    "2ECAD4": [["quán ăn", "quân ẩn"]],
+    "2ECE8C": [["Mừng đến", "Chào mừng đến với"]],
+    "2ECEE4": [["báo tình hình.{NL}cho bạn biết", "cho bạn biết{NL}tình hình"]],
+    "2ECFE0": [["A, xin", "À, xin"], ["Y tôi", "Ý tôi"]],
+    "2ED044": [["Gió vùng", "Giờ vùng"]],
+    "2ED07C": [["ban có", "bạn có"], ["Dưới Olaf", "Đuổi Olaf"]],
+    "2ED114": [["giao mới quyết định", "giao mọi quyết định"]],
+    "2ED194": [["đột kích ngắm", "đột kích ngầm"]],
+    "2ED210": [["Đột kích ngắm", "Đột kích ngầm"], ["dùng kiểu", "đúng kiểu"]],
+    "2ED250": [["Bản được", "Bạn được"]],
+    "2ED2F8": [["tên giả", "tên già"], ["Ý tới", "Ý tôi"], ["cơ giới{NORMAL}{NL}đích, bạn nhỏ", "cơ giới{NORMAL}{NL}địch, bạn nhớ"]],
+    "2ED488": [["a, CO", "à, CO"], ["để y tá", "để ý ta"]],
+    "2ED4D8": [["bàn những", "bận những"]],
+    "2ED594": [["Để tới nơi về", "Để tôi nói về"]],
+    "2ED670": [["Bãi này", "Bài này"]],
+    "2ED6B4": [["Cặp trên", "Cấp trên"], ["Máy là đích", "May là địch"]],
+    "2ED7D0": [["Những nghề nói", "Nhưng nghe nói"]],
+    "2ED860": [["A, tôi", "À, tôi"], ["Bán được", "Bạn được"]],
+    "2ED8C4": [["không cần lộ", "không cần lo"]],
+    "2EDAB8": [["xe tăng vừa", "xe tăng hạng trung"], ["từ tiền tuyến, những", "từ tiền tuyến, nhưng"]],
+    "2EDD08": [["xe tăng vừa", "xe tăng hạng trung"], ["Ban còn", "Bạn còn"]],
+    "2EDDBC": [["xe tăng vừa", "xe tăng hạng trung"]],
+    "2EDE88": [["Chắc tới lộ xa qua{NL}thời", "Chắc tôi lo xa quá{NL}thôi"]],
+    "2EDF0C": [["được nối{NL}trong bài quân bạn", "được nói{NL}trong bài quân bắn"]]
+  }
+}
