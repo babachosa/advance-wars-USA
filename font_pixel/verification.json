@@ -1,0 +1,1245 @@
+{
+  "source_rom": "Advance Wars (Vietnamese) Full Context Final.gba",
+  "source_sha1": "36b603d4513fcbad3a486e8a22d37f1300c22031",
+  "output_rom": "Advance Wars (Vietnamese) Pixel Font.gba",
+  "output_sha1": "413f4a40ca3941c2c1e5ab3b88ade1ea3aaebee1",
+  "glyphs": 186,
+  "accented_glyphs": 134,
+  "glyph_data_start": "3FB900",
+  "glyph_data_end": "3FDB50",
+  "remaining_bytes": 9392,
+  "changed_bytes": 10368,
+  "unchanged_all_256_widths": true,
+  "unchanged_text_game_code_and_header": true,
+  "decoded_rom_matches_all_pixel_masters": true,
+  "touching_detached_marks": 0,
+  "minimum_blank_pixels_between_detached_marks_and_other_ink": 1,
+  "glyph_metrics": {
+    "A": {
+      "code": "41",
+      "width": 7,
+      "blank_pixel_gaps": {}
+    },
+    "B": {
+      "code": "42",
+      "width": 6,
+      "blank_pixel_gaps": {}
+    },
+    "C": {
+      "code": "43",
+      "width": 7,
+      "blank_pixel_gaps": {}
+    },
+    "D": {
+      "code": "44",
+      "width": 6,
+      "blank_pixel_gaps": {}
+    },
+    "E": {
+      "code": "45",
+      "width": 6,
+      "blank_pixel_gaps": {}
+    },
+    "F": {
+      "code": "46",
+      "width": 6,
+      "blank_pixel_gaps": {}
+    },
+    "G": {
+      "code": "47",
+      "width": 7,
+      "blank_pixel_gaps": {}
+    },
+    "H": {
+      "code": "48",
+      "width": 6,
+      "blank_pixel_gaps": {}
+    },
+    "I": {
+      "code": "49",
+      "width": 1,
+      "blank_pixel_gaps": {}
+    },
+    "J": {
+      "code": "4A",
+      "width": 6,
+      "blank_pixel_gaps": {}
+    },
+    "K": {
+      "code": "4B",
+      "width": 6,
+      "blank_pixel_gaps": {}
+    },
+    "L": {
+      "code": "4C",
+      "width": 6,
+      "blank_pixel_gaps": {}
+    },
+    "M": {
+      "code": "4D",
+      "width": 7,
+      "blank_pixel_gaps": {}
+    },
+    "N": {
+      "code": "4E",
+      "width": 6,
+      "blank_pixel_gaps": {}
+    },
+    "O": {
+      "code": "4F",
+      "width": 7,
+      "blank_pixel_gaps": {}
+    },
+    "P": {
+      "code": "50",
+      "width": 6,
+      "blank_pixel_gaps": {}
+    },
+    "Q": {
+      "code": "51",
+      "width": 7,
+      "blank_pixel_gaps": {}
+    },
+    "R": {
+      "code": "52",
+      "width": 6,
+      "blank_pixel_gaps": {}
+    },
+    "S": {
+      "code": "53",
+      "width": 7,
+      "blank_pixel_gaps": {}
+    },
+    "T": {
+      "code": "54",
+      "width": 7,
+      "blank_pixel_gaps": {}
+    },
+    "U": {
+      "code": "55",
+      "width": 7,
+      "blank_pixel_gaps": {}
+    },
+    "V": {
+      "code": "56",
+      "width": 7,
+      "blank_pixel_gaps": {}
+    },
+    "W": {
+      "code": "57",
+      "width": 7,
+      "blank_pixel_gaps": {}
+    },
+    "X": {
+      "code": "58",
+      "width": 7,
+      "blank_pixel_gaps": {}
+    },
+    "Y": {
+      "code": "59",
+      "width": 7,
+      "blank_pixel_gaps": {}
+    },
+    "Z": {
+      "code": "5A",
+      "width": 7,
+      "blank_pixel_gaps": {}
+    },
+    "a": {
+      "code": "61",
+      "width": 5,
+      "blank_pixel_gaps": {}
+    },
+    "b": {
+      "code": "62",
+      "width": 4,
+      "blank_pixel_gaps": {}
+    },
+    "c": {
+      "code": "63",
+      "width": 4,
+      "blank_pixel_gaps": {}
+    },
+    "d": {
+      "code": "64",
+      "width": 5,
+      "blank_pixel_gaps": {}
+    },
+    "e": {
+      "code": "65",
+      "width": 4,
+      "blank_pixel_gaps": {}
+    },
+    "f": {
+      "code": "66",
+      "width": 4,
+      "blank_pixel_gaps": {}
+    },
+    "g": {
+      "code": "67",
+      "width": 4,
+      "blank_pixel_gaps": {}
+    },
+    "h": {
+      "code": "68",
+      "width": 4,
+      "blank_pixel_gaps": {}
+    },
+    "i": {
+      "code": "69",
+      "width": 1,
+      "blank_pixel_gaps": {}
+    },
+    "j": {
+      "code": "6A",
+      "width": 3,
+      "blank_pixel_gaps": {}
+    },
+    "k": {
+      "code": "6B",
+      "width": 4,
+      "blank_pixel_gaps": {}
+    },
+    "l": {
+      "code": "6C",
+      "width": 1,
+      "blank_pixel_gaps": {}
+    },
+    "m": {
+      "code": "6D",
+      "width": 5,
+      "blank_pixel_gaps": {}
+    },
+    "n": {
+      "code": "6E",
+      "width": 4,
+      "blank_pixel_gaps": {}
+    },
+    "o": {
+      "code": "6F",
+      "width": 4,
+      "blank_pixel_gaps": {}
+    },
+    "p": {
+      "code": "70",
+      "width": 4,
+      "blank_pixel_gaps": {}
+    },
+    "q": {
+      "code": "71",
+      "width": 4,
+      "blank_pixel_gaps": {}
+    },
+    "r": {
+      "code": "72",
+      "width": 4,
+      "blank_pixel_gaps": {}
+    },
+    "s": {
+      "code": "73",
+      "width": 4,
+      "blank_pixel_gaps": {}
+    },
+    "t": {
+      "code": "74",
+      "width": 3,
+      "blank_pixel_gaps": {}
+    },
+    "u": {
+      "code": "75",
+      "width": 4,
+      "blank_pixel_gaps": {}
+    },
+    "v": {
+      "code": "76",
+      "width": 5,
+      "blank_pixel_gaps": {}
+    },
+    "w": {
+      "code": "77",
+      "width": 5,
+      "blank_pixel_gaps": {}
+    },
+    "x": {
+      "code": "78",
+      "width": 5,
+      "blank_pixel_gaps": {}
+    },
+    "y": {
+      "code": "79",
+      "width": 4,
+      "blank_pixel_gaps": {}
+    },
+    "z": {
+      "code": "7A",
+      "width": 5,
+      "blank_pixel_gaps": {}
+    },
+    "À": {
+      "code": "84",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Á": {
+      "code": "85",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Â": {
+      "code": "86",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "S": 1
+      }
+    },
+    "Ã": {
+      "code": "87",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "È": {
+      "code": "88",
+      "width": 6,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "É": {
+      "code": "89",
+      "width": 6,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Ê": {
+      "code": "8A",
+      "width": 6,
+      "blank_pixel_gaps": {
+        "S": 1
+      }
+    },
+    "Ì": {
+      "code": "8B",
+      "width": 2,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Í": {
+      "code": "8C",
+      "width": 2,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Ò": {
+      "code": "8D",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Ó": {
+      "code": "8E",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Ô": {
+      "code": "8F",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "S": 1
+      }
+    },
+    "Õ": {
+      "code": "90",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Ù": {
+      "code": "91",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "T": 2
+      }
+    },
+    "Ú": {
+      "code": "92",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Ý": {
+      "code": "93",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "à": {
+      "code": "94",
+      "width": 5,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "á": {
+      "code": "95",
+      "width": 5,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "â": {
+      "code": "96",
+      "width": 5,
+      "blank_pixel_gaps": {
+        "S": 1
+      }
+    },
+    "ã": {
+      "code": "97",
+      "width": 5,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "è": {
+      "code": "98",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "é": {
+      "code": "99",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "ê": {
+      "code": "9A",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "S": 1
+      }
+    },
+    "ì": {
+      "code": "9B",
+      "width": 2,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "í": {
+      "code": "9C",
+      "width": 2,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "ò": {
+      "code": "9D",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "ó": {
+      "code": "9E",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "ô": {
+      "code": "9F",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "S": 1
+      }
+    },
+    "õ": {
+      "code": "A0",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "ù": {
+      "code": "A1",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "ú": {
+      "code": "A2",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "ý": {
+      "code": "A3",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Ă": {
+      "code": "A4",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "S": 1
+      }
+    },
+    "ă": {
+      "code": "A5",
+      "width": 5,
+      "blank_pixel_gaps": {
+        "S": 1
+      }
+    },
+    "Đ": {
+      "code": "A6",
+      "width": 6,
+      "blank_pixel_gaps": {}
+    },
+    "đ": {
+      "code": "A7",
+      "width": 5,
+      "blank_pixel_gaps": {}
+    },
+    "Ĩ": {
+      "code": "A8",
+      "width": 3,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "ĩ": {
+      "code": "A9",
+      "width": 3,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Ũ": {
+      "code": "AA",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "ũ": {
+      "code": "AB",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Ơ": {
+      "code": "AC",
+      "width": 8,
+      "blank_pixel_gaps": {}
+    },
+    "ơ": {
+      "code": "AD",
+      "width": 6,
+      "blank_pixel_gaps": {}
+    },
+    "Ư": {
+      "code": "AE",
+      "width": 8,
+      "blank_pixel_gaps": {}
+    },
+    "ư": {
+      "code": "AF",
+      "width": 6,
+      "blank_pixel_gaps": {}
+    },
+    "Ạ": {
+      "code": "B0",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "D": 2
+      }
+    },
+    "ạ": {
+      "code": "B1",
+      "width": 5,
+      "blank_pixel_gaps": {
+        "D": 2
+      }
+    },
+    "Ả": {
+      "code": "B2",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "ả": {
+      "code": "B3",
+      "width": 5,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Ấ": {
+      "code": "B4",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "ấ": {
+      "code": "B5",
+      "width": 5,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "Ầ": {
+      "code": "B6",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "ầ": {
+      "code": "B7",
+      "width": 5,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "Ẩ": {
+      "code": "B8",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "ẩ": {
+      "code": "B9",
+      "width": 5,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "Ẫ": {
+      "code": "BA",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "ẫ": {
+      "code": "BB",
+      "width": 5,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "Ậ": {
+      "code": "BC",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "D": 2
+      }
+    },
+    "ậ": {
+      "code": "BD",
+      "width": 5,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "D": 2
+      }
+    },
+    "Ắ": {
+      "code": "BE",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "ắ": {
+      "code": "BF",
+      "width": 5,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "Ằ": {
+      "code": "C0",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "ằ": {
+      "code": "C1",
+      "width": 5,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "Ẳ": {
+      "code": "C2",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "ẳ": {
+      "code": "C3",
+      "width": 5,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "Ẵ": {
+      "code": "C4",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "ẵ": {
+      "code": "C5",
+      "width": 5,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "Ặ": {
+      "code": "C6",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "D": 2
+      }
+    },
+    "ặ": {
+      "code": "C7",
+      "width": 5,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "D": 2
+      }
+    },
+    "Ẹ": {
+      "code": "C8",
+      "width": 6,
+      "blank_pixel_gaps": {
+        "D": 2
+      }
+    },
+    "ẹ": {
+      "code": "C9",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "D": 2
+      }
+    },
+    "Ẻ": {
+      "code": "CA",
+      "width": 6,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "ẻ": {
+      "code": "CB",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Ẽ": {
+      "code": "CC",
+      "width": 6,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "ẽ": {
+      "code": "CD",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Ế": {
+      "code": "CE",
+      "width": 6,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "ế": {
+      "code": "CF",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "Ề": {
+      "code": "D0",
+      "width": 6,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "ề": {
+      "code": "D1",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "Ể": {
+      "code": "D2",
+      "width": 6,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "ể": {
+      "code": "D3",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "Ễ": {
+      "code": "D4",
+      "width": 6,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "ễ": {
+      "code": "D5",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "Ệ": {
+      "code": "D6",
+      "width": 6,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "D": 2
+      }
+    },
+    "ệ": {
+      "code": "D7",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "D": 2
+      }
+    },
+    "Ỉ": {
+      "code": "D8",
+      "width": 2,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "ỉ": {
+      "code": "D9",
+      "width": 2,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Ị": {
+      "code": "DA",
+      "width": 1,
+      "blank_pixel_gaps": {
+        "D": 2
+      }
+    },
+    "ị": {
+      "code": "DB",
+      "width": 1,
+      "blank_pixel_gaps": {
+        "D": 2
+      }
+    },
+    "Ọ": {
+      "code": "DC",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "D": 2
+      }
+    },
+    "ọ": {
+      "code": "DD",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "D": 2
+      }
+    },
+    "Ỏ": {
+      "code": "DE",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "ỏ": {
+      "code": "DF",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Ố": {
+      "code": "E0",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "ố": {
+      "code": "E1",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "Ồ": {
+      "code": "E2",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "ồ": {
+      "code": "E3",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "Ổ": {
+      "code": "E4",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "ổ": {
+      "code": "E5",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "Ỗ": {
+      "code": "E6",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "ỗ": {
+      "code": "E7",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "T": 1
+      }
+    },
+    "Ộ": {
+      "code": "E8",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "D": 2
+      }
+    },
+    "ộ": {
+      "code": "E9",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "S": 1,
+        "D": 2
+      }
+    },
+    "Ớ": {
+      "code": "EA",
+      "width": 8,
+      "blank_pixel_gaps": {
+        "T": 2
+      }
+    },
+    "ớ": {
+      "code": "EB",
+      "width": 6,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Ờ": {
+      "code": "EC",
+      "width": 8,
+      "blank_pixel_gaps": {
+        "T": 2
+      }
+    },
+    "ờ": {
+      "code": "ED",
+      "width": 6,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Ở": {
+      "code": "EE",
+      "width": 8,
+      "blank_pixel_gaps": {
+        "T": 2
+      }
+    },
+    "ở": {
+      "code": "EF",
+      "width": 6,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Ỡ": {
+      "code": "F0",
+      "width": 8,
+      "blank_pixel_gaps": {
+        "T": 2
+      }
+    },
+    "ỡ": {
+      "code": "F1",
+      "width": 6,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Ợ": {
+      "code": "F2",
+      "width": 8,
+      "blank_pixel_gaps": {
+        "D": 2
+      }
+    },
+    "ợ": {
+      "code": "F3",
+      "width": 6,
+      "blank_pixel_gaps": {
+        "D": 2
+      }
+    },
+    "Ụ": {
+      "code": "F4",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "D": 2
+      }
+    },
+    "ụ": {
+      "code": "F5",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "D": 2
+      }
+    },
+    "Ủ": {
+      "code": "F6",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "ủ": {
+      "code": "F7",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Ứ": {
+      "code": "F8",
+      "width": 8,
+      "blank_pixel_gaps": {
+        "T": 2
+      }
+    },
+    "ứ": {
+      "code": "F9",
+      "width": 6,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Ừ": {
+      "code": "FA",
+      "width": 8,
+      "blank_pixel_gaps": {
+        "T": 2
+      }
+    },
+    "ừ": {
+      "code": "FB",
+      "width": 6,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Ử": {
+      "code": "FC",
+      "width": 8,
+      "blank_pixel_gaps": {
+        "T": 2
+      }
+    },
+    "ử": {
+      "code": "FD",
+      "width": 6,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Ữ": {
+      "code": "FE",
+      "width": 8,
+      "blank_pixel_gaps": {
+        "T": 2
+      }
+    },
+    "ữ": {
+      "code": "FF",
+      "width": 6,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Ự": {
+      "code": "24",
+      "width": 8,
+      "blank_pixel_gaps": {
+        "D": 2
+      }
+    },
+    "ự": {
+      "code": "3D",
+      "width": 6,
+      "blank_pixel_gaps": {
+        "D": 2
+      }
+    },
+    "Ỳ": {
+      "code": "5B",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "T": 2
+      }
+    },
+    "ỳ": {
+      "code": "5C",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Ỵ": {
+      "code": "5D",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "D": 2
+      }
+    },
+    "ỵ": {
+      "code": "5E",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "D": 1
+      }
+    },
+    "Ỷ": {
+      "code": "5F",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "ỷ": {
+      "code": "60",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "Ỹ": {
+      "code": "7B",
+      "width": 7,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    },
+    "ỹ": {
+      "code": "7C",
+      "width": 4,
+      "blank_pixel_gaps": {
+        "T": 1
+      }
+    }
+  }
+}
