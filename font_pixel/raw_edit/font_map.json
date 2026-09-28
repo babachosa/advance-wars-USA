@@ -1,0 +1,1129 @@
+{
+  "format": "AW raw font atlas v1",
+  "rom": "Advance Wars (Vietnamese) Pixel Font.gba",
+  "rom_sha1": "413f4a40ca3941c2c1e5ab3b88ade1ea3aaebee1",
+  "image": "font_raw.png",
+  "cell": [
+    8,
+    16
+  ],
+  "columns": 16,
+  "characters": [
+    {
+      "index": 0,
+      "char": "A",
+      "code": "41",
+      "width": 7
+    },
+    {
+      "index": 1,
+      "char": "B",
+      "code": "42",
+      "width": 6
+    },
+    {
+      "index": 2,
+      "char": "C",
+      "code": "43",
+      "width": 7
+    },
+    {
+      "index": 3,
+      "char": "D",
+      "code": "44",
+      "width": 6
+    },
+    {
+      "index": 4,
+      "char": "E",
+      "code": "45",
+      "width": 6
+    },
+    {
+      "index": 5,
+      "char": "F",
+      "code": "46",
+      "width": 6
+    },
+    {
+      "index": 6,
+      "char": "G",
+      "code": "47",
+      "width": 7
+    },
+    {
+      "index": 7,
+      "char": "H",
+      "code": "48",
+      "width": 6
+    },
+    {
+      "index": 8,
+      "char": "I",
+      "code": "49",
+      "width": 1
+    },
+    {
+      "index": 9,
+      "char": "J",
+      "code": "4A",
+      "width": 6
+    },
+    {
+      "index": 10,
+      "char": "K",
+      "code": "4B",
+      "width": 6
+    },
+    {
+      "index": 11,
+      "char": "L",
+      "code": "4C",
+      "width": 6
+    },
+    {
+      "index": 12,
+      "char": "M",
+      "code": "4D",
+      "width": 7
+    },
+    {
+      "index": 13,
+      "char": "N",
+      "code": "4E",
+      "width": 6
+    },
+    {
+      "index": 14,
+      "char": "O",
+      "code": "4F",
+      "width": 7
+    },
+    {
+      "index": 15,
+      "char": "P",
+      "code": "50",
+      "width": 6
+    },
+    {
+      "index": 16,
+      "char": "Q",
+      "code": "51",
+      "width": 7
+    },
+    {
+      "index": 17,
+      "char": "R",
+      "code": "52",
+      "width": 6
+    },
+    {
+      "index": 18,
+      "char": "S",
+      "code": "53",
+      "width": 7
+    },
+    {
+      "index": 19,
+      "char": "T",
+      "code": "54",
+      "width": 7
+    },
+    {
+      "index": 20,
+      "char": "U",
+      "code": "55",
+      "width": 7
+    },
+    {
+      "index": 21,
+      "char": "V",
+      "code": "56",
+      "width": 7
+    },
+    {
+      "index": 22,
+      "char": "W",
+      "code": "57",
+      "width": 7
+    },
+    {
+      "index": 23,
+      "char": "X",
+      "code": "58",
+      "width": 7
+    },
+    {
+      "index": 24,
+      "char": "Y",
+      "code": "59",
+      "width": 7
+    },
+    {
+      "index": 25,
+      "char": "Z",
+      "code": "5A",
+      "width": 7
+    },
+    {
+      "index": 26,
+      "char": "a",
+      "code": "61",
+      "width": 5
+    },
+    {
+      "index": 27,
+      "char": "b",
+      "code": "62",
+      "width": 4
+    },
+    {
+      "index": 28,
+      "char": "c",
+      "code": "63",
+      "width": 4
+    },
+    {
+      "index": 29,
+      "char": "d",
+      "code": "64",
+      "width": 5
+    },
+    {
+      "index": 30,
+      "char": "e",
+      "code": "65",
+      "width": 4
+    },
+    {
+      "index": 31,
+      "char": "f",
+      "code": "66",
+      "width": 4
+    },
+    {
+      "index": 32,
+      "char": "g",
+      "code": "67",
+      "width": 4
+    },
+    {
+      "index": 33,
+      "char": "h",
+      "code": "68",
+      "width": 4
+    },
+    {
+      "index": 34,
+      "char": "i",
+      "code": "69",
+      "width": 1
+    },
+    {
+      "index": 35,
+      "char": "j",
+      "code": "6A",
+      "width": 3
+    },
+    {
+      "index": 36,
+      "char": "k",
+      "code": "6B",
+      "width": 4
+    },
+    {
+      "index": 37,
+      "char": "l",
+      "code": "6C",
+      "width": 1
+    },
+    {
+      "index": 38,
+      "char": "m",
+      "code": "6D",
+      "width": 5
+    },
+    {
+      "index": 39,
+      "char": "n",
+      "code": "6E",
+      "width": 4
+    },
+    {
+      "index": 40,
+      "char": "o",
+      "code": "6F",
+      "width": 4
+    },
+    {
+      "index": 41,
+      "char": "p",
+      "code": "70",
+      "width": 4
+    },
+    {
+      "index": 42,
+      "char": "q",
+      "code": "71",
+      "width": 4
+    },
+    {
+      "index": 43,
+      "char": "r",
+      "code": "72",
+      "width": 4
+    },
+    {
+      "index": 44,
+      "char": "s",
+      "code": "73",
+      "width": 4
+    },
+    {
+      "index": 45,
+      "char": "t",
+      "code": "74",
+      "width": 3
+    },
+    {
+      "index": 46,
+      "char": "u",
+      "code": "75",
+      "width": 4
+    },
+    {
+      "index": 47,
+      "char": "v",
+      "code": "76",
+      "width": 5
+    },
+    {
+      "index": 48,
+      "char": "w",
+      "code": "77",
+      "width": 5
+    },
+    {
+      "index": 49,
+      "char": "x",
+      "code": "78",
+      "width": 5
+    },
+    {
+      "index": 50,
+      "char": "y",
+      "code": "79",
+      "width": 4
+    },
+    {
+      "index": 51,
+      "char": "z",
+      "code": "7A",
+      "width": 5
+    },
+    {
+      "index": 52,
+      "char": "À",
+      "code": "84",
+      "width": 7
+    },
+    {
+      "index": 53,
+      "char": "Á",
+      "code": "85",
+      "width": 7
+    },
+    {
+      "index": 54,
+      "char": "Â",
+      "code": "86",
+      "width": 7
+    },
+    {
+      "index": 55,
+      "char": "Ã",
+      "code": "87",
+      "width": 7
+    },
+    {
+      "index": 56,
+      "char": "È",
+      "code": "88",
+      "width": 6
+    },
+    {
+      "index": 57,
+      "char": "É",
+      "code": "89",
+      "width": 6
+    },
+    {
+      "index": 58,
+      "char": "Ê",
+      "code": "8A",
+      "width": 6
+    },
+    {
+      "index": 59,
+      "char": "Ì",
+      "code": "8B",
+      "width": 2
+    },
+    {
+      "index": 60,
+      "char": "Í",
+      "code": "8C",
+      "width": 2
+    },
+    {
+      "index": 61,
+      "char": "Ò",
+      "code": "8D",
+      "width": 7
+    },
+    {
+      "index": 62,
+      "char": "Ó",
+      "code": "8E",
+      "width": 7
+    },
+    {
+      "index": 63,
+      "char": "Ô",
+      "code": "8F",
+      "width": 7
+    },
+    {
+      "index": 64,
+      "char": "Õ",
+      "code": "90",
+      "width": 7
+    },
+    {
+      "index": 65,
+      "char": "Ù",
+      "code": "91",
+      "width": 7
+    },
+    {
+      "index": 66,
+      "char": "Ú",
+      "code": "92",
+      "width": 7
+    },
+    {
+      "index": 67,
+      "char": "Ý",
+      "code": "93",
+      "width": 7
+    },
+    {
+      "index": 68,
+      "char": "à",
+      "code": "94",
+      "width": 5
+    },
+    {
+      "index": 69,
+      "char": "á",
+      "code": "95",
+      "width": 5
+    },
+    {
+      "index": 70,
+      "char": "â",
+      "code": "96",
+      "width": 5
+    },
+    {
+      "index": 71,
+      "char": "ã",
+      "code": "97",
+      "width": 5
+    },
+    {
+      "index": 72,
+      "char": "è",
+      "code": "98",
+      "width": 4
+    },
+    {
+      "index": 73,
+      "char": "é",
+      "code": "99",
+      "width": 4
+    },
+    {
+      "index": 74,
+      "char": "ê",
+      "code": "9A",
+      "width": 4
+    },
+    {
+      "index": 75,
+      "char": "ì",
+      "code": "9B",
+      "width": 2
+    },
+    {
+      "index": 76,
+      "char": "í",
+      "code": "9C",
+      "width": 2
+    },
+    {
+      "index": 77,
+      "char": "ò",
+      "code": "9D",
+      "width": 4
+    },
+    {
+      "index": 78,
+      "char": "ó",
+      "code": "9E",
+      "width": 4
+    },
+    {
+      "index": 79,
+      "char": "ô",
+      "code": "9F",
+      "width": 4
+    },
+    {
+      "index": 80,
+      "char": "õ",
+      "code": "A0",
+      "width": 4
+    },
+    {
+      "index": 81,
+      "char": "ù",
+      "code": "A1",
+      "width": 4
+    },
+    {
+      "index": 82,
+      "char": "ú",
+      "code": "A2",
+      "width": 4
+    },
+    {
+      "index": 83,
+      "char": "ý",
+      "code": "A3",
+      "width": 4
+    },
+    {
+      "index": 84,
+      "char": "Ă",
+      "code": "A4",
+      "width": 7
+    },
+    {
+      "index": 85,
+      "char": "ă",
+      "code": "A5",
+      "width": 5
+    },
+    {
+      "index": 86,
+      "char": "Đ",
+      "code": "A6",
+      "width": 6
+    },
+    {
+      "index": 87,
+      "char": "đ",
+      "code": "A7",
+      "width": 5
+    },
+    {
+      "index": 88,
+      "char": "Ĩ",
+      "code": "A8",
+      "width": 3
+    },
+    {
+      "index": 89,
+      "char": "ĩ",
+      "code": "A9",
+      "width": 3
+    },
+    {
+      "index": 90,
+      "char": "Ũ",
+      "code": "AA",
+      "width": 7
+    },
+    {
+      "index": 91,
+      "char": "ũ",
+      "code": "AB",
+      "width": 4
+    },
+    {
+      "index": 92,
+      "char": "Ơ",
+      "code": "AC",
+      "width": 8
+    },
+    {
+      "index": 93,
+      "char": "ơ",
+      "code": "AD",
+      "width": 6
+    },
+    {
+      "index": 94,
+      "char": "Ư",
+      "code": "AE",
+      "width": 8
+    },
+    {
+      "index": 95,
+      "char": "ư",
+      "code": "AF",
+      "width": 6
+    },
+    {
+      "index": 96,
+      "char": "Ạ",
+      "code": "B0",
+      "width": 7
+    },
+    {
+      "index": 97,
+      "char": "ạ",
+      "code": "B1",
+      "width": 5
+    },
+    {
+      "index": 98,
+      "char": "Ả",
+      "code": "B2",
+      "width": 7
+    },
+    {
+      "index": 99,
+      "char": "ả",
+      "code": "B3",
+      "width": 5
+    },
+    {
+      "index": 100,
+      "char": "Ấ",
+      "code": "B4",
+      "width": 7
+    },
+    {
+      "index": 101,
+      "char": "ấ",
+      "code": "B5",
+      "width": 5
+    },
+    {
+      "index": 102,
+      "char": "Ầ",
+      "code": "B6",
+      "width": 7
+    },
+    {
+      "index": 103,
+      "char": "ầ",
+      "code": "B7",
+      "width": 5
+    },
+    {
+      "index": 104,
+      "char": "Ẩ",
+      "code": "B8",
+      "width": 7
+    },
+    {
+      "index": 105,
+      "char": "ẩ",
+      "code": "B9",
+      "width": 5
+    },
+    {
+      "index": 106,
+      "char": "Ẫ",
+      "code": "BA",
+      "width": 7
+    },
+    {
+      "index": 107,
+      "char": "ẫ",
+      "code": "BB",
+      "width": 5
+    },
+    {
+      "index": 108,
+      "char": "Ậ",
+      "code": "BC",
+      "width": 7
+    },
+    {
+      "index": 109,
+      "char": "ậ",
+      "code": "BD",
+      "width": 5
+    },
+    {
+      "index": 110,
+      "char": "Ắ",
+      "code": "BE",
+      "width": 7
+    },
+    {
+      "index": 111,
+      "char": "ắ",
+      "code": "BF",
+      "width": 5
+    },
+    {
+      "index": 112,
+      "char": "Ằ",
+      "code": "C0",
+      "width": 7
+    },
+    {
+      "index": 113,
+      "char": "ằ",
+      "code": "C1",
+      "width": 5
+    },
+    {
+      "index": 114,
+      "char": "Ẳ",
+      "code": "C2",
+      "width": 7
+    },
+    {
+      "index": 115,
+      "char": "ẳ",
+      "code": "C3",
+      "width": 5
+    },
+    {
+      "index": 116,
+      "char": "Ẵ",
+      "code": "C4",
+      "width": 7
+    },
+    {
+      "index": 117,
+      "char": "ẵ",
+      "code": "C5",
+      "width": 5
+    },
+    {
+      "index": 118,
+      "char": "Ặ",
+      "code": "C6",
+      "width": 7
+    },
+    {
+      "index": 119,
+      "char": "ặ",
+      "code": "C7",
+      "width": 5
+    },
+    {
+      "index": 120,
+      "char": "Ẹ",
+      "code": "C8",
+      "width": 6
+    },
+    {
+      "index": 121,
+      "char": "ẹ",
+      "code": "C9",
+      "width": 4
+    },
+    {
+      "index": 122,
+      "char": "Ẻ",
+      "code": "CA",
+      "width": 6
+    },
+    {
+      "index": 123,
+      "char": "ẻ",
+      "code": "CB",
+      "width": 4
+    },
+    {
+      "index": 124,
+      "char": "Ẽ",
+      "code": "CC",
+      "width": 6
+    },
+    {
+      "index": 125,
+      "char": "ẽ",
+      "code": "CD",
+      "width": 4
+    },
+    {
+      "index": 126,
+      "char": "Ế",
+      "code": "CE",
+      "width": 6
+    },
+    {
+      "index": 127,
+      "char": "ế",
+      "code": "CF",
+      "width": 4
+    },
+    {
+      "index": 128,
+      "char": "Ề",
+      "code": "D0",
+      "width": 6
+    },
+    {
+      "index": 129,
+      "char": "ề",
+      "code": "D1",
+      "width": 4
+    },
+    {
+      "index": 130,
+      "char": "Ể",
+      "code": "D2",
+      "width": 6
+    },
+    {
+      "index": 131,
+      "char": "ể",
+      "code": "D3",
+      "width": 4
+    },
+    {
+      "index": 132,
+      "char": "Ễ",
+      "code": "D4",
+      "width": 6
+    },
+    {
+      "index": 133,
+      "char": "ễ",
+      "code": "D5",
+      "width": 4
+    },
+    {
+      "index": 134,
+      "char": "Ệ",
+      "code": "D6",
+      "width": 6
+    },
+    {
+      "index": 135,
+      "char": "ệ",
+      "code": "D7",
+      "width": 4
+    },
+    {
+      "index": 136,
+      "char": "Ỉ",
+      "code": "D8",
+      "width": 2
+    },
+    {
+      "index": 137,
+      "char": "ỉ",
+      "code": "D9",
+      "width": 2
+    },
+    {
+      "index": 138,
+      "char": "Ị",
+      "code": "DA",
+      "width": 1
+    },
+    {
+      "index": 139,
+      "char": "ị",
+      "code": "DB",
+      "width": 1
+    },
+    {
+      "index": 140,
+      "char": "Ọ",
+      "code": "DC",
+      "width": 7
+    },
+    {
+      "index": 141,
+      "char": "ọ",
+      "code": "DD",
+      "width": 4
+    },
+    {
+      "index": 142,
+      "char": "Ỏ",
+      "code": "DE",
+      "width": 7
+    },
+    {
+      "index": 143,
+      "char": "ỏ",
+      "code": "DF",
+      "width": 4
+    },
+    {
+      "index": 144,
+      "char": "Ố",
+      "code": "E0",
+      "width": 7
+    },
+    {
+      "index": 145,
+      "char": "ố",
+      "code": "E1",
+      "width": 4
+    },
+    {
+      "index": 146,
+      "char": "Ồ",
+      "code": "E2",
+      "width": 7
+    },
+    {
+      "index": 147,
+      "char": "ồ",
+      "code": "E3",
+      "width": 4
+    },
+    {
+      "index": 148,
+      "char": "Ổ",
+      "code": "E4",
+      "width": 7
+    },
+    {
+      "index": 149,
+      "char": "ổ",
+      "code": "E5",
+      "width": 4
+    },
+    {
+      "index": 150,
+      "char": "Ỗ",
+      "code": "E6",
+      "width": 7
+    },
+    {
+      "index": 151,
+      "char": "ỗ",
+      "code": "E7",
+      "width": 4
+    },
+    {
+      "index": 152,
+      "char": "Ộ",
+      "code": "E8",
+      "width": 7
+    },
+    {
+      "index": 153,
+      "char": "ộ",
+      "code": "E9",
+      "width": 4
+    },
+    {
+      "index": 154,
+      "char": "Ớ",
+      "code": "EA",
+      "width": 8
+    },
+    {
+      "index": 155,
+      "char": "ớ",
+      "code": "EB",
+      "width": 6
+    },
+    {
+      "index": 156,
+      "char": "Ờ",
+      "code": "EC",
+      "width": 8
+    },
+    {
+      "index": 157,
+      "char": "ờ",
+      "code": "ED",
+      "width": 6
+    },
+    {
+      "index": 158,
+      "char": "Ở",
+      "code": "EE",
+      "width": 8
+    },
+    {
+      "index": 159,
+      "char": "ở",
+      "code": "EF",
+      "width": 6
+    },
+    {
+      "index": 160,
+      "char": "Ỡ",
+      "code": "F0",
+      "width": 8
+    },
+    {
+      "index": 161,
+      "char": "ỡ",
+      "code": "F1",
+      "width": 6
+    },
+    {
+      "index": 162,
+      "char": "Ợ",
+      "code": "F2",
+      "width": 8
+    },
+    {
+      "index": 163,
+      "char": "ợ",
+      "code": "F3",
+      "width": 6
+    },
+    {
+      "index": 164,
+      "char": "Ụ",
+      "code": "F4",
+      "width": 7
+    },
+    {
+      "index": 165,
+      "char": "ụ",
+      "code": "F5",
+      "width": 4
+    },
+    {
+      "index": 166,
+      "char": "Ủ",
+      "code": "F6",
+      "width": 7
+    },
+    {
+      "index": 167,
+      "char": "ủ",
+      "code": "F7",
+      "width": 4
+    },
+    {
+      "index": 168,
+      "char": "Ứ",
+      "code": "F8",
+      "width": 8
+    },
+    {
+      "index": 169,
+      "char": "ứ",
+      "code": "F9",
+      "width": 6
+    },
+    {
+      "index": 170,
+      "char": "Ừ",
+      "code": "FA",
+      "width": 8
+    },
+    {
+      "index": 171,
+      "char": "ừ",
+      "code": "FB",
+      "width": 6
+    },
+    {
+      "index": 172,
+      "char": "Ử",
+      "code": "FC",
+      "width": 8
+    },
+    {
+      "index": 173,
+      "char": "ử",
+      "code": "FD",
+      "width": 6
+    },
+    {
+      "index": 174,
+      "char": "Ữ",
+      "code": "FE",
+      "width": 8
+    },
+    {
+      "index": 175,
+      "char": "ữ",
+      "code": "FF",
+      "width": 6
+    },
+    {
+      "index": 176,
+      "char": "Ự",
+      "code": "24",
+      "width": 8
+    },
+    {
+      "index": 177,
+      "char": "ự",
+      "code": "3D",
+      "width": 6
+    },
+    {
+      "index": 178,
+      "char": "Ỳ",
+      "code": "5B",
+      "width": 7
+    },
+    {
+      "index": 179,
+      "char": "ỳ",
+      "code": "5C",
+      "width": 4
+    },
+    {
+      "index": 180,
+      "char": "Ỵ",
+      "code": "5D",
+      "width": 7
+    },
+    {
+      "index": 181,
+      "char": "ỵ",
+      "code": "5E",
+      "width": 4
+    },
+    {
+      "index": 182,
+      "char": "Ỷ",
+      "code": "5F",
+      "width": 7
+    },
+    {
+      "index": 183,
+      "char": "ỷ",
+      "code": "60",
+      "width": 4
+    },
+    {
+      "index": 184,
+      "char": "Ỹ",
+      "code": "7B",
+      "width": 7
+    },
+    {
+      "index": 185,
+      "char": "ỹ",
+      "code": "7C",
+      "width": 4
+    }
+  ]
+}
